@@ -1,0 +1,21 @@
+"AA_1"	"AA_FULL"	"AA_3"	"MW"
+"S"	"Serine"	"Ser"	105.093
+"W"	"Tryptophan"	"Trp"	204.2262
+"H"	"Histidine"	"His"	155.1552
+"K"	"Lysine"	"Lys"	146.1882
+"M"	"Methionine"	"Met"	149.2124
+"A"	"Alanine"	"Ala"	89.0935
+"Y"	"Tyrosine"	"Tyr"	181.1894
+"D"	"Aspartic acid"	"Asp"	133.1032
+"C"	"Cysteine"	"Cys"	121.159
+"F"	"Phenylalanine"	"Phe"	165.19
+"Q"	"Glutamine"	"Gln"	146.1451
+"T"	"Threonine"	"Thr"	119.1197
+"N"	"Asparagine"	"Asn"	132.1184
+"L"	"Leucine"	"Leu"	131.1736
+"R"	"Arginine"	"Arg"	174.2017
+"V"	"Valine"	"Val"	117.1469
+"E"	"Glutamic acid"	"Glu"	147.1299
+"P"	"Proline"	"Pro"	115.131
+"I"	"Isoleucine"	"Ile"	131.1736
+"G"	"Glycine"	"Gly"	75.0669

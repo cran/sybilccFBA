@@ -1,0 +1,1675 @@
+met_id;name;formula;b
+10fthf[c];10-Formyltetrahydrofolate;C20H21N7O7;0
+12dgr120[c];1,2-Diacyl-sn-glycerol (didodecanoyl, n-C12:0);C27H52O5;0
+12dgr120[p];1,2-Diacyl-sn-glycerol (didodecanoyl, n-C12:0);C27H52O5;0
+12dgr140[c];1,2-Diacyl-sn-glycerol (ditetradecanoyl, n-C14:0);C31H60O5;0
+12dgr140[p];1,2-Diacyl-sn-glycerol (ditetradecanoyl, n-C14:0);C31H60O5;0
+12dgr141[c];1,2-Diacyl-sn-glycerol (ditetradec-7-enoyl, n-C14:1);C31H56O5;0
+12dgr141[p];1,2-Diacyl-sn-glycerol (ditetradec-7-enoyl, n-C14:1);C31H56O5;0
+12dgr160[c];1,2-Diacyl-sn-glycerol (dihexadecanoyl, n-C16:0);C35H68O5;0
+12dgr160[p];1,2-Diacyl-sn-glycerol (dihexadecanoyl, n-C16:0);C35H68O5;0
+12dgr161[c];1,2-Diacyl-sn-glycerol (dihexadec-9-enoyl, n-C16:1);C35H64O5;0
+12dgr161[p];1,2-Diacyl-sn-glycerol (dihexadec-9-enoyl, n-C16:1);C35H64O5;0
+12dgr180[c];1,2-Diacyl-sn-glycerol (dioctadecanoyl, n-C18:0);C39H76O5;0
+12dgr180[p];1,2-Diacyl-sn-glycerol (dioctadecanoyl, n-C18:0);C39H76O5;0
+12dgr181[c];1,2-Diacyl-sn-glycerol (dioctadec-11-enoyl, n-C18:1);C39H72O5;0
+12dgr181[p];1,2-Diacyl-sn-glycerol (dioctadec-11-enoyl, n-C18:1);C39H72O5;0
+12ppd-DASH-R[c];(R)-Propane-1,2-diol;C3H8O2;0
+12ppd-DASH-R[e];(R)-Propane-1,2-diol;C3H8O2;0
+12ppd-DASH-R[p];(R)-Propane-1,2-diol;C3H8O2;0
+12ppd-DASH-S[c];(S)-Propane-1,2-diol;C3H8O2;0
+12ppd-DASH-S[e];(S)-Propane-1,2-diol;C3H8O2;0
+12ppd-DASH-S[p];(S)-Propane-1,2-diol;C3H8O2;0
+13dpg[c];3-Phospho-D-glyceroyl phosphate;C3H4O10P2;0
+14glucan[c];1,4-alpha-D-glucan;C36H62O31;0
+14glucan[e];1,4-alpha-D-glucan;C36H62O31;0
+14glucan[p];1,4-alpha-D-glucan;C36H62O31;0
+15dap[c];1,5-Diaminopentane;C5H16N2;0
+15dap[e];1,5-Diaminopentane;C5H16N2;0
+15dap[p];1,5-Diaminopentane;C5H16N2;0
+1agpe120[p];1-Acyl-sn-glycero-3-phosphoethanolamine (n-C12:0);C17H36NO7P1;0
+1agpe140[p];1-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:0);C19H40NO7P1;0
+1agpe141[p];1-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:1);C19H38NO7P1;0
+1agpe160[p];1-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:0);C21H44NO7P1;0
+1agpe161[p];1-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:1);C21H42NO7P1;0
+1agpe180[p];1-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:0);C23H48NO7P1;0
+1agpe181[p];1-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:1);C23H46NO7P1;0
+1agpg120[p];1-Acyl-sn-glycero-3-phosphoglycerol (n-C12:0);C18H36O9P1;0
+1agpg140[p];1-Acyl-sn-glycero-3-phosphoglycerol (n-C14:0);C20H40O9P1;0
+1agpg141[p];1-Acyl-sn-glycero-3-phosphoglycerol (n-C14:1);C20H38O9P1;0
+1agpg160[p];1-Acyl-sn-glycero-3-phosphoglycerol (n-C16:0);C22H44O9P1;0
+1agpg161[p];1-Acyl-sn-glycero-3-phosphoglycerol (n-C16:1);C22H42O9P1;0
+1agpg180[p];1-Acyl-sn-glycero-3-phosphoglycerol (n-C18:0);C24H48O9P1;0
+1agpg181[p];1-Acyl-sn-glycero-3-phosphoglycerol (n-C18:1);C24H46O9P1;0
+1ddecg3p[c];1-dodecanoyl-sn-glycerol 3-phosphate;C15H29O7P1;0
+1ddecg3p[p];1-dodecanoyl-sn-glycerol 3-phosphate;C15H29O7P1;0
+1hdec9eg3p[c];1-hexadec-9-enoyl-sn-glycerol 3-phosphate;C19H35O7P1;0
+1hdec9eg3p[p];1-hexadec-9-enoyl-sn-glycerol 3-phosphate;C19H35O7P1;0
+1hdecg3p[c];1-hexadecanoyl-sn-glycerol 3-phosphate;C19H37O7P1;0
+1hdecg3p[p];1-hexadecanoyl-sn-glycerol 3-phosphate;C19H37O7P1;0
+1odec11eg3p[c];1-octadec-11-enoyl-sn-glycerol 3-phosphate;C21H39O7P1;0
+1odec11eg3p[p];1-octadec-11-enoyl-sn-glycerol 3-phosphate;C21H39O7P1;0
+1odecg3p[c];1-octadecanoyl-sn-glycerol 3-phosphate;C21H41O7P1;0
+1odecg3p[p];1-octadecanoyl-sn-glycerol 3-phosphate;C21H41O7P1;0
+1pyr5c[c];1-Pyrroline-5-carboxylate;C5H6NO2;0
+1tdec7eg3p[c];1-tetradec-7-enoyl-sn-glycerol 3-phosphate;C17H31O7P1;0
+1tdec7eg3p[p];1-tetradec-7-enoyl-sn-glycerol 3-phosphate;C17H31O7P1;0
+1tdecg3p[c];1-tetradecanoyl-sn-glycerol 3-phosphate;C17H33O7P1;0
+1tdecg3p[p];1-tetradecanoyl-sn-glycerol 3-phosphate;C17H33O7P1;0
+23camp[e];2',3'-Cyclic AMP;C10H11N5O6P;0
+23camp[p];2',3'-Cyclic AMP;C10H11N5O6P;0
+23ccmp[e];2',3'-Cyclic CMP;C9H11N3O7P;0
+23ccmp[p];2',3'-Cyclic CMP;C9H11N3O7P;0
+23cgmp[e];2',3'-Cyclic GMP;C10H11N5O7P;0
+23cgmp[p];2',3'-Cyclic GMP;C10H11N5O7P;0
+23cump[e];2',3'-Cyclic UMP;C9H10N2O8P;0
+23cump[p];2',3'-Cyclic UMP;C9H10N2O8P;0
+23dappa[c];2,3-diaminopropionate;C3H9N2O2;0
+23dappa[e];2,3-diaminopropionate;C3H9N2O2;0
+23dappa[p];2,3-diaminopropionate;C3H9N2O2;0
+23ddhb[c];2,3-Dihydro-2,3-dihydroxybenzoate;C7H7O4;0
+23dhb[c];2,3-Dihydroxybenzoate;C7H5O4;0
+23dhba[c];(2,3-Dihydroxybenzoyl)adenylate;C17H17N5O10P;0
+23dhbzs[c];2,3-dihydroxybenzoylserine;C10H10NO6;0
+23dhdp[c];2,3-Dihydrodipicolinate;C7H5NO4;0
+23dhmb[c];(R)-2,3-Dihydroxy-3-methylbutanoate;C5H9O4;0
+23dhmp[c];(R)-2,3-Dihydroxy-3-methylpentanoate;C6H11O4;0
+23doguln[c];2,3-Dioxo-L-gulonate;C6H7O7;0
+25aics[c];(S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate;C13H15N4O12P;0
+25dkglcn[c];2,5-diketo-D-gluconate;C6H7O7;0
+25drapp[c];2,5-Diamino-6-(ribosylamino)-4-(3H)-pyrimidinone 5'-phosphate;C9H14N5O8P;0
+26dap-DASH-LL[c];LL-2,6-Diaminoheptanedioate;C7H14N2O4;0
+26dap-DASH-M[c];meso-2,6-Diaminoheptanedioate;C7H14N2O4;0
+26dap-DASH-M[e];meso-2,6-Diaminoheptanedioate;C7H14N2O4;0
+26dap-DASH-M[p];meso-2,6-Diaminoheptanedioate;C7H14N2O4;0
+2agpe120[c];2-Acyl-sn-glycero-3-phosphoethanolamine (n-C12:0);C17H36NO7P1;0
+2agpe120[p];2-Acyl-sn-glycero-3-phosphoethanolamine (n-C12:0);C17H36NO7P1;0
+2agpe140[c];2-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:0);C19H40NO7P1;0
+2agpe140[p];2-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:0);C19H40NO7P1;0
+2agpe141[c];2-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:1);C19H38NO7P1;0
+2agpe141[p];2-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:1);C19H38NO7P1;0
+2agpe160[c];2-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:0);C21H44NO7P1;0
+2agpe160[p];2-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:0);C21H44NO7P1;0
+2agpe161[c];2-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:1);C21H42NO7P1;0
+2agpe161[p];2-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:1);C21H42NO7P1;0
+2agpe180[c];2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:0);C23H48NO7P1;0
+2agpe180[p];2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:0);C23H48NO7P1;0
+2agpe181[c];2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:1);C23H46NO7P1;0
+2agpe181[p];2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:1);C23H46NO7P1;0
+2agpg120[c];2-Acyl-sn-glycero-3-phosphoglycerol (n-C12:0);C18H36O9P1;0
+2agpg120[p];2-Acyl-sn-glycero-3-phosphoglycerol (n-C12:0);C18H36O9P1;0
+2agpg140[c];2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:0);C20H40O9P1;0
+2agpg140[p];2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:0);C20H40O9P1;0
+2agpg141[c];2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:1);C20H38O9P1;0
+2agpg141[p];2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:1);C20H38O9P1;0
+2agpg160[c];2-Acyl-sn-glycero-3-phosphoglycerol (n-C16:0);C22H44O9P1;0
+2agpg160[p];2-Acyl-sn-glycero-3-phosphoglycerol (n-C16:0);C22H44O9P1;0
+2agpg161[c];2-Acyl-sn-glycero-3-phosphoglycerol (n-C16:1);C22H42O9P1;0
+2agpg161[p];2-Acyl-sn-glycero-3-phosphoglycerol (n-C16:1);C22H42O9P1;0
+2agpg180[c];2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:0);C24H48O9P1;0
+2agpg180[p];2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:0);C24H48O9P1;0
+2agpg181[c];2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:1);C24H46O9P1;0
+2agpg181[p];2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:1);C24H46O9P1;0
+2ahbut[c];(S)-2-Aceto-2-hydroxybutanoate;C6H9O4;0
+2amsa[c];2-Aminomalonate semialdehyde;C3H5NO3;0
+2aobut[c];L-2-Amino-3-oxobutanoate;C4H7NO3;0
+2cpr5p[c];1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate;C12H13NO9P;0
+2dda7p[c];2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate;C7H10O10P;0
+2ddecg3p[c];2-dodecanoyl-sn-glycerol 3-phosphate;C15H30O7P1;0
+2ddecg3p[p];2-dodecanoyl-sn-glycerol 3-phosphate;C15H30O7P1;0
+2ddg6p[c];2-Dehydro-3-deoxy-D-gluconate 6-phosphate;C6H8O9P;0
+2ddglcn[c];2-Dehydro-3-deoxy-D-gluconate;C6H9O6;0
+2ddglcn[e];2-Dehydro-3-deoxy-D-gluconate;C6H9O6;0
+2ddglcn[p];2-Dehydro-3-deoxy-D-gluconate;C6H9O6;0
+2dh3dgal6p[c];2-Dehydro-3-deoxy-D-galactonate 6-phosphate;C6H8O9P;0
+2dh3dgal[c];2-Dehydro-3-deoxy-D-galactonate;C6H9O6;0
+2dhglcn[c];2-Dehydro-D-gluconate;C6H9O7;0
+2dhguln[c];2-Dehydro-L-gulonate;C6H9O7;0
+2dhp[c];2-Dehydropantoate;C6H9O4;0
+2dmmq8[c];2-Demethylmenaquinone 8;C50H70O2;0
+2dmmql8[c];2-Demethylmenaquinol 8;C50H72O2;0
+2dr1p[c];2-Deoxy-D-ribose 1-phosphate;C5H9O7P;0
+2dr5p[c];2-Deoxy-D-ribose 5-phosphate;C5H9O7P;0
+2h3oppan[c];2-Hydroxy-3-oxopropanoate;C3H3O4;0
+2hdec9eg3p[c];2-hexadec-9-enoyl-sn-glycerol 3-phosphate;C19H36O7P1;0
+2hdec9eg3p[p];2-hexadec-9-enoyl-sn-glycerol 3-phosphate;C19H36O7P1;0
+2hdecg3p[c];2-hexadecanoyl-sn-glycerol 3-phosphate;C19H38O7P1;0
+2hdecg3p[p];2-hexadecanoyl-sn-glycerol 3-phosphate;C19H38O7P1;0
+2ippm[c];2-Isopropylmaleate;C7H8O4;0
+2kmb[c];2-keto-4-methylthiobutyrate;C5H7O3S;0
+2mahmp[c];2-Methyl-4-amino-5-hydroxymethylpyrimidine diphosphate;C6H8N3O7P2;0
+2mcacn[c];cis-2-Methylaconitate;C7H5O6;0
+2mcit[c];2-Methylcitrate;C7H7O7;0
+2me4p[c];2-C-methyl-D-erythritol 4-phosphate;C5H11O7P;0
+2mecdp[c];2-C-methyl-D-erythritol 2,4-cyclodiphosphate;C5H10O9P2;0
+2obut[c];2-Oxobutanoate;C4H5O3;0
+2odec11eg3p[c];2-octadec-11-enoyl-sn-glycerol 3-phosphate;C21H40O7P1;0
+2odec11eg3p[p];2-octadec-11-enoyl-sn-glycerol 3-phosphate;C21H40O7P1;0
+2odecg3p[c];2-octadecanoyl-sn-glycerol 3-phosphate;C21H42O7P1;0
+2odecg3p[p];2-octadecanoyl-sn-glycerol 3-phosphate;C21H42O7P1;0
+2ohph[c];2-Octaprenyl-6-hydroxyphenol;C46H70O2;0
+2ombzl[c];2-Octaprenyl-6-methoxy-1,4-benzoquinol;C47H72O3;0
+2omhmbl[c];2-Octaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinol;C48H74O4;0
+2ommbl[c];2-Octaprenyl-3-methyl-6-methoxy- 1,4-benzoquinol;C48H74O3;0
+2omph[c];2-Octaprenyl-6-methoxyphenol;C47H72O2;0
+2oph[c];2-Octaprenylphenol;C46H70O;0
+2p4c2me[c];2-phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol;C14H22N3O17P3;0
+2pg[c];D-Glycerate 2-phosphate;C3H4O7P;0
+2pglyc[c];2-Phosphoglycolate;C2H2O6P;0
+2shchc[c];2-Succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate;C11H10O6;0
+2tdec7eg3p[c];2-tetradec-7-enoyl-sn-glycerol 3-phosphate;C17H32O7P1;0
+2tdec7eg3p[p];2-tetradec-7-enoyl-sn-glycerol 3-phosphate;C17H32O7P1;0
+2tdecg3p[c];2-tetradecanoyl-sn-glycerol 3-phosphate;C17H34O7P1;0
+2tdecg3p[p];2-tetradecanoyl-sn-glycerol 3-phosphate;C17H34O7P1;0
+2tpr3dpcoa[c];2'-(5''-triphosphoribosyl)-3'-dephospho-CoA;C26H40N7O26P5S;0
+34dhpac[e];3,4-Dihydroxyphenylacetaldehyde;C8H8O3;0
+34dhpac[p];3,4-Dihydroxyphenylacetaldehyde;C8H8O3;0
+34hpp[c];3-(4-Hydroxyphenyl)pyruvate;C9H7O4;0
+3amp[e];3'-AMP;C10H12N5O7P;0
+3amp[p];3'-AMP;C10H12N5O7P;0
+3c2hmp[c];3-Carboxy-2-hydroxy-4-methylpentanoate;C7H10O5;0
+3c3hmp[c];3-Carboxy-3-hydroxy-4-methylpentanoate;C7H10O5;0
+3c4mop[c];3-Carboxy-4-methyl-2-oxopentanoate;C7H8O5;0
+3cmp[e];3'-cmp;C9H12N3O8P;0
+3cmp[p];3'-cmp;C9H12N3O8P;0
+3dhguln[c];3-Dehydro-L-gulonate;C6H9O7;0
+3dhgulnp[c];3-keto-L-gulonate-6-phosphate;C6H8O10P;0
+3dhq[c];3-Dehydroquinate;C7H9O6;0
+3dhsk[c];3-Dehydroshikimate;C7H7O5;0
+3gmp[e];3'-GMP;C10H12N5O8P;0
+3gmp[p];3'-GMP;C10H12N5O8P;0
+3haACP[c];(3R)-3-Hydroxyacyl-[acyl-carrier protein];C15H27N2O9PRS;0
+3hbcoa[c];(S)-3-Hydroxybutanoyl-CoA;C25H38N7O18P3S;0
+3hcddec5eACP[c];(R)-3-hydroxy-cis-dodec-5-enoyl-[acyl-carrier protein];C23H41N2O9PRS;0
+3hcinnm[c];3-hydroxycinnamic acid;C9H7O3;0
+3hcinnm[e];3-hydroxycinnamic acid;C9H7O3;0
+3hcinnm[p];3-hydroxycinnamic acid;C9H7O3;0
+3hcmrs7eACP[c];(R)-3-hydroxy-cis-myristol-7-eoyl-[acyl-carrier protein];C25H45N2O9PRS;0
+3hcpalm9eACP[c];(R)-3-hydroxy-cis-palm-9-eoyl-[acyl-carrier protein];C27H49N2O9PRS;0
+3hcvac11eACP[c];(R)-3-hydroxy-cis-vacc-11-enoyl-[acyl-carrier protein];C29H53N2O9PRS;0
+3hdcoa[c];(S)-3-Hydroxydecanoyl-CoA;C31H50N7O18P3S;0
+3hddcoa[c];(S)-3-Hydroxydodecanoyl-CoA;C33H54N7O18P3S;0
+3hddecACP[c];(R)-3-Hydroxydodecanoyl-[acyl-carrier protein];C23H43N2O9PRS;0
+3hdecACP[c];(R)-3-Hydroxydecanoyl-[acyl-carrier protein];C21H39N2O9PRS;0
+3hhcoa[c];(S)-3-Hydroxyhexanoyl-CoA;C27H42N7O18P3S;0
+3hhdcoa[c];(S)-3-Hydroxyhexadecanoyl-CoA;C37H62N7O18P3S;0
+3hhexACP[c];(R)-3-Hydroxyhexanoyl-[acyl-carrier protein];C17H31N2O9PRS;0
+3hmrsACP[c];(R)-3-Hydroxytetradecanoyl-[acyl-carrier protein];C25H47N2O9PRS;0
+3hocoa[c];(S)-3-Hydroxyoctanoyl-CoA;C29H46N7O18P3S;0
+3hoctACP[c];(R)-3-Hydroxyoctanoyl-[acyl-carrier protein];C19H35N2O9PRS;0
+3hoctaACP[c];(R)-3-Hydroxyoctadecanoyl-[acyl-carrier protein];C29H55N2O9PRS;0
+3hodcoa[c];(S)-3-Hydroxyoctadecanoyl-CoA;C39H66N7O18P3S;0
+3hpalmACP[c];R-3-hydroxypalmitoyl-[acyl-carrier protein];C27H51N2O9PRS;0
+3hpppn[c];3-(3-hydroxy-phenyl)propionate;C9H9O3;0
+3hpppn[e];3-(3-hydroxy-phenyl)propionate;C9H9O3;0
+3hpppn[p];3-(3-hydroxy-phenyl)propionate;C9H9O3;0
+3htdcoa[c];(S)-3-Hydroxytetradecanoyl-CoA;C35H58N7O18P3S;0
+3ig3p[c];C'-(3-Indolyl)-glycerol 3-phosphate;C11H12NO6P;0
+3mob[c];3-Methyl-2-oxobutanoate;C5H7O3;0
+3mop[c];(S)-3-Methyl-2-oxopentanoate;C6H9O3;0
+3ocddec5eACP[c];3-oxo-cis-dodec-5-enoyl-[acyl-carrier protein];C23H39N2O9PRS;0
+3ocmrs7eACP[c];3-oxo-cis-myristol-7-eoyl-[acyl-carrier protein];C25H43N2O9PRS;0
+3ocpalm9eACP[c];3-oxo-cis-palm-9-eoyl-[acyl-carrier protein];C27H47N2O9PRS;0
+3ocvac11eACP[c];3-oxo-cis-vacc-11-enoyl-[acyl-carrier protein];C29H51N2O9PRS;0
+3odcoa[c];3-Oxodecanoyl-CoA;C31H48N7O18P3S;0
+3oddcoa[c];3-Oxododecanoyl-CoA;C33H52N7O18P3S;0
+3oddecACP[c];3-Oxododecanoyl-[acyl-carrier protein];C23H41N2O9PRS;0
+3odecACP[c];3-Oxodecanoyl-[acyl-carrier protein];C21H37N2O9PRS;0
+3ohcoa[c];3-Oxohexanoyl-CoA;C27H40N7O18P3S;0
+3ohdcoa[c];3-Oxohexadecanoyl-CoA;C37H60N7O18P3S;0
+3ohexACP[c];3-Oxohexanoyl-[acyl-carrier protein];C17H29N2O9PRS;0
+3omrsACP[c];3-Oxotetradecanoyl-[acyl-carrier protein];C25H45N2O9PRS;0
+3oocoa[c];3-Oxooctanoyl-CoA;C29H44N7O18P3S;0
+3ooctACP[c];3-Oxooctanoyl-[acyl-carrier protein];C19H33N2O9PRS;0
+3ooctdACP[c];3-Oxooctadecanoyl-[acyl-carrier protein];C29H53N2O9PRS;0
+3oodcoa[c];3-Oxooctadecanoyl-CoA;C39H64N7O18P3S;0
+3opalmACP[c];3-Oxohexadecanoyl-[acyl-carrier protein];C27H49N2O9PRS;0
+3ophb[c];3-Octaprenyl-4-hydroxybenzoate;C47H69O3;0
+3otdcoa[c];3-Oxotetradecanoyl-CoA;C35H56N7O18P3S;0
+3pg[c];3-Phospho-D-glycerate;C3H4O7P;0
+3php[c];3-Phosphohydroxypyruvate;C3H2O7P;0
+3psme[c];5-O-(1-Carboxyvinyl)-3-phosphoshikimate;C10H9O10P;0
+3sala[c];3-Sulfino-L-alanine;C3H5NO4S;0
+3ump[e];3'-UMP;C9H11N2O9P;0
+3ump[p];3'-UMP;C9H11N2O9P;0
+4abut[c];4-Aminobutanoate;C4H9NO2;0
+4abut[e];4-Aminobutanoate;C4H9NO2;0
+4abut[p];4-Aminobutanoate;C4H9NO2;0
+4abutn[c];4-Aminobutanal;C4H10NO;0
+4abz[c];4-Aminobenzoate;C7H6NO2;0
+4adcho[c];4-amino-4-deoxychorismate;C10H10NO5;0
+4ahmmp[c];4-Amino-5-hydroxymethyl-2-methylpyrimidine;C6H9N3O;0
+4ampm[c];4-Amino-2-methyl-5-phosphomethylpyrimidine;C6H8N3O4P;0
+4c2me[c];4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol;C14H23N3O14P2;0
+4h2opntn[c];4-Hydroxy-2-oxopentanoate;C5H7O4;0
+4hba[c];4-Hydroxy-benzyl alcohol;C7H8O2;0
+4hbz[c];4-Hydroxybenzoate;C7H5O3;0
+4hoxpacd[e];4-Hydroxyphenylacetaldehyde;C8H8O2;0
+4hoxpacd[p];4-Hydroxyphenylacetaldehyde;C8H8O2;0
+4hthr[c];4-Hydroxy-L-threonine;C4H9NO4;0
+4mhetz[c];4-Methyl-5-(2-hydroxyethyl)-thiazole;C6H9NOS;0
+4mop[c];4-Methyl-2-oxopentanoate;C6H9O3;0
+4mpetz[c];4-Methyl-5-(2-phosphoethyl)-thiazole;C6H8NO4PS;0
+4pasp[c];4-Phospho-L-aspartate;C4H6NO7P;0
+4per[c];4-Phospho-D-erythronate;C4H6O8P;0
+4ppan[c];D-4'-Phosphopantothenate;C9H15NO8P;0
+4ppcys[c];N-((R)-4-Phosphopantothenoyl)-L-cysteine;C12H20N2O9PS;0
+4r5au[c];4-(1-D-Ribitylamino)-5-aminouracil;C9H16N4O6;0
+5aizc[c];5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate;C9H11N3O9P;0
+5aop[c];5-Amino-4-oxopentanoate;C5H9NO3;0
+5aprbu[c];5-Amino-6-(5'-phosphoribitylamino)uracil;C9H15N4O9P;0
+5apru[c];5-Amino-6-(5'-phosphoribosylamino)uracil;C9H13N4O9P;0
+5caiz[c];5-phosphoribosyl-5-carboxyaminoimidazole;C9H11N3O9P;0
+5dglcn[c];5-Dehydro-D-gluconate;C6H9O7;0
+5dglcn[e];5-Dehydro-D-gluconate;C6H9O7;0
+5dglcn[p];5-Dehydro-D-gluconate;C6H9O7;0
+5dh4dglc[c];5-Dehydro-4-deoxy-D-glucarate;C6H6O7;0
+5drib[c];5'-deoxyribose;C5H10O4;0
+5mdr1p[c];5-Methylthio-5-deoxy-D-ribose 1-phosphate;C6H11O7PS;0
+5mdru1p[c];5-Methylthio-5-deoxy-D-ribulose 1-phosphate;C6H11O7PS;0
+5mta[c];5-Methylthioadenosine;C11H15N5O3S;0
+5mthf[c];5-Methyltetrahydrofolate;C20H24N7O6;0
+5mtr[c];5-Methylthio-D-ribose;C6H12O4S;0
+5prdmbz[c];N1-(5-Phospho-alpha-D-ribosyl)-5,6-dimethylbenzimidazole;C14H17N2O7P;0
+6hmhpt[c];6-hydroxymethyl dihydropterin;C7H9N5O2;0
+6hmhptpp[c];6-hydroxymethyl-dihydropterin pyrophosphate;C7H8N5O8P2;0
+6pgc[c];6-Phospho-D-gluconate;C6H10O10P;0
+6pgl[c];6-phospho-D-glucono-1,5-lactone;C6H9O9P;0
+8aonn[c];8-Amino-7-oxononanoate;C9H17NO3;0
+ACP[c];acyl carrier protein;C11H21N2O7PRS;0
+LalaDgluMdapDala[c];L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine;C18H30N5O9;0
+LalaDgluMdapDala[e];L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine;C18H30N5O9;0
+LalaDgluMdapDala[p];L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine;C18H30N5O9;0
+LalaDgluMdap[c];L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate;C15H25N4O8;0
+LalaDgluMdap[e];L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate;C15H25N4O8;0
+LalaDgluMdap[p];L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate;C15H25N4O8;0
+LalaDglu[c];L-alanine-D-glutamate;C8H13N2O5;0
+LalaLglu[c];L-alanine-L-glutamate;C8H13N2O5;0
+N1aspmd[c];N1-Acetylspermidine;C9H23N3O;0
+Nmtrp[c];N-Methyltryptophan;C12H14N2O2;0
+Sfglutth[c];S-Formylglutathione;C11H16N3O7S;0
+aacald[c];Aminoacetaldehyde;C2H6NO;0
+aacoa[c];Acetoacetyl-CoA;C25H36N7O18P3S;0
+aact[c];Aminoacetone;C3H8NO;0
+acACP[c];Acetyl-ACP;C13H23N2O8PRS;0
+ac[c];Acetate;C2H3O2;0
+ac[e];Acetate;C2H3O2;0
+ac[p];Acetate;C2H3O2;0
+acac[c];Acetoacetate;C4H5O3;0
+acac[e];Acetoacetate;C4H5O3;0
+acac[p];Acetoacetate;C4H5O3;0
+acald[c];Acetaldehyde;C2H4O;0
+acald[e];Acetaldehyde;C2H4O;0
+acald[p];Acetaldehyde;C2H4O;0
+acanth[c];N-Acetylanthranilate;C9H8NO3;0
+accoa[c];Acetyl-CoA;C23H34N7O17P3S;0
+acetol[c];Acetol;C3H6O2;0
+acg5p[c];N-Acetyl-L-glutamyl 5-phosphate;C7H9NO8P;0
+acg5sa[c];N-Acetyl-L-glutamate 5-semialdehyde;C7H10NO4;0
+acgal1p[e];N-Acetyl-D-galactosamine 1-phosphate;C8H14NO9P;0
+acgal1p[p];N-Acetyl-D-galactosamine 1-phosphate;C8H14NO9P;0
+acgal[e];N-Acetyl-D-galactosamine;C8H15NO6;0
+acgal[p];N-Acetyl-D-galactosamine;C8H15NO6;0
+acgam1p[c];N-Acetyl-D-glucosamine 1-phosphate;C8H14NO9P;0
+acgam1p[e];N-Acetyl-D-glucosamine 1-phosphate;C8H14NO9P;0
+acgam1p[p];N-Acetyl-D-glucosamine 1-phosphate;C8H14NO9P;0
+acgam6p[c];N-Acetyl-D-glucosamine 6-phosphate;C8H14NO9P;0
+acgam[c];N-Acetyl-D-glucosamine;C8H15NO6;0
+acgam[e];N-Acetyl-D-glucosamine;C8H15NO6;0
+acgam[p];N-Acetyl-D-glucosamine;C8H15NO6;0
+acglc-DASH-D[c];6-Acetyl-D-glucose;C8H14O7;0
+acglu[c];N-Acetyl-L-glutamate;C7H9NO5;0
+acmalt[c];Acetyl-maltose;C14H24O12;0
+acmana[c];N-Acetyl-D-mannosamine;C8H15NO6;0
+acmana[e];N-Acetyl-D-mannosamine;C8H15NO6;0
+acmana[p];N-Acetyl-D-mannosamine;C8H15NO6;0
+acmanap[c];N-Acetyl-D-mannosamine 6-phosphate;C8H14NO9P;0
+acmum6p[c];N-acetylmuramate 6-phosphate;C11H17NO11P;0
+acmum[e];N-Acetylmuramate;C11H18NO8;0
+acmum[p];N-Acetylmuramate;C11H18NO8;0
+acnam[c];N-Acetylneuraminate;C11H18NO9;0
+acnam[e];N-Acetylneuraminate;C11H18NO9;0
+acnam[p];N-Acetylneuraminate;C11H18NO9;0
+acolipa[e];4-Amino-4-deoxy-L-arabinose modified core oligosaccharide lipid A;C181H314N3O103P4;0
+acolipa[p];4-Amino-4-deoxy-L-arabinose modified core oligosaccharide lipid A;C181H314N3O103P4;0
+acon-DASH-C[c];cis-Aconitate;C6H3O6;0
+acon-DASH-T[c];trans-Aconitate;C6H3O6;0
+aconm[c];E-3-carboxy-2-pentenedioate 6-methyl ester;C7H6O6;0
+acorn[c];N2-Acetyl-L-ornithine;C7H14N2O3;0
+acser[c];O-Acetyl-L-serine;C5H9NO4;0
+acser[e];O-Acetyl-L-serine;C5H9NO4;0
+acser[p];O-Acetyl-L-serine;C5H9NO4;0
+actACP[c];Acetoacetyl-ACP;C15H25N2O9PRS;0
+actp[c];Acetyl phosphate;C2H3O5P;0
+ade[c];Adenine;C5H5N5;0
+ade[e];Adenine;C5H5N5;0
+ade[p];Adenine;C5H5N5;0
+adn[c];Adenosine;C10H13N5O4;0
+adn[e];Adenosine;C10H13N5O4;0
+adn[p];Adenosine;C10H13N5O4;0
+adocbi[c];Adenosyl cobinamide;C58H84CoN16O11;0
+adocbip[c];Adenosyl cobinamide phosphate;C58H83CoN16O14P;0
+adocbl[c];Adenosylcobalamin;C72H100CoN18O17P;0
+adocbl[e];Adenosylcobalamin;C72H100CoN18O17P;0
+adocbl[p];Adenosylcobalamin;C72H100CoN18O17P;0
+adp[c];ADP;C10H12N5O10P2;0
+adpglc[c];ADPglucose;C16H23N5O15P2;0
+adphep-DASH-DD[c];ADP-D-glycero-D-manno-heptose;C17H25N5O16P2;0
+adphep-DASH-LD[c];ADP-L-glycero-D-manno-heptose;C17H25N5O16P2;0
+adprib[c];ADPribose;C15H21N5O14P2;0
+ag[c];silver;Ag;0
+ag[e];silver;Ag;0
+agdpcbi[c];Adenosine-GDP-cobinamide;C68H95CoN21O21P2;0
+agm[c];Agmatine;C5H16N4;0
+agm[e];Agmatine;C5H16N4;0
+agm[p];Agmatine;C5H16N4;0
+ahcys[c];S-Adenosyl-L-homocysteine;C14H20N6O5S;0
+ahdt[c];2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)dihydropteridine triphosphate;C9H12N5O13P3;0
+aicar[c];5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide;C9H13N4O8P;0
+air[c];5-amino-1-(5-phospho-D-ribosyl)imidazole;C8H12N3O7P;0
+akg[c];2-Oxoglutarate;C5H4O5;0
+akg[e];2-Oxoglutarate;C5H4O5;0
+akg[p];2-Oxoglutarate;C5H4O5;0
+ala-DASH-B[c];beta-Alanine;C3H7NO2;0
+ala-DASH-B[e];beta-Alanine;C3H7NO2;0
+ala-DASH-B[p];beta-Alanine;C3H7NO2;0
+ala-DASH-D[c];D-Alanine;C3H7NO2;0
+ala-DASH-D[e];D-Alanine;C3H7NO2;0
+ala-DASH-D[p];D-Alanine;C3H7NO2;0
+ala-DASH-L[c];L-Alanine;C3H7NO2;0
+ala-DASH-L[e];L-Alanine;C3H7NO2;0
+ala-DASH-L[p];L-Alanine;C3H7NO2;0
+alaala[c];D-Alanyl-D-alanine;C6H12N2O3;0
+alaala[e];D-Alanyl-D-alanine;C6H12N2O3;0
+alaala[p];D-Alanyl-D-alanine;C6H12N2O3;0
+alac-DASH-S[c];(S)-2-Acetolactate;C5H7O4;0
+alatrna[c];L-Alanyl-tRNA(Ala);C3H6NOR;0
+all6p[c];D-Allose 6-phosphate;C6H11O9P;0
+all-DASH-D[c];D-Allose;C6H12O6;0
+all-DASH-D[e];D-Allose;C6H12O6;0
+all-DASH-D[p];D-Allose;C6H12O6;0
+alltn[c];Allantoin;C4H6N4O3;0
+alltn[e];Allantoin;C4H6N4O3;0
+alltn[p];Allantoin;C4H6N4O3;0
+alltt[c];Allantoate;C4H7N4O4;0
+allul6p[c];Allulose 6-phosphate;C6H11O9P;0
+alpp[p];applipoprotein;X;0
+altrn[c];D-Altronate;C6H11O7;0
+amet[c];S-Adenosyl-L-methionine;C15H23N6O5S;0
+ametam[c];S-Adenosylmethioninamine;C14H24N6O3S;0
+amob[c];S-Adenosyl-4-methylthio-2-oxobutanoate;C15H19N5O6S;0
+amp[c];AMP;C10H12N5O7P;0
+amp[e];AMP;C10H12N5O7P;0
+amp[p];AMP;C10H12N5O7P;0
+anhgm3p[c];N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide;C34H52N6O19;0
+anhgm3p[p];N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide;C34H52N6O19;0
+anhgm4p[c];N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide;C37H57N7O20;0
+anhgm4p[p];N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide;C37H57N7O20;0
+anhgm[c];N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid;C19H29N2O12;0
+anhgm[e];N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid;C19H29N2O12;0
+anhgm[p];N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid;C19H29N2O12;0
+anhm3p[c];1,6-anhydrous-N-Acetylmuramyl-tripeptide;C26H39N5O14;0
+anhm4p[c];1,6-anhydrous-N-Acetylmuramyl-tetrapeptide;C29H44N6O15;0
+anhm[c];1,6-anhydrous-N-Acetylmuramate;C11H16NO7;0
+anth[c];Anthranilate;C7H6NO2;0
+ap4a[c];P1,P4-Bis(5'-adenosyl) tetraphosphate;C20H24N10O19P4;0
+ap5a[c];P1,P5-Bis(5'-adenosyl) pentaphosphate;C20H24N10O22P5;0
+apg120[c];acyl phosphatidylglycerol (n-C12:0);C42H80O11P;0
+apg140[c];acyl phosphatidylglycerol (n-C14:0);C48H92O11P;0
+apg141[c];acyl phosphatidylglycerol (n-C14:1);C48H86O11P;0
+apg160[c];acyl phosphatidylglycerol (n-C16:0);C54H104O11P;0
+apg161[c];acyl phosphatidylglycerol (n-C16:1);C54H98O11P;0
+apg180[c];acyl phosphatidylglycerol (n-C18:0);C60H116O11P;0
+apg181[c];acyl phosphatidylglycerol (n-C18:1);C60H110O11P;0
+apoACP[c];apoprotein [acyl carrier protein];RHO;0
+aps[c];Adenosine 5'-phosphosulfate;C10H12N5O10PS;0
+ara5p[c];D-Arabinose 5-phosphate;C5H9O8P;0
+arab-DASH-L[c];L-Arabinose;C5H10O5;0
+arab-DASH-L[e];L-Arabinose;C5H10O5;0
+arab-DASH-L[p];L-Arabinose;C5H10O5;0
+aragund[c];O-acetyl-rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate;C71H115N1O17P2;0
+arbt6p[c];Arbutin 6-phosphate;C12H15O10P;0
+arbtn-DASH-fe3[c];Aerobactin;C22H33FeN4O13;0
+arbtn-DASH-fe3[e];Aerobactin;C22H33FeN4O13;0
+arbtn-DASH-fe3[p];Aerobactin;C22H33FeN4O13;0
+arbtn[c];aerobactin minus Fe3;C22H33N4O13;0
+arbtn[e];aerobactin minus Fe3;C22H33N4O13;0
+arbtn[p];aerobactin minus Fe3;C22H33N4O13;0
+arg-DASH-L[c];L-Arginine;C6H15N4O2;0
+arg-DASH-L[e];L-Arginine;C6H15N4O2;0
+arg-DASH-L[p];L-Arginine;C6H15N4O2;0
+argsuc[c];N(omega)-(L-Arginino)succinate;C10H17N4O6;0
+argtrna[c];L-Arginyl-tRNA(Arg);C6H14N4OR;0
+ascb6p[c];L-ascorbate-6-phosphate;C6H7O9P;0
+ascb-DASH-L[e];L-Ascorbate;C6H8O6;0
+ascb-DASH-L[p];L-Ascorbate;C6H8O6;0
+asn-DASH-L[c];L-Asparagine;C4H8N2O3;0
+asn-DASH-L[e];L-Asparagine;C4H8N2O3;0
+asn-DASH-L[p];L-Asparagine;C4H8N2O3;0
+asntrna[c];L-Asparaginyl-tRNA(Asn);C14H23N2O12PR2;0
+aso3[c];arsenite;AsO3;0
+aso3[e];arsenite;AsO3;0
+aso3[p];arsenite;AsO3;0
+aso4[c];arsenate;AsO4;0
+asp-DASH-L[c];L-Aspartate;C4H6NO4;0
+asp-DASH-L[e];L-Aspartate;C4H6NO4;0
+asp-DASH-L[p];L-Aspartate;C4H6NO4;0
+aspsa[c];L-Aspartate 4-semialdehyde;C4H7NO3;0
+asptrna[c];L-Aspartyl-tRNA(Asp);C4H5NO3R;0
+athr-DASH-L[c];L-Allo-threonine;C4H9NO3;0
+atp[c];ATP;C10H12N5O13P3;0
+b2coa[c];Crotonoyl-CoA;C25H36N7O17P3S;0
+bbtcoa[c];gamma-butyrobetainyl-CoA;C28H46N8O17P3S;0
+betald[c];Betaine aldehyde;C5H12NO;0
+bglycogen[c];branching glycogen;C6H10O5;0
+btal[c];Butanal;C4H8O;0
+btcoa[c];Butanoyl-CoA;C25H38N7O17P3S;0
+btn[c];Biotin;C10H15N2O3S;0
+btnso[c];d-biotin d-sulfoxide;C10H15N2O4S;0
+but2eACP[c];But-2-enoyl-[acyl-carrier protein];C15H25N2O8PRS;0
+butACP[c];Butyryl-ACP (n-C4:0ACP);C15H27N2O8PRS;0
+but[c];Butyrate (n-C4:0);C4H7O2;0
+but[e];Butyrate (n-C4:0);C4H7O2;0
+but[p];Butyrate (n-C4:0);C4H7O2;0
+butso3[c];butanesulfonate;C4H9O3S;0
+butso3[e];butanesulfonate;C4H9O3S;0
+butso3[p];butanesulfonate;C4H9O3S;0
+ca2[c];Calcium;Ca;0
+ca2[e];Calcium;Ca;0
+ca2[p];Calcium;Ca;0
+camp[c];cAMP;C10H11N5O6P;0
+cbasp[c];N-Carbamoyl-L-aspartate;C5H6N2O5;0
+cbi[c];Cobinamide;C48H72CoN11O8;0
+cbi[e];Cobinamide;C48H72CoN11O8;0
+cbi[p];Cobinamide;C48H72CoN11O8;0
+cbl1[c];Cob(I)alamin;C62H88CoN13O14P;0
+cbl1[e];Cob(I)alamin;C62H88CoN13O14P;0
+cbl1[p];Cob(I)alamin;C62H88CoN13O14P;0
+cbp[c];Carbamoyl phosphate;CH2NO5P;0
+cd2[c];Cadmium;Cd;0
+cd2[e];Cadmium;Cd;0
+cd2[p];Cadmium;Cd;0
+cddec5eACP[c];cis-dodec-5-enoyl-[acyl-carrier protein] (n-C12:1);C23H41N2O8PRS;0
+cdec3eACP[c];cis-dec-3-enoyl-[acyl-carrier protein] (n-C10:1);C21H37N2O8PRS;0
+cdp[c];CDP;C9H12N3O11P2;0
+cdpdddecg[c];CDP-1,2-didodecanoylglycerol;C36H63N3O15P2;0
+cdpdhdec9eg[c];CDP-1,2-dihexadec-9-enoylglycerol;C44H75N3O15P2;0
+cdpdhdecg[c];CDP-1,2-dihexadecanoylglycerol;C44H79N3O15P2;0
+cdpdodec11eg[c];CDP-1,2-dioctadec-11-enoylglycerol;C48H83N3O15P2;0
+cdpdodecg[c];CDP-1,2-dioctadecanoylglycerol;C48H87N3O15P2;0
+cdpdtdec7eg[c];CDP-1,2-ditetradec-7-enoylglycerol;C40H67N3O15P2;0
+cdpdtdecg[c];CDP-1,2-ditetradecanoylglycerol;C40H71N3O15P2;0
+cechddd[c];cis-3-(3-carboxyethyl)-3,5-cyclohexadiene-1,2-diol;C9H11O4;0
+cenchddd[c];cis-3-(3-carboxyethenyl)-3,5-cyclohexadiene-1,2-diol;C9H9O4;0
+cgly[c];Cys-Gly;C5H10N2O3S;0
+cgly[e];Cys-Gly;C5H10N2O3S;0
+cgly[p];Cys-Gly;C5H10N2O3S;0
+chol[c];Choline;C5H14NO;0
+chol[e];Choline;C5H14NO;0
+chol[p];Choline;C5H14NO;0
+chor[c];chorismate;C10H8O6;0
+cinnm[c];trans-Cinnamate;C9H7O2;0
+cit[c];Citrate;C6H5O7;0
+cit[e];Citrate;C6H5O7;0
+cit[p];Citrate;C6H5O7;0
+citr-DASH-L[c];L-Citrulline;C6H13N3O3;0
+ckdo[c];CMP-3-deoxy-D-manno-octulosonate;C17H24N3O15P;0
+cl[c];Chloride;Cl;0
+cl[e];Chloride;Cl;0
+cl[p];Chloride;Cl;0
+clpn120[p];cardiolipin (tetradodecanoyl, n-C12:0);C57H108O17P2;0
+clpn140[p];cardiolipin (tetratetradecanoyl, n-C14:0);C65H124O17P2;0
+clpn141[p];cardiolipin (tetratetradec-7-enoyl, n-C14:1);C65H116O17P2;0
+clpn160[p];cardiolipin (tetrahexadecanoyl, n-C16:0);C73H140O17P2;0
+clpn161[p];cardiolipin (tetrahexadec-9-enoyl, n-C16:1);C73H132O17P2;0
+clpn180[p];cardiolipin (tetraoctadecanoyl, n-C18:0);C81H156O17P2;0
+clpn181[p];cardiolipin (tetraoctadec-11-enoyl, n-C18:1);C81H148O17P2;0
+cmp[c];CMP;C9H12N3O8P;0
+cmp[e];CMP;C9H12N3O8P;0
+cmp[p];CMP;C9H12N3O8P;0
+co2[c];CO2;CO2;0
+co2[e];CO2;CO2;0
+co2[p];CO2;CO2;0
+coa[c];Coenzyme A;C21H32N7O16P3S;0
+cobalt2[c];Co2+;Co;0
+cobalt2[e];Co2+;Co;0
+cobalt2[p];Co2+;Co;0
+colipa[c];core oligosaccharide lipid A;C176H303N2O100P4;0
+colipa[e];core oligosaccharide lipid A;C176H303N2O100P4;0
+colipa[p];core oligosaccharide lipid A;C176H303N2O100P4;0
+cpe160[c];cyclopropane phosphatidylethanolamine (dihexadec-9,10-cyclo-anoyl, n-C16:0 cyclo);C39H74N1O8P1;0
+cpe180[c];cyclopropane phosphatidylethanolamine (dioctadec-11,12-cyclo-anoyl, n-C18:0 cyclo);C43H82N1O8P1;0
+cpg160[c];cyclopropane phosphatidylglycerol (dihexadec-9,10-cyclo-anoyl, n-C16:0 cyclo);C40H74O10P1;0
+cpg180[c];cyclopropane phosphatidylglycerol (dioctadec-11,12-cyclo-anoyl, n-C18:0 cyclo);C44H82O10P1;0
+cpgn-DASH-un[c];coprogen unloaded (no Fe(III));C35H52N6O13;0
+cpgn-DASH-un[e];coprogen unloaded (no Fe(III));C35H52N6O13;0
+cpgn-DASH-un[p];coprogen unloaded (no Fe(III));C35H52N6O13;0
+cpgn[c];coprogen;C35H52N6O13Fe;0
+cpgn[e];coprogen;C35H52N6O13Fe;0
+cpgn[p];coprogen;C35H52N6O13Fe;0
+cpppg3[c];Coproporphyrinogen III;C36H40N4O8;0
+crnDcoa[c];D-carnitinyl-CoA;C28H46N8O18P3S;0
+crn-DASH-D[c];D-Carnitine;C7H15NO3;0
+crn-DASH-D[p];D-Carnitine;C7H15NO3;0
+crn[c];L-Carnitine;C7H15NO3;0
+crn[e];L-Carnitine;C7H15NO3;0
+crn[p];L-Carnitine;C7H15NO3;0
+crncoa[c];L-Carnitinyl-CoA;C28H46N8O18P3S;0
+csn[c];Cytosine;C4H5N3O;0
+csn[e];Cytosine;C4H5N3O;0
+csn[p];Cytosine;C4H5N3O;0
+ctbt[c];crotonobetaine;C7H13NO2;0
+ctbt[p];crotonobetaine;C7H13NO2;0
+ctbtcoa[c];crotonobetainyl-CoA;C28H44N8O17P3S;0
+ctp[c];CTP;C9H12N3O14P3;0
+cu2[c];Cu2+;Cu;0
+cu2[e];Cu2+;Cu;0
+cu2[p];Cu2+;Cu;0
+cu[c];Cu+;Cu;0
+cu[e];Cu+;Cu;0
+cu[p];Cu+;Cu;0
+cyan[c];Hydrogen cyanide;CHN;0
+cyan[e];Hydrogen cyanide;CHN;0
+cyan[p];Hydrogen cyanide;CHN;0
+cynt[c];Cyanate;CNO;0
+cynt[e];Cyanate;CNO;0
+cynt[p];Cyanate;CNO;0
+cys-DASH-D[c];D-Cysteine;C3H7NO2S;0
+cys-DASH-D[e];D-Cysteine;C3H7NO2S;0
+cys-DASH-D[p];D-Cysteine;C3H7NO2S;0
+cys-DASH-L[c];L-Cysteine;C3H7NO2S;0
+cys-DASH-L[e];L-Cysteine;C3H7NO2S;0
+cys-DASH-L[p];L-Cysteine;C3H7NO2S;0
+cyst-DASH-L[c];L-Cystathionine;C7H14N2O4S;0
+cystrna[c];L-Cysteinyl-tRNA(Cys);C3H6NOSR;0
+cytd[c];Cytidine;C9H13N3O5;0
+cytd[e];Cytidine;C9H13N3O5;0
+cytd[p];Cytidine;C9H13N3O5;0
+dad-DASH-2[c];Deoxyadenosine;C10H13N5O3;0
+dad-DASH-2[e];Deoxyadenosine;C10H13N5O3;0
+dad-DASH-2[p];Deoxyadenosine;C10H13N5O3;0
+dad-DASH-5[c];5'-Deoxyadenosine;C10H13N5O3;0
+dadp[c];dADP;C10H12N5O9P2;0
+damp[c];dAMP;C10H12N5O6P;0
+damp[e];dAMP;C10H12N5O6P;0
+damp[p];dAMP;C10H12N5O6P;0
+dann[c];7,8-Diaminononanoate;C9H21N2O2;0
+datp[c];dATP;C10H12N5O12P3;0
+db4p[c];3,4-dihydroxy-2-butanone 4-phosphate;C4H7O6P;0
+dc2coa[c];trans-Dec-2-enoyl-CoA;C31H48N7O17P3S;0
+dcaACP[c];Decanoyl-ACP (n-C10:0ACP);C21H39N2O8PRS;0
+dca[c];Decanoate (n-C10:0);C10H19O2;0
+dca[e];Decanoate (n-C10:0);C10H19O2;0
+dca[p];Decanoate (n-C10:0);C10H19O2;0
+dcacoa[c];Decanoyl-CoA (n-C10:0CoA);C31H50N7O17P3S;0
+dcamp[c];N6-(1,2-Dicarboxyethyl)-AMP;C14H14N5O11P;0
+dcdp[c];dCDP;C9H12N3O10P2;0
+dcmp[c];dCMP;C9H12N3O7P;0
+dcmp[e];dCMP;C9H12N3O7P;0
+dcmp[p];dCMP;C9H12N3O7P;0
+dctp[c];dCTP;C9H12N3O13P3;0
+dcyt[c];Deoxycytidine;C9H13N3O4;0
+dcyt[e];Deoxycytidine;C9H13N3O4;0
+dcyt[p];Deoxycytidine;C9H13N3O4;0
+dd2coa[c];trans-Dodec-2-enoyl-CoA;C33H52N7O17P3S;0
+ddcaACP[c];Dodecanoyl-ACP (n-C12:0ACP);C23H43N2O8PRS;0
+ddca[c];Dodecanoate (n-C12:0);C12H23O2;0
+ddca[e];Dodecanoate (n-C12:0);C12H23O2;0
+ddca[p];Dodecanoate (n-C12:0);C12H23O2;0
+ddcacoa[c];Dodecanoyl-CoA (n-C12:0CoA);C33H54N7O17P3S;0
+dgdp[c];dGDP;C10H12N5O10P2;0
+dgmp[c];dGMP;C10H12N5O7P;0
+dgmp[e];dGMP;C10H12N5O7P;0
+dgmp[p];dGMP;C10H12N5O7P;0
+dgsn[c];Deoxyguanosine;C10H13N5O4;0
+dgsn[e];Deoxyguanosine;C10H13N5O4;0
+dgsn[p];Deoxyguanosine;C10H13N5O4;0
+dgtp[c];dGTP;C10H12N5O13P3;0
+dha[c];Dihydroxyacetone;C3H6O3;0
+dha[e];Dihydroxyacetone;C3H6O3;0
+dha[p];Dihydroxyacetone;C3H6O3;0
+dhap[c];Dihydroxyacetone phosphate;C3H5O6P;0
+dhcinnm[c];2,3-dihydroxicinnamic acid;C9H7O4;0
+dhf[c];7,8-Dihydrofolate;C19H19N7O6;0
+dhmptp[c];dihydromonapterin-triphosphate;C9H12N5O13P3;0
+dhna[c];1,4-Dihydroxy-2-naphthoate;C11H7O4;0
+dhnpt[c];Dihydroneopterin;C9H13N5O4;0
+dhor-DASH-S[c];(S)-Dihydroorotate;C5H5N2O4;0
+dhpmp[c];Dihydroneopterin monophosphate;C9H12N5O7P;0
+dhpppn[c];3-(2,3-Dihydroxyphenyl)propanoate;C9H9O4;0
+dhpt[c];Dihydropteroate;C14H13N6O3;0
+dhptd[c];4,5-dihydroxy-2,3-pentanedione;C5H8O4;0
+didp[c];dIDP;C10H11N4O10P2;0
+dimp[c];dIMP;C10H11N4O7P;0
+dimp[e];dIMP;C10H11N4O7P;0
+dimp[p];dIMP;C10H11N4O7P;0
+din[c];Deoxyinosine;C10H12N4O4;0
+din[e];Deoxyinosine;C10H12N4O4;0
+din[p];Deoxyinosine;C10H12N4O4;0
+ditp[c];dITP;C10H11N4O13P3;0
+dkmpp[c];2,3-diketo-5-methylthio-1-phosphopentane;C6H9O6PS;0
+dmbzid[c];5,6-Dimethylbenzimidazole;C9H10N2;0
+dmlz[c];6,7-Dimethyl-8-(1-D-ribityl)lumazine;C13H18N4O6;0
+dmpp[c];Dimethylallyl diphosphate;C5H9O7P2;0
+dms[c];Dimethyl sulfide;C2H6S;0
+dms[e];Dimethyl sulfide;C2H6S;0
+dms[p];Dimethyl sulfide;C2H6S;0
+dmso[c];Dimethyl sulfoxide;C2H6OS;0
+dmso[e];Dimethyl sulfoxide;C2H6OS;0
+dmso[p];Dimethyl sulfoxide;C2H6OS;0
+dnad[c];Deamino-NAD+;C21H24N6O15P2;0
+dopa[e];Dopamine;C8H12NO2;0
+dopa[p];Dopamine;C8H12NO2;0
+dpcoa[c];Dephospho-CoA;C21H33N7O13P2S;0
+dsbaox[p];periplasmic protein disulfide isomerase I (oxidized);X;0
+dsbard[p];periplasmic protein disulfide isomerase I (reduced);XH2;0
+dsbcox[p];protein disulfide isomerase II (oxidized);X;0
+dsbcrd[p];protein disulfide isomerase II (reduced);XH2;0
+dsbdox[c];fused thiol:disulfide interchange protein (oxidized);X;0
+dsbdrd[c];fused thiol:disulfide interchange protein (reduced);XH2;0
+dsbgox[p];periplasmic disulfide isomerase/thiol-disulphide oxidase (oxidized);X;0
+dsbgrd[p];periplasmic disulfide isomerase/thiol-disulphide oxidase (reduced);XH2;0
+dscl[c];dihydrosirohydrochlorin;C42H41N4O16;0
+dtbt[c];Dethiobiotin;C10H17N2O3;0
+dtdp4aaddg[c];dTDP-4-acetamido-4,6-dideoxy-D-galactose;C18H27N3O15P2;0
+dtdp4addg[c];dTDP-4-amino-4,6-dideoxy-D-galactose;C16H26N3O14P2;0
+dtdp4d6dg[c];dTDP-4-dehydro-6-deoxy-D-glucose;C16H22N2O15P2;0
+dtdp4d6dm[c];dTDP-4-dehydro-6-deoxy-L-mannose;C16H22N2O15P2;0
+dtdp[c];dTDP;C10H13N2O11P2;0
+dtdpglu[c];dTDPglucose;C16H24N2O16P2;0
+dtdprmn[c];dTDP-L-rhamnose;C16H24N2O15P2;0
+dtmp[c];dTMP;C10H13N2O8P;0
+dtmp[e];dTMP;C10H13N2O8P;0
+dtmp[p];dTMP;C10H13N2O8P;0
+dttp[c];dTTP;C10H13N2O14P3;0
+dudp[c];dUDP;C9H11N2O11P2;0
+dump[c];dUMP;C9H11N2O8P;0
+dump[e];dUMP;C9H11N2O8P;0
+dump[p];dUMP;C9H11N2O8P;0
+duri[c];Deoxyuridine;C9H12N2O5;0
+duri[e];Deoxyuridine;C9H12N2O5;0
+duri[p];Deoxyuridine;C9H12N2O5;0
+dutp[c];dUTP;C9H11N2O14P3;0
+dxyl5p[c];1-deoxy-D-xylulose 5-phosphate;C5H9O7P;0
+dxyl[c];1-deoxy-D-xylulose;C5H10O4;0
+e4p[c];D-Erythrose 4-phosphate;C4H7O7P;0
+eca2und[p];(enterobacterial common antigen)x2 undecaprenyl-diphosphate;C103H162N6O37P2;0
+eca3und[p];(enterobacterial common antigen)x3 undecaprenyl-diphosphate;C127H198N9O52P2;0
+eca4colipa[e];(enterobacterial common antigen)x4 core oligosaccharide lipid A;C272H447N14O160P4;0
+eca4colipa[p];(enterobacterial common antigen)x4 core oligosaccharide lipid A;C272H447N14O160P4;0
+eca4und[p];(enterobacterial common antigen)x4 undecaprenyl-diphosphate;C151H234N12O67P2;0
+eig3p[c];D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate;C6H9N2O6P;0
+enlipa[e];phosphoethanolamine KDO(2)-lipid (A);C112H202N3O42P3;0
+enlipa[p];phosphoethanolamine KDO(2)-lipid (A);C112H202N3O42P3;0
+enter[c];Enterochelin;C30H27N3O15;0
+enter[e];Enterochelin;C30H27N3O15;0
+enter[p];Enterochelin;C30H27N3O15;0
+etha[c];Ethanolamine;C2H8NO;0
+etha[e];Ethanolamine;C2H8NO;0
+etha[p];Ethanolamine;C2H8NO;0
+ethso3[c];ethanesulfonate;C2H5O3S;0
+ethso3[e];ethanesulfonate;C2H5O3S;0
+ethso3[p];ethanesulfonate;C2H5O3S;0
+etoh[c];Ethanol;C2H6O;0
+etoh[e];Ethanol;C2H6O;0
+etoh[p];Ethanol;C2H6O;0
+f1p[c];D-Fructose 1-phosphate;C6H11O9P;0
+f6p[c];D-Fructose 6-phosphate;C6H11O9P;0
+f6p[e];D-Fructose 6-phosphate;C6H11O9P;0
+f6p[p];D-Fructose 6-phosphate;C6H11O9P;0
+fad[c];Flavin adenine dinucleotide oxidized;C27H31N9O15P2;0
+fadh2[c];Flavin adenine dinucleotide reduced;C27H33N9O15P2;0
+fald[c];Formaldehyde;CH2O;0
+fald[e];Formaldehyde;CH2O;0
+fald[p];Formaldehyde;CH2O;0
+fc1p[c];L-Fuculose 1-phosphate;C6H11O8P;0
+fcl-DASH-L[c];L-fuculose;C6H12O5;0
+fdp[c];D-Fructose 1,6-bisphosphate;C6H10O12P2;0
+fe2[c];Fe2+;Fe;0
+fe2[e];Fe2+;Fe;0
+fe2[p];Fe2+;Fe;0
+fe3[c];Fe3+;Fe;0
+fe3[e];Fe3+;Fe;0
+fe3[p];Fe3+;Fe;0
+fe3dcit[e];Fe(III)dicitrate;C12H10FeO14;0
+fe3dcit[p];Fe(III)dicitrate;C12H10FeO14;0
+fe3dhbzs[c];ferric 2,3-dihydroxybenzoylserine;C10H10NO6Fe;0
+fe3dhbzs[e];ferric 2,3-dihydroxybenzoylserine;C10H10NO6Fe;0
+fe3dhbzs[p];ferric 2,3-dihydroxybenzoylserine;C10H10NO6Fe;0
+fe3hox-DASH-un[c];Fe(III)hydoxamate, unloaded;C9H18O6N3;0
+fe3hox-DASH-un[e];Fe(III)hydoxamate, unloaded;C9H18O6N3;0
+fe3hox-DASH-un[p];Fe(III)hydoxamate, unloaded;C9H18O6N3;0
+fe3hox[c];Fe(III)hydroxamate;C9H18O6N3Fe;0
+fe3hox[e];Fe(III)hydroxamate;C9H18O6N3Fe;0
+fe3hox[p];Fe(III)hydroxamate;C9H18O6N3Fe;0
+fecrm-DASH-un[c];Ferrichrome minus Fe(III);C27H42N9O12;0
+fecrm-DASH-un[e];Ferrichrome minus Fe(III);C27H42N9O12;0
+fecrm-DASH-un[p];Ferrichrome minus Fe(III);C27H42N9O12;0
+fecrm[c];Ferrichrome;C27H42FeN9O12;0
+fecrm[e];Ferrichrome;C27H42FeN9O12;0
+fecrm[p];Ferrichrome;C27H42FeN9O12;0
+feenter[c];Fe-enterobactin;C30H27FeN3O15;0
+feenter[e];Fe-enterobactin;C30H27FeN3O15;0
+feenter[p];Fe-enterobactin;C30H27FeN3O15;0
+feoxam-DASH-un[c];ferroxamine minus Fe(3);C25H46N6O8;0
+feoxam-DASH-un[e];ferroxamine minus Fe(3);C25H46N6O8;0
+feoxam-DASH-un[p];ferroxamine minus Fe(3);C25H46N6O8;0
+feoxam[c];ferroxamine;C25H46FeN6O8;0
+feoxam[e];ferroxamine;C25H46FeN6O8;0
+feoxam[p];ferroxamine;C25H46FeN6O8;0
+fgam[c];N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide;C8H13N2O9P;0
+fldox[c];flavodoxin (oxidized);X;0
+fldrd[c];flavodoxin (reduced);XH2;0
+fmettrna[c];N-Formylmethionyl-tRNA;C6H9NO2SR;0
+fmn[c];FMN;C17H19N4O9P;0
+fmnh2[c];Reduced FMN;C17H21N4O9P;0
+for[c];Formate;CH1O2;0
+for[e];Formate;CH1O2;0
+for[p];Formate;CH1O2;0
+fpram[c];2-(Formamido)-N1-(5-phospho-D-ribosyl)acetamidine;C8H15N3O8P;0
+fprica[c];5-Formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide;C10H13N4O9P;0
+frdp[c];Farnesyl diphosphate;C15H25O7P2;0
+fru[c];D-Fructose;C6H12O6;0
+fru[e];D-Fructose;C6H12O6;0
+fru[p];D-Fructose;C6H12O6;0
+frulys[c];fructoselysine;C12H25N2O7;0
+frulys[e];fructoselysine;C12H25N2O7;0
+frulys[p];fructoselysine;C12H25N2O7;0
+frulysp[c];fructoselysine Phosphate;C12H24N2O10P;0
+fruur[c];D-Fructuronate;C6H9O7;0
+fruur[e];D-Fructuronate;C6H9O7;0
+fruur[p];D-Fructuronate;C6H9O7;0
+fuc-DASH-L[c];L-Fucose;C6H12O5;0
+fuc-DASH-L[e];L-Fucose;C6H12O5;0
+fuc-DASH-L[p];L-Fucose;C6H12O5;0
+fum[c];Fumarate;C4H2O4;0
+fum[e];Fumarate;C4H2O4;0
+fum[p];Fumarate;C4H2O4;0
+g1p[c];D-Glucose 1-phosphate;C6H11O9P;0
+g1p[e];D-Glucose 1-phosphate;C6H11O9P;0
+g1p[p];D-Glucose 1-phosphate;C6H11O9P;0
+g3p[c];Glyceraldehyde 3-phosphate;C3H5O6P;0
+g3pc[c];sn-Glycero-3-phosphocholine;C8H20NO6P;0
+g3pc[e];sn-Glycero-3-phosphocholine;C8H20NO6P;0
+g3pc[p];sn-Glycero-3-phosphocholine;C8H20NO6P;0
+g3pe[c];sn-Glycero-3-phosphoethanolamine;C5H14NO6P;0
+g3pe[e];sn-Glycero-3-phosphoethanolamine;C5H14NO6P;0
+g3pe[p];sn-Glycero-3-phosphoethanolamine;C5H14NO6P;0
+g3pg[c];Glycerophosphoglycerol;C6H14O8P;0
+g3pg[e];Glycerophosphoglycerol;C6H14O8P;0
+g3pg[p];Glycerophosphoglycerol;C6H14O8P;0
+g3pi[c];sn-Glycero-3-phospho-1-inositol;C9H18O11P;0
+g3pi[e];sn-Glycero-3-phospho-1-inositol;C9H18O11P;0
+g3pi[p];sn-Glycero-3-phospho-1-inositol;C9H18O11P;0
+g3ps[c];Glycerophosphoserine;C6H13NO8P;0
+g3ps[e];Glycerophosphoserine;C6H13NO8P;0
+g3ps[p];Glycerophosphoserine;C6H13NO8P;0
+g6p[c];D-Glucose 6-phosphate;C6H11O9P;0
+g6p[e];D-Glucose 6-phosphate;C6H11O9P;0
+g6p[p];D-Glucose 6-phosphate;C6H11O9P;0
+gagicolipa[c];galactosyl-glucosyl-inner core oligosaccharide lipid A;C157H271N2O84P4;0
+gal1p[c];alpha-D-Galactose 1-phosphate;C6H11O9P;0
+gal1p[e];alpha-D-Galactose 1-phosphate;C6H11O9P;0
+gal1p[p];alpha-D-Galactose 1-phosphate;C6H11O9P;0
+gal-DASH-bD[e];beta D-Galactose;C6H12O6;0
+gal-DASH-bD[p];beta D-Galactose;C6H12O6;0
+gal[c];D-Galactose;C6H12O6;0
+gal[e];D-Galactose;C6H12O6;0
+gal[p];D-Galactose;C6H12O6;0
+galct-DASH-D[c];D-Galactarate;C6H8O8;0
+galct-DASH-D[e];D-Galactarate;C6H8O8;0
+galct-DASH-D[p];D-Galactarate;C6H8O8;0
+galctn-DASH-D[c];D-Galactonate;C6H11O7;0
+galctn-DASH-D[e];D-Galactonate;C6H11O7;0
+galctn-DASH-D[p];D-Galactonate;C6H11O7;0
+galctn-DASH-L[c];L-Galactonate;C6H11O7;0
+galctn-DASH-L[e];L-Galactonate;C6H11O7;0
+galctn-DASH-L[p];L-Galactonate;C6H11O7;0
+galt1p[c];Galactitol 1-phosphate;C6H13O9P;0
+galt[e];Galactitol;C6H14O6;0
+galt[p];Galactitol;C6H14O6;0
+galur[c];D-Galacturonate;C6H9O7;0
+galur[e];D-Galacturonate;C6H9O7;0
+galur[p];D-Galacturonate;C6H9O7;0
+gam1p[c];D-Glucosamine 1-phosphate;C6H13NO8P;0
+gam6p[c];D-Glucosamine 6-phosphate;C6H13NO8P;0
+gam6p[e];D-Glucosamine 6-phosphate;C6H13NO8P;0
+gam6p[p];D-Glucosamine 6-phosphate;C6H13NO8P;0
+gam[e];D-Glucosamine;C6H14NO5;0
+gam[p];D-Glucosamine;C6H14NO5;0
+gar[c];N1-(5-Phospho-D-ribosyl)glycinamide;C7H14N2O8P;0
+garagund[c];glucosyl-O-acetyl-rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate;C77H125N1O22P2;0
+gbbtn[c];gamma-butyrobetaine;C7H15NO2;0
+gbbtn[e];gamma-butyrobetaine;C7H15NO2;0
+gbbtn[p];gamma-butyrobetaine;C7H15NO2;0
+gcald[c];Glycolaldehyde;C2H4O2;0
+gdp[c];GDP;C10H12N5O11P2;0
+gdp[e];GDP;C10H12N5O11P2;0
+gdp[p];GDP;C10H12N5O11P2;0
+gdpddman[c];GDP-4-dehydro-6-deoxy-D-mannose;C16H21N5O15P2;0
+gdpfuc[c];GDP-L-fucose;C16H23N5O15P2;0
+gdpmann[c];GDP-D-mannose;C16H23N5O16P2;0
+gdpofuc[c];GDP-4-oxo-L-fucose;C16H21N5O15P2;0
+gdptp[c];Guanosine 3'-diphosphate 5'-triphosphate;C10H11N5O20P5;0
+gfgaragund[c];galactofuranosyl-glucosyl-O-acetyl-rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate;C83H135N1O27P2;0
+gg4abut[c];gamma-glutamyl-gamma aminobutyric acid;C9H15O5N2;0
+ggagicolipa[c];glucosyl-galactosyl-glucosyl-inner core oligosaccharide lipid A;C163H281N2O89P4;0
+ggbutal[c];gamma-glutamyl-gamma-butyraldehyde;C9H16O4N2;0
+gggagicolipa[c];glucosyl-glucosyl-galactosyl-glucosyl-inner core oligosaccharide lipid A;C169H291N2O94P4;0
+ggptrc[c];gamma-glutamyl-putrescine;C9H20O3N3;0
+gicolipa[c];glucosyl-inner core oligosaccharide lipid A;C151H261N2O79P4;0
+glc-DASH-D[c];D-Glucose;C6H12O6;0
+glc-DASH-D[e];D-Glucose;C6H12O6;0
+glc-DASH-D[p];D-Glucose;C6H12O6;0
+glcn[c];D-Gluconate;C6H11O7;0
+glcn[e];D-Gluconate;C6H11O7;0
+glcn[p];D-Gluconate;C6H11O7;0
+glcr[c];D-Glucarate;C6H8O8;0
+glcr[e];D-Glucarate;C6H8O8;0
+glcr[p];D-Glucarate;C6H8O8;0
+glcur1p[e];D-Glucuronate 1-phosphate;C6H8O10P;0
+glcur1p[p];D-Glucuronate 1-phosphate;C6H8O10P;0
+glcur[c];D-Glucuronate;C6H9O7;0
+glcur[e];D-Glucuronate;C6H9O7;0
+glcur[p];D-Glucuronate;C6H9O7;0
+gln-DASH-L[c];L-Glutamine;C5H10N2O3;0
+gln-DASH-L[e];L-Glutamine;C5H10N2O3;0
+gln-DASH-L[p];L-Glutamine;C5H10N2O3;0
+glntrna[c];L-Glutaminyl-tRNA(Gln);C5H9N2O2R;0
+glu1sa[c];L-Glutamate 1-semialdehyde;C5H9NO3;0
+glu5p[c];L-Glutamate 5-phosphate;C5H8NO7P;0
+glu5sa[c];L-Glutamate 5-semialdehyde;C5H9NO3;0
+glu-DASH-D[c];D-Glutamate;C5H8NO4;0
+glu-DASH-L[c];L-Glutamate;C5H8NO4;0
+glu-DASH-L[e];L-Glutamate;C5H8NO4;0
+glu-DASH-L[p];L-Glutamate;C5H8NO4;0
+glucys[c];gamma-L-Glutamyl-L-cysteine;C8H13N2O5S;0
+glutrna[c];L-Glutamyl-tRNA(Glu);C5H7NO3R;0
+glx[c];Glyoxylate;C2H1O3;0
+gly[c];Glycine;C2H5NO2;0
+gly[e];Glycine;C2H5NO2;0
+gly[p];Glycine;C2H5NO2;0
+glyald[c];D-Glyceraldehyde;C3H6O3;0
+glyald[e];D-Glyceraldehyde;C3H6O3;0
+glyald[p];D-Glyceraldehyde;C3H6O3;0
+glyb[c];Glycine betaine;C5H11NO2;0
+glyb[e];Glycine betaine;C5H11NO2;0
+glyb[p];Glycine betaine;C5H11NO2;0
+glyc2p[e];Glycerol 2-phosphate;C3H7O6P;0
+glyc2p[p];Glycerol 2-phosphate;C3H7O6P;0
+glyc3p[c];Glycerol 3-phosphate;C3H7O6P;0
+glyc3p[e];Glycerol 3-phosphate;C3H7O6P;0
+glyc3p[p];Glycerol 3-phosphate;C3H7O6P;0
+glyc-DASH-R[c];(R)-Glycerate;C3H5O4;0
+glyc-DASH-R[e];(R)-Glycerate;C3H5O4;0
+glyc-DASH-R[p];(R)-Glycerate;C3H5O4;0
+glyc[c];Glycerol;C3H8O3;0
+glyc[e];Glycerol;C3H8O3;0
+glyc[p];Glycerol;C3H8O3;0
+glyclt[c];Glycolate;C2H3O3;0
+glyclt[e];Glycolate;C2H3O3;0
+glyclt[p];Glycolate;C2H3O3;0
+glycogen[c];glycogen;C6H10O5;0
+glytrna[c];Glycyl-tRNA(Gly);C2H4NOR;0
+gmhep17bp[c];D-Glycero-D-manno-heptose 1,7-bisphosphate;C7H12O13P2;0
+gmhep1p[c];D-Glycero-D-manno-heptose 1-phosphate;C7H13O10P;0
+gmhep7p[c];D-Glycero-D-manno-heptose 7-phosphate;C7H13O10P;0
+gmp[c];GMP;C10H12N5O8P;0
+gmp[e];GMP;C10H12N5O8P;0
+gmp[p];GMP;C10H12N5O8P;0
+gp4g[c];P1,P4-Bis(5'-guanosyl) tetraphosphate;C20H24N10O21P4;0
+grdp[c];Geranyl diphosphate;C10H17O7P2;0
+grxox[c];glutaredoxin (oxidized);X;0
+grxrd[c];glutaredoxin (reduced);XH2;0
+gsn[c];Guanosine;C10H13N5O5;0
+gsn[e];Guanosine;C10H13N5O5;0
+gsn[p];Guanosine;C10H13N5O5;0
+gthox[c];Oxidized glutathione;C20H30N6O12S2;0
+gthox[e];Oxidized glutathione;C20H30N6O12S2;0
+gthox[p];Oxidized glutathione;C20H30N6O12S2;0
+gthrd[c];Reduced glutathione;C10H16N3O6S;0
+gthrd[e];Reduced glutathione;C10H16N3O6S;0
+gthrd[p];Reduced glutathione;C10H16N3O6S;0
+gtp[c];GTP;C10H12N5O14P3;0
+gtp[e];GTP;C10H12N5O14P3;0
+gtp[p];GTP;C10H12N5O14P3;0
+gtspmd[c];Glutathionylspermidine;C17H36N6O5S;0
+gua[c];Guanine;C5H5N5O;0
+gua[e];Guanine;C5H5N5O;0
+gua[p];Guanine;C5H5N5O;0
+h2[c];H2;H2;0
+h2[e];H2;H2;0
+h2[p];H2;H2;0
+h2mb4p[c];1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate;C5H9O8P2;0
+h2o2[c];Hydrogen peroxide;H2O2;0
+h2o2[e];Hydrogen peroxide;H2O2;0
+h2o2[p];Hydrogen peroxide;H2O2;0
+h2o[c];H2O;H2O;0
+h2o[e];H2O;H2O;0
+h2o[p];H2O;H2O;0
+h2s[c];Hydrogen sulfide;H2S;0
+h2s[e];Hydrogen sulfide;H2S;0
+h2s[p];Hydrogen sulfide;H2S;0
+h[c];H+;H;0
+h[e];H+;H;0
+h[p];H+;H;0
+hacolipa[e];hepta-acylated core oligosaccharide lipid A (E. coli);C192H333N2O101P4;0
+halipa[e];hepta-acylated KDO(2)-lipid (A);C126H226N2O40P2;0
+hco3[c];Bicarbonate;CHO3;0
+hcys-DASH-L[c];L-Homocysteine;C4H9NO2S;0
+hdca[c];Hexadecanoate (n-C16:0);C16H31O2;0
+hdca[e];Hexadecanoate (n-C16:0);C16H31O2;0
+hdca[p];Hexadecanoate (n-C16:0);C16H31O2;0
+hdcea[c];Hexadecenoate (n-C16:1);C16H29O2;0
+hdcea[e];Hexadecenoate (n-C16:1);C16H29O2;0
+hdcea[p];Hexadecenoate (n-C16:1);C16H29O2;0
+hdcoa[c];Hexadecenoyl-CoA (n-C16:1CoA);C37H60N7O17P3S;0
+hdd2coa[c];trans-Hexadec-2-enoyl-CoA;C37H60N7O17P3S;0
+hdeACP[c];cis-hexadec-9-enoyl-[acyl-carrier protein] (n-C16:1);C27H49N2O8PRS;0
+hemeO[c];Heme O;C49H56FeN4O5;0
+hexACP[c];Hexanoyl-ACP (n-C6:0ACP);C17H31N2O8PRS;0
+hg2[c];Hg2+;Hg;0
+hg2[e];Hg2+;Hg;0
+hg2[p];Hg2+;Hg;0
+hhlipa[c];heptosyl-heptosyl-kdo2-lipidA;C124H220N2O51P2;0
+his-DASH-L[c];L-Histidine;C6H9N3O2;0
+his-DASH-L[e];L-Histidine;C6H9N3O2;0
+his-DASH-L[p];L-Histidine;C6H9N3O2;0
+hisp[c];L-Histidinol phosphate;C6H11N3O4P;0
+histd[c];L-Histidinol;C6H12N3O;0
+histrna[c];L-Histidyl-tRNA(His);C6H8N3OR;0
+hkndd[c];2-Hydroxy-6-oxonona-2,4-diene-1,9-dioate;C9H8O6;0
+hkntd[c];2-hydroxy-6-ketononatrienedioate;C9H6O6;0
+hlipa[c];heptosyl-kdo2-lipidA;C117H208N2O45P2;0
+hmbil[c];Hydroxymethylbilane;C40H38N4O17;0
+hmfurn[c];4-hydroxy-5-methyl-3(2H)-furanone;C5H6O3;0
+hmgth[c];hydroxymethylglutathione;C11H18N3O7S;0
+hom-DASH-L[c];L-Homoserine;C4H9NO3;0
+hom-DASH-L[e];L-Homoserine;C4H9NO3;0
+hom-DASH-L[p];L-Homoserine;C4H9NO3;0
+hphhlipa[c];heptosyl-phospho-heptosyl-heptosyl-kdo2-lipidA;C131H231N2O60P3;0
+hpyr[c];Hydroxypyruvate;C3H3O4;0
+hqn[c];Hydroquinone;C6H6O2;0
+hx2coa[c];trans-Hex-2-enoyl-CoA;C27H40N7O17P3S;0
+hxa[c];Hexanoate (n-C6:0);C6H11O2;0
+hxa[e];Hexanoate (n-C6:0);C6H11O2;0
+hxa[p];Hexanoate (n-C6:0);C6H11O2;0
+hxan[c];Hypoxanthine;C5H4N4O;0
+hxan[e];Hypoxanthine;C5H4N4O;0
+hxan[p];Hypoxanthine;C5H4N4O;0
+hxcoa[c];Hexanoyl-CoA (n-C6:0CoA);C27H42N7O17P3S;0
+iasp[c];Iminoaspartate;C4H3NO4;0
+ichor[c];Isochorismate;C10H8O6;0
+icit[c];Isocitrate;C6H5O7;0
+icolipa[c];inner core oligosaccharide lipid A (E coli);C145H251N2O74P4;0
+idon-DASH-L[c];L-Idonate;C6H11O7;0
+idon-DASH-L[e];L-Idonate;C6H11O7;0
+idon-DASH-L[p];L-Idonate;C6H11O7;0
+idp[c];IDP;C10H11N4O11P2;0
+ile-DASH-L[c];L-Isoleucine;C6H13NO2;0
+ile-DASH-L[e];L-Isoleucine;C6H13NO2;0
+ile-DASH-L[p];L-Isoleucine;C6H13NO2;0
+iletrna[c];L-Isoleucyl-tRNA(Ile);C6H12NOR;0
+imacp[c];3-(Imidazol-4-yl)-2-oxopropyl phosphate;C6H7N2O5P;0
+imp[c];IMP;C10H11N4O8P;0
+imp[e];IMP;C10H11N4O8P;0
+imp[p];IMP;C10H11N4O8P;0
+indole[c];Indole;C8H7N;0
+indole[e];Indole;C8H7N;0
+indole[p];Indole;C8H7N;0
+inost[c];myo-Inositol;C6H12O6;0
+inost[e];myo-Inositol;C6H12O6;0
+inost[p];myo-Inositol;C6H12O6;0
+ins[c];Inosine;C10H12N4O5;0
+ins[e];Inosine;C10H12N4O5;0
+ins[p];Inosine;C10H12N4O5;0
+ipdp[c];Isopentenyl diphosphate;C5H9O7P2;0
+isetac[c];Isethionic acid;C2H5O4S;0
+isetac[e];Isethionic acid;C2H5O4S;0
+isetac[p];Isethionic acid;C2H5O4S;0
+itp[c];ITP;C10H11N4O14P3;0
+k[c];potassium;K;0
+k[e];potassium;K;0
+k[p];potassium;K;0
+kdo2lipid4L[c];KDO(2)-lipid IV(A) with laurate;C96H170N2O38P2;0
+kdo2lipid4[c];KDO(2)-lipid IV(A);C84H148N2O37P2;0
+kdo2lipid4[e];KDO(2)-lipid IV(A);C84H148N2O37P2;0
+kdo2lipid4[p];KDO(2)-lipid IV(A);C84H148N2O37P2;0
+kdo2lipid4p[c];KDO(2)-lipid IV(A) with palmitoleoyl;C100H176N2O38P2;0
+kdo8p[c];3-Deoxy-D-manno-octulosonate 8-phosphate;C8H12O11P;0
+kdo[c];3-Deoxy-D-manno-2-octulosonate;C8H13O8;0
+kdolipid4[c];KDO-lipid IV(A);C76H137N2O30P2;0
+kphphhlipa[c];kdo-phospho-heptosyl-phospho-heptosyl-heptosyl-kdo2-lipidA;C139H241N2O70P4;0
+lac-DASH-D[c];D-Lactate;C3H5O3;0
+lac-DASH-D[e];D-Lactate;C3H5O3;0
+lac-DASH-D[p];D-Lactate;C3H5O3;0
+lac-DASH-L[c];L-Lactate;C3H5O3;0
+lac-DASH-L[e];L-Lactate;C3H5O3;0
+lac-DASH-L[p];L-Lactate;C3H5O3;0
+lald-DASH-D[c];D-Lactaldehyde;C3H6O2;0
+lald-DASH-L[c];L-Lactaldehyde;C3H6O2;0
+lcts[c];Lactose;C12H22O11;0
+lcts[e];Lactose;C12H22O11;0
+lcts[p];Lactose;C12H22O11;0
+leu-DASH-L[c];L-Leucine;C6H13NO2;0
+leu-DASH-L[e];L-Leucine;C6H13NO2;0
+leu-DASH-L[p];L-Leucine;C6H13NO2;0
+leutrna[c];L-Leucyl-tRNA(Leu);C6H12NOR;0
+lgt-DASH-S[c];(R)-S-Lactoylglutathione;C13H20N3O8S;0
+lipa[c];KDO(2)-lipid (A);C110H196N2O39P2;0
+lipa-cold[c];cold adapted KDO(2)-lipid (A);C114H202N2O39P2;0
+lipa-cold[e];cold adapted KDO(2)-lipid (A);C114H202N2O39P2;0
+lipa-cold[p];cold adapted KDO(2)-lipid (A);C114H202N2O39P2;0
+lipa[e];KDO(2)-lipid (A);C110H196N2O39P2;0
+lipa[p];KDO(2)-lipid (A);C110H196N2O39P2;0
+lipidA[c];2,3,2'3'-Tetrakis(beta-hydroxymyristoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate;C68H126N2O23P2;0
+lipidAds[c];Lipid A Disaccharide;C68H127N2O20P;0
+lipidX[c];2,3-Bis(3-hydroxytetradecanoyl)-beta-D-glucosaminyl 1-phosphate;C34H64NO12P;0
+lpp[p];lipoprotein;XC16H30O1;0
+lys-DASH-L[c];L-Lysine;C6H15N2O2;0
+lys-DASH-L[e];L-Lysine;C6H15N2O2;0
+lys-DASH-L[p];L-Lysine;C6H15N2O2;0
+lystrna[c];L-Lysine-tRNA (Lys);C6H14N2OR;0
+lyx-DASH-L[c];L-Lyxose;C5H10O5;0
+lyx-DASH-L[e];L-Lyxose;C5H10O5;0
+lyx-DASH-L[p];L-Lyxose;C5H10O5;0
+malACP[c];Malonyl-[acyl-carrier protein];C14H22N2O10PRS;0
+mal-DASH-D[c];D-Malate;C4H4O5;0
+mal-DASH-D[e];D-Malate;C4H4O5;0
+mal-DASH-D[p];D-Malate;C4H4O5;0
+mal-DASH-L[c];L-Malate;C4H4O5;0
+mal-DASH-L[e];L-Malate;C4H4O5;0
+mal-DASH-L[p];L-Malate;C4H4O5;0
+malcoa[c];Malonyl-CoA;C24H33N7O19P3S;0
+malt6p[c];Maltose 6'-phosphate;C12H21O14P;0
+malt[c];Maltose;C12H22O11;0
+malt[e];Maltose;C12H22O11;0
+malt[p];Maltose;C12H22O11;0
+malthp[c];Maltoheptaose;C42H72O36;0
+malthx[c];Maltohexaose;C36H62O31;0
+malthx[e];Maltohexaose;C36H62O31;0
+malthx[p];Maltohexaose;C36H62O31;0
+maltpt[c];Maltopentaose;C30H52O26;0
+maltpt[e];Maltopentaose;C30H52O26;0
+maltpt[p];Maltopentaose;C30H52O26;0
+malttr[c];Maltotriose;C18H32O16;0
+malttr[e];Maltotriose;C18H32O16;0
+malttr[p];Maltotriose;C18H32O16;0
+maltttr[c];Maltotetraose;C24H42O21;0
+maltttr[e];Maltotetraose;C24H42O21;0
+maltttr[p];Maltotetraose;C24H42O21;0
+man1p[c];D-Mannose 1-phosphate;C6H11O9P;0
+man6p[c];D-Mannose 6-phosphate;C6H11O9P;0
+man6p[e];D-Mannose 6-phosphate;C6H11O9P;0
+man6p[p];D-Mannose 6-phosphate;C6H11O9P;0
+man6pglyc[c];2(alpha-D-Mannosyl-6-phosphate)-D-glycerate;C9H14O12P;0
+man[c];D-Mannose;C6H12O6;0
+man[e];D-Mannose;C6H12O6;0
+man[p];D-Mannose;C6H12O6;0
+mana[c];D-Mannonate;C6H11O7;0
+manglyc[e];2(alpha-D-Mannosyl)-D-glycerate;C9H15O9;0
+manglyc[p];2(alpha-D-Mannosyl)-D-glycerate;C9H15O9;0
+melib[c];Melibiose;C12H22O11;0
+melib[e];Melibiose;C12H22O11;0
+melib[p];Melibiose;C12H22O11;0
+mercppyr[c];Mercaptopyruvate;C3H3O3S;0
+met-DASH-D[c];D-Methionine;C5H10NO2S;0
+met-DASH-D[e];D-Methionine;C5H10NO2S;0
+met-DASH-D[p];D-Methionine;C5H10NO2S;0
+met-DASH-L[c];L-Methionine;C5H11NO2S;0
+met-DASH-L[e];L-Methionine;C5H11NO2S;0
+met-DASH-L[p];L-Methionine;C5H11NO2S;0
+methf[c];5,10-Methenyltetrahydrofolate;C20H20N7O6;0
+metsox-DASH-R-DASH-L[c];L-methionine-R-sulfoxide;C5H11NO3S;0
+metsox-DASH-R-DASH-L[e];L-methionine-R-sulfoxide;C5H11NO3S;0
+metsox-DASH-R-DASH-L[p];L-methionine-R-sulfoxide;C5H11NO3S;0
+metsox-DASH-S-DASH-L[c];L-Methionine Sulfoxide;C5H11NO3S;0
+metsox-DASH-S-DASH-L[e];L-Methionine Sulfoxide;C5H11NO3S;0
+metsox-DASH-S-DASH-L[p];L-Methionine Sulfoxide;C5H11NO3S;0
+mettrna[c];L-Methionyl-tRNA (Met);C5H10NOSR;0
+mg2[c];magnesium;Mg;0
+mg2[e];magnesium;Mg;0
+mg2[p];magnesium;Mg;0
+mi1p-DASH-D[c];1D-myo-Inositol 1-phosphate;C6H11O9P;0
+micit[c];methylisocitrate;C7H7O7;0
+minohp[e];myo-Inositol hexakisphosphate;C6H6O24P6;0
+minohp[p];myo-Inositol hexakisphosphate;C6H6O24P6;0
+mlthf[c];5,10-Methylenetetrahydrofolate;C20H21N7O6;0
+mmcoa-DASH-R[c];(R)-Methylmalonyl-CoA;C25H35N7O19P3S;0
+mmcoa-DASH-S[c];(S)-Methylmalonyl-CoA;C25H35N7O19P3S;0
+mmet[c];S-Methyl-L-methionine;C6H14NO2S;0
+mmet[e];S-Methyl-L-methionine;C6H14NO2S;0
+mmet[p];S-Methyl-L-methionine;C6H14NO2S;0
+mn2[c];Mn2+;Mn;0
+mn2[e];Mn2+;Mn;0
+mn2[p];Mn2+;Mn;0
+mnl1p[c];D-Mannitol 1-phosphate;C6H13O9P;0
+mnl[e];D-Mannitol;C6H14O6;0
+mnl[p];D-Mannitol;C6H14O6;0
+mobd[c];Molybdate-MoO4;;0
+mobd[e];Molybdate-MoO4;;0
+mobd[p];Molybdate-MoO4;;0
+mql8[c];Menaquinol 8;C51H74O2;0
+mqn8[c];Menaquinone 8;C51H72O2;0
+mso3[c];methanesulfonate;CH3O3S;0
+mso3[e];methanesulfonate;CH3O3S;0
+mso3[p];methanesulfonate;CH3O3S;0
+mthgxl[c];Methylglyoxal;C3H4O2;0
+murein3p3p[p];two linked disacharide tripeptide murein units (uncrosslinked, middle of chain);C68H104N12O38;0
+murein3px3p[p];two disacharide linked murein units, tripeptide crosslinked tripeptide (A2pm->A2pm) (middle of chain);C68H102N12O37;0
+murein3px4p[p];two disacharide linked murein units, tripeptide crosslinked tetrapeptide (A2pm->D-ala) (middle of chain);C71H107N13O38;0
+murein4p3p[p];two linked disacharide tetrapeptide and tripeptide murein units (uncrosslinked, middle of chain);C71H109N13O39;0
+murein4p4p[p];two linked disacharide tetrapeptide murein units (uncrosslinked, middle of chain);C74H114N14O40;0
+murein4px4p4p[p];three disacharide linked murein units (tetrapeptide crosslinked tetrapeptide (A2pm->D-ala), one uncrosslinked tetrapaptide) (middle of chain);C111H169N21O59;0
+murein4px4p[p];two disacharide linked murein units, tetrapeptide corsslinked tetrapeptide (A2pm->D-ala) (middle of chain);C74H112N14O39;0
+murein4px4px4p[p];three disacharide linked murein units (tetrapeptide crosslinked tetrapeptide (A2pm->D-ala) & tetrapeptide corsslinked tetrapeptide (A2pm->D-ala)) (middle of chain);C111H167N21O58;0
+murein5p3p[p];two linked disacharide pentapeptide and tripeptide murein units (uncrosslinked, middle of chain);C74H114N14O40;0
+murein5p4p[p];two linked disacharide pentapeptide and tetrapeptide murein units (uncrosslinked, middle of chain);C77H119N15O41;0
+murein5p5p5p[p];three linked disacharide pentapeptide murein units (uncrosslinked, middle of chain);C120H186N24O63;0
+murein5p5p[p];two linked disacharide pentapeptide murein units (uncrosslinked, middle of chain);C80H124N16O42;0
+murein5px3p[p];two disacharide linked murein units, pentapeptide corsslinked tripeptide (A2pm->A2pm) (middle of chain);C74H112N14O39;0
+murein5px4p[p];two disacharide linked murein units, pentapeptide crosslinked tetrapeptide (A2pm->D-ala) (middle of chain);C77H117N15O40;0
+murein5px4px4p[p];three disacharide linked murein units (pentapeptide crosslinked tetrapeptide (A2pm->D-ala) tetrapeptide corsslinked tetrapeptide (A2pm->D-ala)) (middle of chain);C114H172N22O59;0
+myrsACP[c];Myristoyl-ACP (n-C14:0ACP);C25H47N2O8PRS;0
+n2o[c];Nitrous oxide;N2O;0
+n2o[e];Nitrous oxide;N2O;0
+n2o[p];Nitrous oxide;N2O;0
+n8aspmd[c];N8-Acetylspermidine;C9H23N3O;0
+na1[c];Sodium;Na;0
+na1[e];Sodium;Na;0
+na1[p];Sodium;Na;0
+nac[c];Nicotinate;C6H4NO2;0
+nac[e];Nicotinate;C6H4NO2;0
+nac[p];Nicotinate;C6H4NO2;0
+nad[c];Nicotinamide adenine dinucleotide;C21H26N7O14P2;0
+nadh[c];Nicotinamide adenine dinucleotide - reduced;C21H27N7O14P2;0
+nadp[c];Nicotinamide adenine dinucleotide phosphate;C21H25N7O17P3;0
+nadph[c];Nicotinamide adenine dinucleotide phosphate - reduced;C21H26N7O17P3;0
+ncam[c];Nicotinamide;C6H6N2O;0
+nh4[c];Ammonium;H4N;0
+nh4[e];Ammonium;H4N;0
+nh4[p];Ammonium;H4N;0
+ni2[c];nickel;Ni;0
+ni2[e];nickel;Ni;0
+ni2[p];nickel;Ni;0
+nicrnt[c];Nicotinate D-ribonucleotide;C11H12NO9P;0
+nmn[c];NMN;C11H14N2O8P;0
+nmn[e];NMN;C11H14N2O8P;0
+nmn[p];NMN;C11H14N2O8P;0
+no2[c];Nitrite;NO2;0
+no2[e];Nitrite;NO2;0
+no2[p];Nitrite;NO2;0
+no3[c];Nitrate;NO3;0
+no3[e];Nitrate;NO3;0
+no3[p];Nitrate;NO3;0
+no[c];Nitric oxide;NO;0
+no[e];Nitric oxide;NO;0
+no[p];Nitric oxide;NO;0
+o16a2und[p];(O16 antigen)x2 undecaprenyl diphosphate;C123H200N2O57P2;0
+o16a3und[p];(O16 antigen)x3 undecaprenyl diphosphate;C157H255N3O82P2;0
+o16a4colipa[e];(O16 antigen)x4 core oligosaccharide lipid A;C312H523N6O200P4;0
+o16a4colipa[p];(O16 antigen)x4 core oligosaccharide lipid A;C312H523N6O200P4;0
+o16a4und[p];(O16 antigen)x4 undecaprenyl diphosphate;C191H310N4O107P2;0
+o16aund[c];O16 antigen undecaprenyl diphosphate;C89H145N1O32P2;0
+o16aund[p];O16 antigen undecaprenyl diphosphate;C89H145N1O32P2;0
+o2[c];O2;O2;0
+o2[e];O2;O2;0
+o2[p];O2;O2;0
+o2s[c];Superoxide anion;O2;0
+o2s[e];Superoxide anion;O2;0
+o2s[p];Superoxide anion;O2;0
+oaa[c];Oxaloacetate;C4H2O5;0
+oc2coa[c];trans-Oct-2-enoyl-CoA;C29H44N7O17P3S;0
+ocACP[c];Octanoyl-ACP (n-C8:0ACP);C19H35N2O8PRS;0
+occoa[c];Octanoyl-CoA (n-C8:0CoA);C29H46N7O17P3S;0
+ocdcaACP[c];Octadecanoyl-ACP (n-C18:0ACP);C29H55N2O8PRS;0
+ocdca[c];octadecanoate (n-C18:0);C18H35O2;0
+ocdca[e];octadecanoate (n-C18:0);C18H35O2;0
+ocdca[p];octadecanoate (n-C18:0);C18H35O2;0
+ocdcea[c];octadecenoate (n-C18:1);C18H33O2;0
+ocdcea[e];octadecenoate (n-C18:1);C18H33O2;0
+ocdcea[p];octadecenoate (n-C18:1);C18H33O2;0
+octa[c];octanoate (n-C8:0);C8H15O2;0
+octa[e];octanoate (n-C8:0);C8H15O2;0
+octa[p];octanoate (n-C8:0);C8H15O2;0
+octdp[c];all-trans-Octaprenyl diphosphate;C40H65O7P2;0
+octeACP[c];cis-octadec-11-enoyl-[acyl-carrier protein] (n-C18:1);C29H53N2O8PRS;0
+od2coa[c];trans-Octadec-2-enoyl-CoA;C39H64N7O17P3S;0
+odecoa[c];Octadecenoyl-CoA (n-C18:1CoA);C39H64N7O17P3S;0
+ohpb[c];2-Oxo-3-hydroxy-4-phosphobutanoate;C4H4O8P;0
+op4en[c];2-Oxopent-4-enoate;C5H5O3;0
+orn[c];Ornithine;C5H13N2O2;0
+orn[e];Ornithine;C5H13N2O2;0
+orn[p];Ornithine;C5H13N2O2;0
+orot5p[c];Orotidine 5'-phosphate;C10H10N2O11P;0
+orot[c];Orotate;C5H3N2O4;0
+orot[e];Orotate;C5H3N2O4;0
+orot[p];Orotate;C5H3N2O4;0
+oxam[c];Oxamate;C2H2NO3;0
+oxur[c];Oxalureate;C3H3N2O4;0
+pa120[c];1,2-didodecanoyl-sn-glycerol 3-phosphate;C27H51O8P1;0
+pa120[p];1,2-didodecanoyl-sn-glycerol 3-phosphate;C27H51O8P1;0
+pa140[c];1,2-ditetradecanoyl-sn-glycerol 3-phosphate;C31H59O8P1;0
+pa140[p];1,2-ditetradecanoyl-sn-glycerol 3-phosphate;C31H59O8P1;0
+pa141[c];1,2-ditetradec-7-enoyl-sn-glycerol 3-phosphate;C31H55O8P1;0
+pa141[p];1,2-ditetradec-7-enoyl-sn-glycerol 3-phosphate;C31H55O8P1;0
+pa160[c];1,2-dihexadecanoyl-sn-glycerol 3-phosphate;C35H67O8P1;0
+pa160[p];1,2-dihexadecanoyl-sn-glycerol 3-phosphate;C35H67O8P1;0
+pa161[c];1,2-dihexadec-9-enoyl-sn-glycerol 3-phosphate;C35H63O8P1;0
+pa161[p];1,2-dihexadec-9-enoyl-sn-glycerol 3-phosphate;C35H63O8P1;0
+pa180[c];1,2-dioctadecanoyl-sn-glycerol 3-phosphate;C39H75O8P1;0
+pa180[p];1,2-dioctadecanoyl-sn-glycerol 3-phosphate;C39H75O8P1;0
+pa181[c];1,2-dioctadec-11-enoyl-sn-glycerol 3-phosphate;C39H71O8P1;0
+pa181[p];1,2-dioctadec-11-enoyl-sn-glycerol 3-phosphate;C39H71O8P1;0
+pac[c];Phenylacetic acid;C8H7O2;0
+pacald[c];Phenylacetaldehyde;C8H8O;0
+pacald[e];Phenylacetaldehyde;C8H8O;0
+pacald[p];Phenylacetaldehyde;C8H8O;0
+palmACP[c];Palmitoyl-ACP (n-C16:0ACP);C27H51N2O8PRS;0
+pan4p[c];Pantetheine 4'-phosphate;C11H21N2O7PS;0
+pant-DASH-R[c];(R)-Pantoate;C6H11O4;0
+pap[c];Adenosine 3',5'-bisphosphate;C10H11N5O10P2;0
+paps[c];3'-Phosphoadenylyl sulfate;C10H11N5O13P2S;0
+pdx5p[c];Pyridoxine 5'-phosphate;C8H10NO6P;0
+pe120[c];phosphatidylethanolamine (didodecanoyl, n-C12:0);C29H58N1O8P1;0
+pe120[p];phosphatidylethanolamine (didodecanoyl, n-C12:0);C29H58N1O8P1;0
+pe140[c];phosphatidylethanolamine (ditetradecanoyl, n-C14:0);C33H66N1O8P1;0
+pe140[p];phosphatidylethanolamine (ditetradecanoyl, n-C14:0);C33H66N1O8P1;0
+pe141[c];phosphatidylethanolamine (ditetradec-7-enoyl, n-C14:1);C33H62N1O8P1;0
+pe141[p];phosphatidylethanolamine (ditetradec-7-enoyl, n-C14:1);C33H62N1O8P1;0
+pe160[c];phosphatidylethanolamine (dihexadecanoyl, n-C16:0);C37H74N1O8P1;0
+pe160[p];phosphatidylethanolamine (dihexadecanoyl, n-C16:0);C37H74N1O8P1;0
+pe161[c];phosphatidylethanolamine (dihexadec-9enoyl, n-C16:1);C37H70N1O8P1;0
+pe161[p];phosphatidylethanolamine (dihexadec-9enoyl, n-C16:1);C37H70N1O8P1;0
+pe180[c];phosphatidylethanolamine (dioctadecanoyl, n-C18:0);C41H82N1O8P1;0
+pe180[p];phosphatidylethanolamine (dioctadecanoyl, n-C18:0);C41H82N1O8P1;0
+pe181[c];phosphatidylethanolamine (dioctadec-11-enoyl, n-C18:1);C41H78N1O8P1;0
+pe181[p];phosphatidylethanolamine (dioctadec-11-enoyl, n-C18:1);C41H78N1O8P1;0
+peamn[e];Phenethylamine;C8H12N;0
+peamn[p];Phenethylamine;C8H12N;0
+pep[c];Phosphoenolpyruvate;C3H2O6P;0
+pg120[c];Phosphatidylglycerol (didodecanoyl, n-C12:0);C30H58O10P1;0
+pg120[p];Phosphatidylglycerol (didodecanoyl, n-C12:0);C30H58O10P1;0
+pg140[c];Phosphatidylglycerol (ditetradecanoyl, n-C14:0);C34H66O10P1;0
+pg140[p];Phosphatidylglycerol (ditetradecanoyl, n-C14:0);C34H66O10P1;0
+pg141[c];Phosphatidylglycerol (ditetradec-7-enoyl, n-C14:1);C34H62O10P1;0
+pg141[p];Phosphatidylglycerol (ditetradec-7-enoyl, n-C14:1);C34H62O10P1;0
+pg160[c];Phosphatidylglycerol (dihexadecanoyl, n-C16:0);C38H74O10P1;0
+pg160[p];Phosphatidylglycerol (dihexadecanoyl, n-C16:0);C38H74O10P1;0
+pg161[c];Phosphatidylglycerol (dihexadec-9-enoyl, n-C16:1);C38H70O10P1;0
+pg161[p];Phosphatidylglycerol (dihexadec-9-enoyl, n-C16:1);C38H70O10P1;0
+pg180[c];Phosphatidylglycerol (dioctadecanoyl, n-C18:0);C42H82O10P1;0
+pg180[p];Phosphatidylglycerol (dioctadecanoyl, n-C18:0);C42H82O10P1;0
+pg181[c];Phosphatidylglycerol (dioctadec-11-enoyl, n-C18:1);C42H78O10P1;0
+pg181[p];Phosphatidylglycerol (dioctadec-11-enoyl, n-C18:1);C42H78O10P1;0
+pgp120[c];Phosphatidylglycerophosphate (didodecanoyl, n-C12:0);C30H57O13P2;0
+pgp120[p];Phosphatidylglycerophosphate (didodecanoyl, n-C12:0);C30H57O13P2;0
+pgp140[c];Phosphatidylglycerophosphate (ditetradecanoyl, n-C14:0);C34H65O13P2;0
+pgp140[p];Phosphatidylglycerophosphate (ditetradecanoyl, n-C14:0);C34H65O13P2;0
+pgp141[c];Phosphatidylglycerophosphate (ditetradec-7-enoyl, n-C14:1);C34H61O13P2;0
+pgp141[p];Phosphatidylglycerophosphate (ditetradec-7-enoyl, n-C14:1);C34H61O13P2;0
+pgp160[c];Phosphatidylglycerophosphate (dihexadecanoyl, n-C16:0);C38H73O13P2;0
+pgp160[p];Phosphatidylglycerophosphate (dihexadecanoyl, n-C16:0);C38H73O13P2;0
+pgp161[c];Phosphatidylglycerophosphate (dihexadec-9-enoyl, n-C16:1);C38H69O13P2;0
+pgp161[p];Phosphatidylglycerophosphate (dihexadec-9-enoyl, n-C16:1);C38H69O13P2;0
+pgp180[c];Phosphatidylglycerophosphate (dioctadecanoyl, n-C18:0);C42H81O13P2;0
+pgp180[p];Phosphatidylglycerophosphate (dioctadecanoyl, n-C18:0);C42H81O13P2;0
+pgp181[c];Phosphatidylglycerophosphate (dioctadec-11-enoyl, n-C18:1);C42H77O13P2;0
+pgp181[p];Phosphatidylglycerophosphate (dioctadec-11-enoyl, n-C18:1);C42H77O13P2;0
+phaccoa[c];Phenylacetyl-CoA;C29H38N7O17P3S;0
+phe-DASH-L[c];L-Phenylalanine;C9H11NO2;0
+phe-DASH-L[e];L-Phenylalanine;C9H11NO2;0
+phe-DASH-L[p];L-Phenylalanine;C9H11NO2;0
+pheme[c];Protoheme;C34H30FeN4O4;0
+pheme[e];Protoheme;C34H30FeN4O4;0
+pheme[p];Protoheme;C34H30FeN4O4;0
+phetrna[c];L-Phenylalanyl-tRNA(Phe);C9H10NOR;0
+phhlipa[c];phospho-heptosyl-heptosyl-kdo2-lipidA;C124H219N2O54P3;0
+phom[c];O-Phospho-L-homoserine;C4H8NO6P;0
+phphhlipa[c];phospho-heptosyl-phospho-heptosyl-heptosyl-kdo2-lipidA;C131H230N2O63P4;0
+phpyr[c];Phenylpyruvate;C9H7O3;0
+phthr[c];O-Phospho-4-hydroxy-L-threonine;C4H8NO7P;0
+pi[c];Phosphate;HO4P;0
+pi[e];Phosphate;HO4P;0
+pi[p];Phosphate;HO4P;0
+pmcoa[c];Pimeloyl-CoA;C28H41N7O19P3S;0
+pmtcoa[c];Palmitoyl-CoA (n-C16:0CoA);C37H62N7O17P3S;0
+pnto-DASH-R[c];(R)-Pantothenate;C9H16NO5;0
+pnto-DASH-R[e];(R)-Pantothenate;C9H16NO5;0
+pnto-DASH-R[p];(R)-Pantothenate;C9H16NO5;0
+ppa[c];Propionate (n-C3:0);C3H5O2;0
+ppa[e];Propionate (n-C3:0);C3H5O2;0
+ppa[p];Propionate (n-C3:0);C3H5O2;0
+ppal[c];Propanal;C3H6O;0
+ppal[e];Propanal;C3H6O;0
+ppal[p];Propanal;C3H6O;0
+ppap[c];Propanoyl phosphate;C3H5O5P;0
+ppbng[c];Porphobilinogen;C10H13N2O4;0
+ppcoa[c];Propanoyl-CoA;C24H36N7O17P3S;0
+ppgpp[c];Guanosine 3',5'-bis(diphosphate);C10H11N5O17P4;0
+pphn[c];Prephenate;C10H8O6;0
+ppi[c];Diphosphate;HO7P2;0
+ppp9[c];Protoporphyrin;C34H32N4O4;0
+pppg9[c];Protoporphyrinogen IX;C34H38N4O4;0
+pppi[c];Inorganic triphosphate;HO10P3;0
+pppn[c];Phenylpropanoate;C9H9O2;0
+pppn[e];Phenylpropanoate;C9H9O2;0
+pppn[p];Phenylpropanoate;C9H9O2;0
+ppt[e];Phosphonate;HO3P;0
+ppt[p];Phosphonate;HO3P;0
+pram[c];5-Phospho-beta-D-ribosylamine;C5H11NO7P;0
+pran[c];N-(5-Phospho-D-ribosyl)anthranilate;C12H13NO9P;0
+prbamp[c];1-(5-Phosphoribosyl)-AMP;C15H19N5O14P2;0
+prbatp[c];1-(5-Phosphoribosyl)-ATP;C15H19N5O20P4;0
+prfp[c];1-(5-Phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide;C15H21N5O15P2;0
+prlp[c];5-[(5-phospho-1-deoxyribulos-1-ylamino)methylideneamino]-1-(5-phosphoribosyl)imidazole-4-carboxamide;C15H21N5O15P2;0
+pro-DASH-L[c];L-Proline;C5H9NO2;0
+pro-DASH-L[e];L-Proline;C5H9NO2;0
+pro-DASH-L[p];L-Proline;C5H9NO2;0
+progly[c];L-Prolinylglycine;C7H12N2O3;0
+progly[e];L-Prolinylglycine;C7H12N2O3;0
+progly[p];L-Prolinylglycine;C7H12N2O3;0
+protrna[c];L-Prolyl-tRNA(Pro);C5H8NOR;0
+prpp[c];5-Phospho-alpha-D-ribose 1-diphosphate;C5H8O14P3;0
+ps120[c];phosphatidylserine (didodecanoyl, n-C12:0);C30H57N1O10P1;0
+ps140[c];phosphatidylserine (ditetradecanoyl, n-C14:0);C34H65N1O10P1;0
+ps141[c];phosphatidylserine (ditetradec-7-enoyl, n-C14:1);C34H61N1O10P1;0
+ps160[c];phosphatidylserine (dihexadecanoyl, n-C16:0);C38H73N1O10P1;0
+ps161[c];phosphatidylserine (dihexadec-9-enoyl, n-C16:1);C38H69N1O10P1;0
+ps180[c];phosphatidylserine (dioctadecanoyl, n-C18:0);C42H81N1O10P1;0
+ps181[c];phosphatidylserine (dioctadec-11-enoyl, n-C18:1);C42H77N1O10P1;0
+psclys[c];psicoselysine;C12H25N2O7;0
+psclys[e];psicoselysine;C12H25N2O7;0
+psclys[p];psicoselysine;C12H25N2O7;0
+pser-DASH-L[c];O-Phospho-L-serine;C3H6NO6P;0
+pser-DASH-L[e];O-Phospho-L-serine;C3H6NO6P;0
+pser-DASH-L[p];O-Phospho-L-serine;C3H6NO6P;0
+ptrc[c];Putrescine;C4H14N2;0
+ptrc[e];Putrescine;C4H14N2;0
+ptrc[p];Putrescine;C4H14N2;0
+pyam5p[c];Pyridoxamine 5'-phosphate;C8H12N2O5P;0
+pydam[c];Pyridoxamine;C8H13N2O2;0
+pydx5p[c];Pyridoxal 5'-phosphate;C8H8NO6P;0
+pydx[c];Pyridoxal;C8H9NO3;0
+pydxn[c];Pyridoxine;C8H11NO3;0
+pyr[c];Pyruvate;C3H3O3;0
+pyr[e];Pyruvate;C3H3O3;0
+pyr[p];Pyruvate;C3H3O3;0
+q8[c];Ubiquinone-8;C49H74O4;0
+q8h2[c];Ubiquinol-8;C49H76O4;0
+quln[c];Quinolinate;C7H3NO4;0
+r15bp[c];D-Ribose 1,5-bisphosphate;C5H8O11P2;0
+r1p[c];alpha-D-Ribose 1-phosphate;C5H9O8P;0
+r5p[c];alpha-D-Ribose 5-phosphate;C5H9O8P;0
+r5p[e];alpha-D-Ribose 5-phosphate;C5H9O8P;0
+r5p[p];alpha-D-Ribose 5-phosphate;C5H9O8P;0
+ragund[c];rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate;C69H113N1O16P2;0
+rbflvrd[c];Reduced riboflavin;C17H22N4O6;0
+rbl-DASH-L[c];L-Ribulose;C5H10O5;0
+rdmbzi[c];N1-(alpha-D-ribosyl)-5,6-dimethylbenzimidazole;C14H18N2O4;0
+rhcys[c];S-Ribosyl-L-homocysteine;C9H17NO6S;0
+rib-DASH-D[c];D-Ribose;C5H10O5;0
+rib-DASH-D[e];D-Ribose;C5H10O5;0
+rib-DASH-D[p];D-Ribose;C5H10O5;0
+ribflv[c];Riboflavin;C17H20N4O6;0
+rml1p[c];L-Rhamnulose 1-phosphate;C6H11O8P;0
+rml[c];L-Rhamnulose;C6H12O5;0
+rmn[c];L-Rhamnose;C6H12O5;0
+rmn[e];L-Rhamnose;C6H12O5;0
+rmn[p];L-Rhamnose;C6H12O5;0
+ru5p-DASH-D[c];D-Ribulose 5-phosphate;C5H9O8P;0
+ru5p-DASH-L[c];L-Ribulose 5-phosphate;C5H9O8P;0
+s7p[c];Sedoheptulose 7-phosphate;C7H13O10P;0
+s[c];Sulfur;S;0
+sarcs[c];Sarcosine;C3H7NO2;0
+sbt6p[c];D-Sorbitol 6-phosphate;C6H13O9P;0
+sbt-DASH-D[e];D-Sorbitol;C6H14O6;0
+sbt-DASH-D[p];D-Sorbitol;C6H14O6;0
+sbzcoa[c];O-Succinylbenzoyl-CoA;C32H39N7O20P3S;0
+scl[c];sirohydrochlorin;C42H39N4O16;0
+sectrna[c];L-Selenocysteinyl-tRNA(Sec);C3H6NOSeR;0
+seln[c];Selenide;HSe;0
+selnp[c];Selenophosphate;H2O3PSe;0
+ser-DASH-D[c];D-Serine;C3H7NO3;0
+ser-DASH-D[e];D-Serine;C3H7NO3;0
+ser-DASH-D[p];D-Serine;C3H7NO3;0
+ser-DASH-L[c];L-Serine;C3H7NO3;0
+ser-DASH-L[e];L-Serine;C3H7NO3;0
+ser-DASH-L[p];L-Serine;C3H7NO3;0
+seramp[c];L-seryl-AMP;C13H19N6O9P;0
+sertrna-LPAREN-sec-RPAREN-[c];L-Seryl-tRNA(Sec);C3H6NO2R;0
+sertrna[c];L-Seryl-tRNA(Ser);C3H6NO2R;0
+sheme[c];Siroheme;C42H36FeN4O16;0
+skm5p[c];Shikimate 5-phosphate;C7H8O8P;0
+skm[c];Shikimate;C7H9O5;0
+skm[e];Shikimate;C7H9O5;0
+skm[p];Shikimate;C7H9O5;0
+sl26da[c];N-Succinyl-LL-2,6-diaminoheptanedioate;C11H16N2O7;0
+sl2a6o[c];N-Succinyl-2-L-amino-6-oxoheptanedioate;C11H12NO8;0
+so2[c];sulfur dioxide;O2S;0
+so2[e];sulfur dioxide;O2S;0
+so2[p];sulfur dioxide;O2S;0
+so3[c];Sulfite;O3S;0
+so3[e];Sulfite;O3S;0
+so3[p];Sulfite;O3S;0
+so4[c];Sulfate;O4S;0
+so4[e];Sulfate;O4S;0
+so4[p];Sulfate;O4S;0
+spmd[c];Spermidine;C7H22N3;0
+spmd[e];Spermidine;C7H22N3;0
+spmd[p];Spermidine;C7H22N3;0
+ssaltpp[c];Succinate semialdehyde-thiamin diphosphate anion;C16H21N4O10P2S;0
+stcoa[c];Stearoyl-CoA (n-C18:0CoA);C39H66N7O17P3S;0
+suc6p[c];Sucrose 6-phosphate;C12H21O14P;0
+sucarg[c];N2-Succinyl-L-arginine;C10H17N4O5;0
+sucbz[c];o-Succinylbenzoate;C11H8O5;0
+succ[c];Succinate;C4H4O4;0
+succ[e];Succinate;C4H4O4;0
+succ[p];Succinate;C4H4O4;0
+succoa[c];Succinyl-CoA;C25H35N7O19P3S;0
+sucglu[c];N2-Succinyl-L-glutamate;C9H10NO7;0
+sucgsa[c];N2-Succinyl-L-glutamate 5-semialdehyde;C9H11NO6;0
+suchms[c];O-Succinyl-L-homoserine;C8H12NO6;0
+sucorn[c];N2-Succinyl-L-ornithine;C9H15N2O5;0
+sucr[e];Sucrose;C12H22O11;0
+sucr[p];Sucrose;C12H22O11;0
+sucsal[c];Succinic semialdehyde;C4H5O3;0
+sulfac[c];sulfoacetate;C2H2O5S;0
+sulfac[e];sulfoacetate;C2H2O5S;0
+sulfac[p];sulfoacetate;C2H2O5S;0
+t3c11vaceACP[c];trans-3-cis-11-vacceoyl-[acyl-carrier protein];C29H51N2O8PRS;0
+t3c5ddeceACP[c];trans-3-cis-5-dodecenoyl-[acyl-carrier protein];C23H39N2O8PRS;0
+t3c7mrseACP[c];trans-3-cis-7-myristoleoyl-[acyl-carrier protein];C25H43N2O8PRS;0
+t3c9palmeACP[c];trans-3-cis-9-palmitoleoyl-[acyl-carrier protein];C27H47N2O8PRS;0
+tag6p-DASH-D[c];D-Tagatose 6-phosphate;C6H11O9P;0
+tagdp-DASH-D[c];D-Tagatose 1,6-biphosphate;C6H10O12P2;0
+tagur[c];D-Tagaturonate;C6H9O7;0
+tartr-DASH-L[c];L-tartrate;C4H4O6;0
+tartr-DASH-L[e];L-tartrate;C4H4O6;0
+tartr-DASH-L[p];L-tartrate;C4H4O6;0
+taur[c];Taurine;C2H7NO3S;0
+taur[e];Taurine;C2H7NO3S;0
+taur[p];Taurine;C2H7NO3S;0
+tcynt[c];Thiocyanate;CNS;0
+tcynt[e];Thiocyanate;CNS;0
+tcynt[p];Thiocyanate;CNS;0
+td2coa[c];trans-Tetradec-2-enoyl-CoA;C35H56N7O17P3S;0
+tdcoa[c];Tetradecanoyl-CoA (n-C14:0CoA);C35H58N7O17P3S;0
+tddec2eACP[c];trans-Dodec-2-enoyl-[acyl-carrier protein];C23H41N2O8PRS;0
+tdeACP[c];cis-tetradec-7-enoyl-[acyl-carrier protein] (n-C14:1);C25H45N2O8PRS;0
+tdec2eACP[c];trans-Dec-2-enoyl-[acyl-carrier protein];C21H37N2O8PRS;0
+tdecoa[c];Tetradecenoyl-CoA (n-C14:1CoA);C35H56N7O17P3S;0
+thdp[c];2,3,4,5-Tetrahydrodipicolinate;C7H7NO4;0
+thex2eACP[c];trans-Hex-2-enoyl-[acyl-carrier protein];C17H29N2O8PRS;0
+thf[c];5,6,7,8-Tetrahydrofolate;C19H21N7O6;0
+thm[c];Thiamin;C12H17N4OS;0
+thm[e];Thiamin;C12H17N4OS;0
+thm[p];Thiamin;C12H17N4OS;0
+thmmp[c];Thiamin monophosphate;C12H16N4O4PS;0
+thmpp[c];Thiamine diphosphate;C12H16N4O7P2S;0
+thr-DASH-L[c];L-Threonine;C4H9NO3;0
+thr-DASH-L[e];L-Threonine;C4H9NO3;0
+thr-DASH-L[p];L-Threonine;C4H9NO3;0
+thrp[e];L-Threonine O-3-phosphate;C4H8NO6P;0
+thrp[p];L-Threonine O-3-phosphate;C4H8NO6P;0
+thrtrna[c];L-Threonyl-tRNA(Thr);C4H8NO2R;0
+thym[c];Thymine;C5H6N2O2;0
+thym[e];Thymine;C5H6N2O2;0
+thym[p];Thymine;C5H6N2O2;0
+thymd[c];Thymidine;C10H14N2O5;0
+thymd[e];Thymidine;C10H14N2O5;0
+thymd[p];Thymidine;C10H14N2O5;0
+tma[c];trimethylamine;C3H10N;0
+tma[e];trimethylamine;C3H10N;0
+tma[p];trimethylamine;C3H10N;0
+tmao[c];Trimethylamine N-oxide;C3H9NO;0
+tmao[e];Trimethylamine N-oxide;C3H9NO;0
+tmao[p];Trimethylamine N-oxide;C3H9NO;0
+tmrs2eACP[c];trans-Tetradec-2-enoyl-[acyl-carrier protein];C25H45N2O8PRS;0
+toct2eACP[c];trans-Oct-2-enoyl-[acyl-carrier protein];C19H33N2O8PRS;0
+toctd2eACP[c];trans-octadec-2-enoyl-[acyl-carrier protein];C29H53N2O8PRS;0
+tpalm2eACP[c];trans-Hexadec-2-enoyl-[acyl-carrier protein];C27H49N2O8PRS;0
+trdox[c];Oxidized thioredoxin;X;0
+trdrd[c];Reduced thioredoxin;XH2;0
+tre6p[c];alpha,alpha'-Trehalose 6-phosphate;C12H21O14P;0
+tre[c];Trehalose;C12H22O11;0
+tre[e];Trehalose;C12H22O11;0
+tre[p];Trehalose;C12H22O11;0
+trnaala[c];tRNA(Ala);R;0
+trnaarg[c];tRNA(Arg);R;0
+trnaasn[c];tRNA(Asn);C10H17O10PR2;0
+trnaasp[c];tRNA(Asp);R;0
+trnacys[c];tRNA(Cys);R;0
+trnagln[c];tRNA(Gln);R;0
+trnaglu[c];tRNA (Glu);R;0
+trnagly[c];tRNA(Gly);R;0
+trnahis[c];tRNA(His);R;0
+trnaile[c];tRNA(Ile);R;0
+trnaleu[c];tRNA(Leu);R;0
+trnalys[c];tRNA(Lys);R;0
+trnamet[c];tRNA(Met);R;0
+trnaphe[c];tRNA(Phe);R;0
+trnapro[c];tRNA(Pro);R;0
+trnasecys[c];tRNA(SeCys);R;0
+trnaser[c];tRNA(Ser);R;0
+trnathr[c];tRNA(Thr);R;0
+trnatrp[c];tRNA(Trp);R;0
+trnatyr[c];tRNA(Tyr);R;0
+trnaval[c];tRNA(Val);R;0
+trp-DASH-L[c];L-Tryptophan;C11H12N2O2;0
+trp-DASH-L[e];L-Tryptophan;C11H12N2O2;0
+trp-DASH-L[p];L-Tryptophan;C11H12N2O2;0
+trptrna[c];L-Tryptophanyl-tRNA(Trp);C11H11N2OR;0
+tsul[c];Thiosulfate;O3S2;0
+tsul[e];Thiosulfate;O3S2;0
+tsul[p];Thiosulfate;O3S2;0
+ttdca[c];tetradecanoate (n-C14:0);C14H27O2;0
+ttdca[e];tetradecanoate (n-C14:0);C14H27O2;0
+ttdca[p];tetradecanoate (n-C14:0);C14H27O2;0
+ttdcea[c];tetradecenoate (n-C14:1);C14H25O2;0
+ttdcea[e];tetradecenoate (n-C14:1);C14H25O2;0
+ttdcea[p];tetradecenoate (n-C14:1);C14H25O2;0
+tungs[c];tungstate;O4W1;0
+tungs[e];tungstate;O4W1;0
+tungs[p];tungstate;O4W1;0
+tym[e];Tyramine;C8H12NO;0
+tym[p];Tyramine;C8H12NO;0
+tyr-DASH-L[c];L-Tyrosine;C9H11NO3;0
+tyr-DASH-L[e];L-Tyrosine;C9H11NO3;0
+tyr-DASH-L[p];L-Tyrosine;C9H11NO3;0
+tyrp[e];Phosphotyrosine;C9H10NO6P;0
+tyrp[p];Phosphotyrosine;C9H10NO6P;0
+tyrtrna[c];L-Tyrosyl-tRNA(Tyr);C9H10NO2R;0
+u23ga[c];UDP-2,3-bis(3-hydroxytetradecanoyl)glucosamine;C43H75N3O20P2;0
+u3aga[c];UDP-3-O-(3-hydroxytetradecanoyl)-N-acetylglucosamine;C31H51N3O19P2;0
+u3hga[c];UDP-3-O-(3-hydroxytetradecanoyl)-D-glucosamine;C29H50N3O18P2;0
+uLa4fn[c];undecaprenyl phosphate-4-amino-4-formyl-L-arabinose;C61H99N1O8P1;0
+uLa4n[c];undecaprenyl phosphate-4-amino-4-deoxy-L-arabinose;C60H100N1O7P1;0
+uLa4n[p];undecaprenyl phosphate-4-amino-4-deoxy-L-arabinose;C60H100N1O7P1;0
+uaagmda[c];Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-ala-D-glu-meso-2,6-diaminopimeloyl-D-ala-D-ala;C95H152N8O28P2;0
+uaccg[c];UDP-N-acetyl-3-O-(1-carboxyvinyl)-D-glucosamine;C20H26N3O19P2;0
+uacgam[c];UDP-N-acetyl-D-glucosamine;C17H25N3O17P2;0
+uacgam[e];UDP-N-acetyl-D-glucosamine;C17H25N3O17P2;0
+uacgam[p];UDP-N-acetyl-D-glucosamine;C17H25N3O17P2;0
+uacmam[c];UDP-N-acetyl-D-mannosamine;C17H25N3O17P2;0
+uacmamu[c];UDP-N-acetyl-D-mannosaminouronate;C17H22N3O18P2;0
+uagmda[c];Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine;C87H139N7O23P2;0
+uama[c];UDP-N-acetylmuramoyl-L-alanine;C23H33N4O20P2;0
+uamag[c];UDP-N-acetylmuramoyl-L-alanyl-D-glutamate;C28H39N5O23P2;0
+uamr[c];UDP-N-acetylmuramate;C20H28N3O19P2;0
+udcpdp[c];Undecaprenyl diphosphate;C55H89O7P2;0
+udcpdp[p];Undecaprenyl diphosphate;C55H89O7P2;0
+udcpp[c];Undecaprenyl phosphate;C55H89O4P;0
+udcpp[p];Undecaprenyl phosphate;C55H89O4P;0
+udpLa4fn[c];uridine 5''-diphospho-{beta}-4-deoxy-4-formamido-L-arabinose;C15H21N3O16P2;0
+udpLa4n[c];uridine 5''-diphospho-{beta}-4-deoxy-4-amino-L-arabinose;C14H22N3O15P2;0
+udpLa4o[c];UDP-4-keto-pyranose;C14H18N2O16P2;0
+udp[c];UDP;C9H11N2O12P2;0
+udpacgal[e];UDP-N-acetyl-D-galactosamine;C17H25N3O17P2;0
+udpacgal[p];UDP-N-acetyl-D-galactosamine;C17H25N3O17P2;0
+udpg[c];UDPglucose;C15H22N2O17P2;0
+udpg[e];UDPglucose;C15H22N2O17P2;0
+udpg[p];UDPglucose;C15H22N2O17P2;0
+udpgal[c];UDPgalactose;C15H22N2O17P2;0
+udpgal[e];UDPgalactose;C15H22N2O17P2;0
+udpgal[p];UDPgalactose;C15H22N2O17P2;0
+udpgalfur[c];UDP-D-galacto-1,4-furanose;C15H22N2O17P2;0
+udpglcur[c];UDP-D-glucuronate;C15H19N2O18P2;0
+udpglcur[e];UDP-D-glucuronate;C15H19N2O18P2;0
+udpglcur[p];UDP-D-glucuronate;C15H19N2O18P2;0
+ugmd[c];UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate;C35H51N7O26P2;0
+ugmda[c];UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine;C41H61N9O28P2;0
+um4p[c];UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate-D-alanine;C38H56N8O27P2;0
+ump[c];UMP;C9H11N2O9P;0
+ump[e];UMP;C9H11N2O9P;0
+ump[p];UMP;C9H11N2O9P;0
+unaga[c];Undecaprenyl diphospho N-acetyl-glucosamine;C63H103NO12P2;0
+unagamu[c];Undecaprenyl-diphospho-N-acetylglucosamine-N-acetylmannosaminuronate;C71H113N2O18P2;0
+unagamuf[c];Undecaprenyl-diphospho N-acetylglucosamine-N-acetylmannosaminuronate-N-acetamido-4,6-dideoxy-D-galactose;C79H126N3O22P2;0
+unagamuf[p];Undecaprenyl-diphospho N-acetylglucosamine-N-acetylmannosaminuronate-N-acetamido-4,6-dideoxy-D-galactose;C79H126N3O22P2;0
+uppg3[c];Uroporphyrinogen III;C40H36N4O16;0
+ura[c];Uracil;C4H4N2O2;0
+ura[e];Uracil;C4H4N2O2;0
+ura[p];Uracil;C4H4N2O2;0
+urate[c];Urate;C5H4N4O3;0
+urdglyc[c];(-)-Ureidoglycolate;C3H5N2O4;0
+urea[c];Urea;CH4N2O;0
+urea[e];Urea;CH4N2O;0
+urea[p];Urea;CH4N2O;0
+uri[c];Uridine;C9H12N2O6;0
+uri[e];Uridine;C9H12N2O6;0
+uri[p];Uridine;C9H12N2O6;0
+utp[c];UTP;C9H11N2O15P3;0
+val-DASH-L[c];L-Valine;C5H11NO2;0
+val-DASH-L[e];L-Valine;C5H11NO2;0
+val-DASH-L[p];L-Valine;C5H11NO2;0
+valtrna[c];L-Valyl-tRNA(Val);C5H10NOR;0
+xan[c];Xanthine;C5H4N4O2;0
+xan[e];Xanthine;C5H4N4O2;0
+xan[p];Xanthine;C5H4N4O2;0
+xdp[c];XDP;C10H11N4O12P2;0
+xmp[c];Xanthosine 5'-phosphate;C10H11N4O9P;0
+xmp[e];Xanthosine 5'-phosphate;C10H11N4O9P;0
+xmp[p];Xanthosine 5'-phosphate;C10H11N4O9P;0
+xtp[c];XTP;C10H11N4O15P3;0
+xtsn[c];Xanthosine;C10H12N4O6;0
+xtsn[e];Xanthosine;C10H12N4O6;0
+xtsn[p];Xanthosine;C10H12N4O6;0
+xu5p-DASH-D[c];D-Xylulose 5-phosphate;C5H9O8P;0
+xu5p-DASH-L[c];L-Xylulose 5-phosphate;C5H9O8P;0
+xyl-DASH-D[c];D-Xylose;C5H10O5;0
+xyl-DASH-D[e];D-Xylose;C5H10O5;0
+xyl-DASH-D[p];D-Xylose;C5H10O5;0
+xylu-DASH-D[c];D-Xylulose;C5H10O5;0
+xylu-DASH-L[c];L-Xylulose;C5H10O5;0
+xylu-DASH-L[e];L-Xylulose;C5H10O5;0
+xylu-DASH-L[p];L-Xylulose;C5H10O5;0
+zn2[c];Zinc;Zn;0
+zn2[e];Zinc;Zn;0
+zn2[p];Zinc;Zn;0
+isobutanol;isobutanol;;;
+butanol;butanol;;;
+1-propanol;1-propanol;;;
+2-methyl-1-butanol;2-methyl-1-butanol;;;
+2-Phenylethanol;2-Phenylethanol;;;
+3-methyl-1-butanol;3-methyl-1-butanol;;;
