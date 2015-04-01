@@ -3,14 +3,13 @@
 #2-add gpr constraints: add f/b for reversible rxns react_rev??
 #3-add Density constraint
 #... ----------
-cfba_moment <- function (model,mod2=NULL, Kcat,MW=NULL,selected_rxns=NULL,verboseMode=2,objVal=NULL,
+#mr:multiple reactions
+cfba_moment_mr <- function (model,mod2=NULL, Kcat,MW=NULL,selected_rxns=NULL,verboseMode=2,objVal=NULL,
 RHS=NULL,solver=SYBIL_SETTINGS("SOLVER"),medval=NULL){
-#Multiple OR are not done pairwise but evaluated in one line.
+#Multiple OR are not done pairwise but evaluated in one line in contrast to MOMENT original implementation.
 #addCols
 #Kcat measurement for set of rxns
 #MW measuremnt for gene using readfaa.r
-#require(sybil)
-geneCol=NULL;#column in problemcoresponding to given gene
 
 Kcat[,2]<-as.numeric(Kcat[,2])*60*60 ;# convert to 1/hr
 MW[,2]=as.numeric(MW[,2]); #g/mol instead of g/mmol
@@ -29,21 +28,32 @@ m=met_num(mod2)
 colid=n+1
 rowind=m+1
 aux_id=1
+geneCol=NULL;#column in problem corresponding to given gene
+
 # add all variables once
 #Add variables for all genes
-	for( g in allGenes(mod2)){
+	for( g in allGenes(model)){
 		if(g!="s0001"){
-					geneCol=rbind(geneCol,cbind(gene=g,Col=colid))
+		            cnt=length(grep(g,gpr(model)))
+		            geneCol=rbind(geneCol,cbind(gene=g,rxn=NA,Col=colid,cnt))
 					addCols(lp = problem(prob),1)
 					changeColsBnds(lp = problem(prob),colid,lb=0,ub=1000)
-					colid=colid+1;			
+					colid=colid+1;
+					if(cnt>1){
+						for(r in grep(g,gpr(model)) ){
+							geneCol=rbind(geneCol,cbind(gene=g,rxn=react_id(model)[r],Col=colid,cnt))
+							addCols(lp = problem(prob),1)
+							changeColsBnds(lp = problem(prob),colid,lb=0,ub=1000)
+							colid=colid+1;			
+							}
+							}
 				}}
 
 #ng=length(allGenes(model))
 for (r in selected_rxns){
 	rl=gpr(model)[react_id(model)==r]
 	#rl=gsub("s0001",)
-	# remove s0001 gene from rules in iAF model
+	# remove s0001 gene from rules in iAF model as done by original MOMENT paper simulations
 	if (rl=='( b0875  or  s0001 )') rl='b0875';
 	if (rl=='( b1377  or  b0929  or  b2215  or  b0241  or  s0001  or  b3875  or  b1319  or  b0957 )')
 		 rl='( b1377  or  b0929  or  b2215  or  b0241 or  b3875  or  b1319  or  b0957 )';
@@ -56,7 +66,7 @@ for (r in selected_rxns){
     if(rl=="(s0001 or b0875)") rl="b0875";
 	if(rl=="(b0451 or s0001)") rl="b0451";
 	
-	print(r)
+	if (verboseMode > 2) print(r);
 	if(r %in% Kcat[Kcat[,"dirxn"]==1,1]){
 		kval=as.numeric(Kcat[Kcat[,"dirxn"]==1 & Kcat[,1]==r,"val"]);
 		}else{kval=medval;}
@@ -80,16 +90,24 @@ for (r in selected_rxns){
 	rl=gsub("\\("," ( ",rl)# 
 		# to be sure that 'and' will be a whole word and not part of any gene name
 	pr=lapply(strsplit(unlist(strsplit(rl," or "))," and "),function(x) gsub("[() ]","",x))
-	print(pr)
-	print(length(pr[[1]]))
+	if (verboseMode > 2){
+		print(pr)
+		print(length(pr[[1]]))
+	}
 	if( length(pr)==1) {# no OR (only one term) 
 	#add row vi<=gi*kcat
 		if(length(pr[[1]])==1){
 #########################################1-one Gene----------------
 		    gene=pr[[1]]
 		#get the corresponding col of the gene
-		colind=as.numeric(geneCol[geneCol[,"gene"]==gene,"Col"])
-		print(list(vind,colind))
+		#colind=as.numeric(geneCol[geneCol[,"gene"]==gene & is.na(geneCol[,"rxn"]),"Col"])
+		generow=geneCol[geneCol[,"gene"]==gene & is.na(geneCol[,"rxn"]),]
+		if(generow[4]==1){#if cnt==1
+			colind=as.numeric(generow[3])
+		}else{
+			colind=as.numeric(geneCol[geneCol[,"gene"]==gene & geneCol[,"rxn"]==r & !is.na(geneCol[,"rxn"]),"Col"])
+		}
+		if (verboseMode > 2) print(list(vind,colind));
 	
 		#AddRow Vind - Kcat*colind <=0
 		addRowsToProb(lp = problem(prob),
@@ -111,7 +129,7 @@ for (r in selected_rxns){
 			 rowind=rowind+1;            
 		  }			 
 		}else{#straight ANDs
-#########################################2-straight ANDs----------------
+#########################################----2-straight ANDs----------------
 		print("straight ANDs")
 		#add aux variable
 		addCols(lp = problem(prob),1)
@@ -136,7 +154,13 @@ for (r in selected_rxns){
 			 rowind=rowind+1;            
 		}
 		for(gene in pr[[1]]){			
-				colind=as.numeric(geneCol[geneCol[,"gene"]==gene,"Col"])
+				#colind=as.numeric(geneCol[geneCol[,"gene"]==gene,"Col"])
+				generow=geneCol[geneCol[,"gene"]==gene & is.na(geneCol[,"rxn"]),]
+				if(generow[4]==1){#if cnt==1
+					colind=as.numeric(generow[3])
+				}else{
+					colind=as.numeric(geneCol[geneCol[,"gene"]==gene & geneCol[,"rxn"]==r & !is.na(geneCol[,"rxn"]),"Col"])
+				}
 			addRowsToProb(lp = problem(prob),
               i = rowind ,              type = "U",
               lb = 0,              ub = 0,
@@ -148,7 +172,7 @@ for (r in selected_rxns){
 		}
 		}
 		}else{#OR/AND
-#########################################3-straight OR----------------
+#########################################------3-straight OR----------------
 		#add row for the rxn
 		   row_vals=rep(0,colid+length(pr))
 			row_vals[vind]=lnz
@@ -157,7 +181,14 @@ for (r in selected_rxns){
 		 for( p in 1:length(pr)){#ORed gene list
            if( length(pr[[p]])==1 ){
 				gene=pr[[p]]
-				colind=as.numeric(geneCol[geneCol[,"gene"]==gene,"Col"])
+				#colind=as.numeric(geneCol[geneCol[,"gene"]==gene,"Col"])
+				generow=geneCol[geneCol[,"gene"]==gene & is.na(geneCol[,"rxn"]),]
+				if(generow[4]==1){#if cnt==1
+					colind=as.numeric(generow[3])
+				}else{
+					colind=as.numeric(geneCol[geneCol[,"gene"]==gene & geneCol[,"rxn"]==r & !is.na(geneCol[,"rxn"]),"Col"])
+				}
+
           	    #changeMatrixRow(lp=problem(prob),i=rxn_row_id,j=colind,val=-1*kval)
 				row_vals[colind]=-1*kval
 				if(react_rev(model)[react_id(model)==r]){
@@ -166,7 +197,7 @@ for (r in selected_rxns){
 				}
 		  }else{#AND
 		  #add auxiliary var then add rows
-#########################################4-mixed OR and AND (sum of products)----------------		  
+#########################################--------4-mixed OR and AND (sum of products)----------------		  
 		  print("aux ands")
 			addCols(lp = problem(prob),1)
 			  aux_id=colid
@@ -179,8 +210,14 @@ for (r in selected_rxns){
 				row_vals_b[aux_id]=-1*rkval			   
 			}
 			for(g in pr[[p]]){
-                colind=as.numeric(geneCol[geneCol[,"gene"]==g,"Col"])
-        	
+                #colind=as.numeric(geneCol[geneCol[,"gene"]==g,"Col"])
+        		generow=geneCol[geneCol[,"gene"]==g & is.na(geneCol[,"rxn"]),]
+				if(generow[4]==1){#if cnt==1
+					colind=as.numeric(generow[3])
+				}else{
+					colind=as.numeric(geneCol[geneCol[,"gene"]==g & geneCol[,"rxn"]==r & !is.na(geneCol[,"rxn"]),"Col"])
+				}
+
 		     addRowsToProb(lp = problem(prob),
               i = rowind ,              type = "U",
               lb = 0,              ub = 0,
@@ -189,7 +226,7 @@ for (r in selected_rxns){
 			 )
 						 rowind=rowind+1;  
 			}
-          print(p)
+          if (verboseMode > 2) print(p);
 		  }		  
 		  #changeMatrixRow(lp=problem(prob),i=rxn_row_id,j=which(row_vals!=0),val=row_vals[which(row_vals!=0)])	
 		}  
@@ -214,7 +251,21 @@ for (r in selected_rxns){
 		
 				 #rowind=rowind+1;            
 	}
-}	
+}	#for r
+#Add multiple reactions constraints
+for(g in  which(is.na(geneCol[,"rxn"]) & as.numeric(geneCol[,"cnt"])>1)){ 
+	cnt=as.numeric(geneCol[g,"cnt"])
+	stCol=as.numeric(geneCol[g,"Col"])
+	gene=geneCol[g,"gene"]
+    addRowsToProb(lp = problem(prob),
+              i = rowind ,              type = "U",
+              lb = 0,              ub = 0,
+              cind = list(stCol:(stCol+cnt)),        nzval = list(c(-1,rep(1,cnt)))
+			  ,rnames = gene
+			 )
+    rowind=rowind+1; 
+}
+
 ############change column bounds ##########
 #n +1 ,colid
 #changeColsBnds(lp = problem(prob),c(n+1:colid-1),lb=rep(0,colid-n),ub=rep(1000,colid-n))
@@ -224,17 +275,17 @@ for (r in selected_rxns){
 if(length(MW )>0 ){
    lnz=NULL
    lcind=NULL
-   print(colid)
+   if (verboseMode > 2) print(colid);
    for(v in c((n+1):(colid-1))){
-   print(v);
+   if (verboseMode > 2) print(v);
    changeColsBnds(lp = problem(prob),v,lb=0,ub=1000)
 		}
-   for(g in geneCol[,"gene"]) {
-		colind=as.numeric(geneCol[geneCol[,"gene"]==g,"Col"])
+   for(g in which(is.na(geneCol[,"rxn"]))) {
+		colind=as.numeric(geneCol[g,"Col"])
 		#changeColsBnds(lp = problem(prob),colind,lb=0,ub=1000)
-		if(g %in% MW[,1]){# consider only genes with computed MW.
-			lnz=cbind(lnz,MW[MW[,1]==g,2])
-			print(MW[MW[,1]==g,2])
+		if(geneCol[g,"gene"] %in% MW[,1]){# consider only genes with computed MW.
+			lnz=cbind(lnz,MW[MW[,1]==geneCol[g,"gene"],2])
+			if (verboseMode > 2) print(MW[MW[,1]==geneCol[g,"gene"],2]);
 			lcind=cbind(lcind,colind)
 			}
 		}

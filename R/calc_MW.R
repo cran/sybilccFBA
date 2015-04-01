@@ -13,7 +13,7 @@ ln1 <- readLines(con, n=1)
 gsn=0
 prvLn1=ln1
 
-#Molecular weight = sum of individual residues weights - water molecular weight ´ ( number of residues - 1 )
+#Molecular weight = sum of individual residues weights - water molecular weight * ( number of residues - 1 )
  #                                       where, water molecular weight = 18.015;
 
 vc=unlist(strsplit(ln1, "|", fixed = TRUE))

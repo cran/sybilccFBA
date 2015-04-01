@@ -65,7 +65,13 @@ aux_id=1
 			 rl='( b1377  or  b0929  or  b2215  or  b0241 or  b3875  or  b1319  or  b0957 )';
 		if (rl=='( s0001  or  b0451 )') rl='(b0451)';
 		if (rl=='( s0001  or  b3927 )') rl='( b3927 )';
-		
+		#ijo model
+	if(rl=="(b3927 or s0001)") rl="b3927";
+	if(rl=="(s0001 or b0957 or b3875 or b2215 or b0241 or b1319 or b1377 or b0929)" )
+	     rl="(b0957 or b3875 or b2215 or b0241 or b1319 or b1377 or b0929)"
+    if(rl=="(s0001 or b0875)") rl="b0875";
+	if(rl=="(b0451 or s0001)") rl="b0451";
+	
   print(r)
 	rl=gsub("\\)"," ) ",rl)# 
 	rl=gsub("\\("," ( ",rl)# 
@@ -262,7 +268,7 @@ if(length(objVal)>0){	#test value of upper bound
 								lp=problem(prob)
 								for(r in c(1:nr)){
 								  print(r)
-									 rv=getRowsCPLEX(env = lp@oobj@env, lp = lp@oobj@lp, begin = r-1, end = r-1)
+									 rv=cplexAPI::getRowsCPLEX(env = lp@oobj@env, lp = lp@oobj@lp, begin = r-1, end = r-1)
 									 #write rv,matind,val
 									 for(cl in 1:length(rv$matind)){
 										   Nnz=rbind(Nnz,cbind(i=r,j=rv$matind[cl],val=rv$matval[cl]))

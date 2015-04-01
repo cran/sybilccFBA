@@ -1,17 +1,24 @@
-\name{cfba_moment}
+\name{cfba_moment_mr}
 
-\alias{cfba_moment}
+\alias{cfba_moment_mr}
 
 \encoding{utf8}
 
-\title{ Function: cfba_moment: implement MOMENT method}
+\title{ Function: cfba_moment_mr: implement MOMENT method 
+                 taking into account multifunctional enzymes}
 \description{
  This function uses GPR, kcat, and molecular weights to calculate fluxes 
- according to MOMENT method. 
+ according to MOMENT method taking into account multifunctional enzymes. 
+ Whenever a protein i was involved in more than one reaction, we introduced auxiliary
+ concentration variables xi,j for each of these reactions. These xi,j replaced the 
+ global concentration variable gi for the protein in the corresponding equation that 
+ limits the flux through this reaction based on the enzyme concentration. 
+ The sum of the xi,j is then equal to the total concentration of protein gi 
+ included in the global enzyme solvent capacity constraint.
 }
 
 \usage{
-cfba_moment(model,mod2=NULL, Kcat,MW=NULL,
+cfba_moment_mr(model,mod2=NULL, Kcat,MW=NULL,
 selected_rxns=NULL,verboseMode=2,objVal=NULL,
 RHS=NULL,solver=SYBIL_SETTINGS("SOLVER"),medval=NULL)
 }
@@ -48,7 +55,6 @@ Main steps
     2- for each selected reaction: parse gpr,
     3- Add variables accordingly and constraints
 	4- Add solvant constraint
-
 }
 \value{
 returns a list containing slots:
@@ -90,7 +96,7 @@ sybil–Efficient constraint-based modelling in R. BMC systems biology, 7(1), 12
 	uppbnd(mod2)[react_id(mod2)=="R_EX_o2_e__b"]=1000
 	lowbnd(mod2)[react_id(mod2)=="R_ATPM"]=0
 
-  sol=cfba_moment(model,mod2,kcat,MW=mw,verbose=3,RHS=0.27,solver="glpkAPI",medval=3600*22.6) 
+  sol=cfba_moment_mr(model,mod2,kcat,MW=mw,verbose=3,RHS=0.27,solver="glpkAPI",medval=3600*22.6) 
 
 }% end dontrun
 }
