@@ -1,0 +1,138 @@
+"gene","cnt","mw","COG1","GENE","LENGTH","PRODUCT","isblocked"
+"b0351",1,33.4423768,"Q","mhpF",316,"acetaldehyde-CoA dehydrogenase II, NAD-binding",FALSE
+"b1241",2,96.1268571,"C","adhE",891,"fused acetaldehyde-CoA dehydrogenase/iron-dependent alcohol dehydrogenase/pyruvate-formate lyase deactivase",FALSE
+"s0001",5,NA,NA,NA,NA,NA,FALSE
+"b3115",1,43.3839664,"C","tdcD",402,"propionate kinase/acetate kinase C, anaerobic",FALSE
+"b2296",1,43.290297,"C","ackA",400,"acetate kinase A and propionate kinase 2",FALSE
+"b1849",1,42.4335207,"F","purT",392,"phosphoribosylglycinamide formyltransferase 2",FALSE
+"b0118",2,93.4977645,"C","acnB",865,"bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase",FALSE
+"b1276",2,97.6768463,"C","acnA",891,"aconitate hydratase 1",FALSE
+"b0474",1,23.5859218,"F","adk",214,"adenylate kinase",FALSE
+"b0116",2,50.6882868,"C","lpd",474,"lipoamide dehydrogenase, E3 component is part of three enzyme complexes",FALSE
+"b0726",1,105.0613065,"C","sucA",933,"2-oxoglutarate decarboxylase, thiamin-requiring",FALSE
+"b0727",1,44.0112245,"C","sucB",405,"dihydrolipoyltranssuccinase",FALSE
+"b2587",1,47.0523534,"G","kgtP",432,"alpha-ketoglutarate transporter",FALSE
+"b0356",1,39.3588728,"C","frmA",369,"alcohol dehydrogenase class III/glutathione-dependent formaldehyde dehydrogenase",FALSE
+"b1478",1,35.3794659,"R","adhP",336,"ethanol-active dehydrogenase/acetaldehyde-active reductase",FALSE
+"b3736",1,17.2638819,"C","atpF",156,"F0 sector of membrane-bound ATP synthase, subunit b",FALSE
+"b3737",1,8.2561066,"C","atpE",79,"F0 sector of membrane-bound ATP synthase, subunit c",FALSE
+"b3738",1,30.3031226,"C","atpB",271,"F0 sector of membrane-bound ATP synthase, subunit a",FALSE
+"b3731",1,15.0682147,"C","atpC",139,"F1 sector of membrane-bound ATP synthase, epsilon subunit",FALSE
+"b3732",1,50.3252287,"C","atpD",460,"F1 sector of membrane-bound ATP synthase, beta subunit",FALSE
+"b3733",1,31.5773259,"C","atpG",287,"F1 sector of membrane-bound ATP synthase, gamma subunit",FALSE
+"b3734",1,55.2218497,"C","atpA",513,"F1 sector of membrane-bound ATP synthase, alpha subunit",FALSE
+"b3735",1,19.3321672,"C","atpH",177,"F1 sector of membrane-bound ATP synthase, delta subunit",FALSE
+"b3739",1,13.631661,"C","atpI",126,"ATP synthase, membrane-bound accessory factor",FALSE
+"b0720",1,48.0148555,"C","gltA",427,"citrate synthase",FALSE
+"b0978",1,57.9196355,"C","appC",514,"cytochrome bd-II oxidase, subunit I",FALSE
+"b0979",1,42.4236921,"C","appB",378,"cytochrome bd-II oxidase, subunit II",FALSE
+"b0733",1,58.2048592,"C","cydA",522,"cytochrome d terminal oxidase, subunit I",FALSE
+"b0734",1,42.452971,"C","cydB",379,"cytochrome d terminal oxidase, subunit II",FALSE
+"b2975",1,58.9199092,"C","glcA",560,"glycolate transporter",FALSE
+"b3603",1,59.1679285,"C","lldP",551,"L-lactate permease",FALSE
+"b2779",1,45.6547736,"G","eno",432,"enolase",FALSE
+"b2097",1,38.1090542,"G","fbaB",350,"fructose-bisphosphate aldolase class I",FALSE
+"b1773",1,30.8096851,"G","ydjI",278,"putative aldolase",FALSE
+"b2925",1,39.1471048,"G","fbaA",359,"fructose-bisphosphate aldolase, class II",FALSE
+"b3925",1,35.8522141,"G","glpX",336,"fructose 1,6-bisphosphatase II",FALSE
+"b4232",1,36.8337843,"G","fbp",332,"fructose-1,6-bisphosphatase I",FALSE
+"b0904",2,30.9906532,"P","focA",285,"formate channel",FALSE
+"b2492",2,30.5645583,"P","focB",282,"putative formate transporter",FALSE
+"b4151",1,13.1068798,"C","frdD",119,"fumarate reductase (anaerobic), membrane anchor subunit",FALSE
+"b4152",1,15.014974,"C","frdC",131,"fumarate reductase (anaerobic), membrane anchor subunit",FALSE
+"b4153",1,27.1230142,"C","frdB",244,"fumarate reductase (anaerobic), Fe-S subunit",FALSE
+"b4154",1,65.9714054,"C","frdA",602,"fumarate reductase (anaerobic) catalytic and NAD/flavoprotein subunit",FALSE
+"b1817",2,35.0474121,"G","manX",323,"fused mannose-specific PTS enzymes: IIA component/IIB component",FALSE
+"b1818",2,27.6357076,"G","manY",266,"mannose-specific enzyme IIC component of PTS",FALSE
+"b1819",2,30.9553672,"G","manZ",283,"mannose-specific enzyme IID component of PTS",FALSE
+"b2415",2,9.1193318,"G","ptsH",85,"phosphohistidinoprotein-hexose phosphotransferase component of PTS system (Hpr)",FALSE
+"b2416",2,63.5616033,"G","ptsI",575,"PEP-protein phosphotransferase of PTS system (enzyme I)",FALSE
+"b1612",1,60.2983449,"C","fumA",548,"fumarate hydratase (fumarase A), aerobic Class I",FALSE
+"b4122",1,60.1050885,"C","fumB",548,"anaerobic class I fumarate hydratase (fumarase B)",FALSE
+"b1611",1,50.4887391,"C","fumC",467,"fumarate hydratase (fumarase C),aerobic Class II",FALSE
+"b3528",3,45.4361098,"C","dctA",428,"C4-dicarboxylic acid, orotate and citrate transporter",FALSE
+"b1852",1,55.7042156,"G","zwf",491,"glucose-6-phosphate 1-dehydrogenase",FALSE
+"b1779",1,35.5323522,"G","gapA",331,"glyceraldehyde-3-phosphate dehydrogenase A",FALSE
+"b2417",1,18.250982,"G","crr",169,"glucose-specific enzyme IIA component of PTS",FALSE
+"b1101",1,50.6763423,"G","ptsG",477,"fused glucose-specific PTS enzymes: IIB component/IIC component",FALSE
+"b1621",1,56.6267979,"G","malX",530,"fused maltose and glucose-specific PTS enzymes: IIB component, IIC component",FALSE
+"b3870",1,51.9035784,"E","glnA",469,"glutamine synthetase",FALSE
+"b1297",1,53.1770007,"E","puuA",472,"gamma-Glu-putrescine synthase",FALSE
+"b0811",1,27.1899784,"ET","glnH",248,"glutamine transporter subunit",FALSE
+"b0810",1,24.3641923,"E","glnP",219,"glutamine transporter subunit",FALSE
+"b0809",1,26.7308833,"E","glnQ",240,"glutamine transporter subunit",FALSE
+"b1761",1,48.5812213,"E","gdhA",447,"glutamate dehydrogenase, NADP-specific",FALSE
+"b1812",1,50.9693345,"EH","pabB",453,"aminodeoxychorismate synthase, subunit I",FALSE
+"b0485",1,32.9032069,"E","glsA",310,"glutaminase 1",FALSE
+"b1524",1,33.5154869,"E","glsB",308,"glutaminase 2",FALSE
+"b3212",1,163.2963552,"E","gltB",1486,"glutamate synthase, large subunit",FALSE
+"b3213",1,52.0151256,"ER","gltD",472,"glutamate synthase, 4Fe-4S protein, small subunit",FALSE
+"b4077",1,47.1589839,"C","gltP",437,"glutamate/aspartate:proton symporter",FALSE
+"b2029",1,51.481058,"G","gnd",468,"6-phosphogluconate dehydrogenase, decarboxylating",FALSE
+"b0875",1,23.7026853,"G","aqpZ",231,"aquaporin Z",FALSE
+"b1136",1,45.7565505,"C","icd",416,"e14 prophage; isocitrate dehydrogenase, specific for NADP+",FALSE
+"b4015",1,47.5213756,"C","aceA",434,"isocitrate lyase",FALSE
+"b2133",1,64.6120624,"C","dld",571,"D-lactate dehydrogenase, FAD-binding, NADH independent",FALSE
+"b1380",1,36.5346707,"CHR","ldhA",329,"fermentative D-lactate dehydrogenase, NAD-dependent",FALSE
+"b4014",1,60.2733275,"C","aceB",533,"malate synthase A",FALSE
+"b2976",1,80.4882257,"C","glcB",723,"malate synthase G",FALSE
+"b3236",1,32.3371597,"C","mdh",312,"malate dehydrogenase, NAD(P)-binding",FALSE
+"b1479",1,63.1970905,"C","maeA",565,"malate dehydrogenase, (decarboxylating, NAD-requiring) (malic enzyme)",FALSE
+"b2463",1,82.4171056,"C","maeB",759,"fused malic enzyme predicted oxidoreductase/predicted phosphotransacetylase",FALSE
+"b2276",1,52.043882,"C","nuoN",485,"NADH:ubiquinone oxidoreductase, membrane subunit N",FALSE
+"b2277",1,56.5243373,"C","nuoM",509,"NADH:ubiquinone oxidoreductase, membrane subunit M",FALSE
+"b2278",1,66.4378411,"CP","nuoL",613,"NADH:ubiquinone oxidoreductase, membrane subunit L",FALSE
+"b2279",1,10.8449833,"C","nuoK",100,"NADH:ubiquinone oxidoreductase, membrane subunit K",FALSE
+"b2280",1,19.8745689,"C","nuoJ",184,"NADH:ubiquinone oxidoreductase, membrane subunit J",FALSE
+"b2281",1,20.5377122,"C","nuoI",180,"NADH:ubiquinone oxidoreductase, chain I",FALSE
+"b2282",1,36.2190246,"C","nuoH",325,"NADH:ubiquinone oxidoreductase, membrane subunit H",FALSE
+"b2283",1,100.2988472,"C","nuoG",908,"NADH:ubiquinone oxidoreductase, chain G",FALSE
+"b2284",1,49.2922855,"C","nuoF",445,"NADH:ubiquinone oxidoreductase, chain F",FALSE
+"b2285",1,18.5899939,"C","nuoE",166,"NADH:ubiquinone oxidoreductase, chain E",FALSE
+"b2286",1,68.2358411,"C","nuoC",596,"NADH:ubiquinone oxidoreductase, fused CD subunit",FALSE
+"b2287",1,25.0557646,"C","nuoB",220,"NADH:ubiquinone oxidoreductase, chain B",FALSE
+"b2288",1,16.4572649,"C","nuoA",147,"NADH:ubiquinone oxidoreductase, membrane subunit A",FALSE
+"b3962",1,51.5602127,"C","sthA",466,"pyridine nucleotide transhydrogenase, soluble",FALSE
+"b1602",2,48.7228667,"C","pntB",462,"pyridine nucleotide transhydrogenase, beta subunit",FALSE
+"b1603",2,54.6232401,"C","pntA",510,"pyridine nucleotide transhydrogenase, alpha subunit",FALSE
+"b0451",1,44.5145455,"P","amtB",428,"ammonium transporter",FALSE
+"b0114",1,99.6680625,"C","aceE",887,"pyruvate dehydrogenase, decarboxylase component E1, thiamin-binding",FALSE
+"b0115",1,66.0957991,"C","aceF",630,"pyruvate dehydrogenase, dihydrolipoyltransacetylase component E2",FALSE
+"b3916",1,34.8419457,"G","pfkA",320,"6-phosphofructokinase I",FALSE
+"b1723",1,32.4558686,"G","pfkB",309,"6-phosphofructokinase II",FALSE
+"b0902",1,28.204213,"O","pflA",246,"pyruvate formate lyase activating enzyme 1",FALSE
+"b0903",1,85.3569182,"C","pflB",760,"pyruvate formate lyase I",FALSE
+"b2579",1,14.2841193,"R","grcA",127,"autonomous glycyl radical cofactor",FALSE
+"b3114",1,85.9352046,"C","tdcE",764,"pyruvate formate-lyase 4/2-ketobutyrate formate-lyase",FALSE
+"b3951",1,85.9594118,"C","pflD",765,"putative formate acetyltransferase 2 (pyruvate formate lyase II)",FALSE
+"b3952",1,32.4295718,"O","pflC",292,"pyruvate formate lyase II activase",FALSE
+"b4025",1,61.5294893,"G","pgi",549,"glucosephosphate isomerase",FALSE
+"b2926",1,41.1180394,"G","pgk",387,"phosphoglycerate kinase",FALSE
+"b0767",1,36.3074921,"G","pgl",331,"6-phosphogluconolactonase",FALSE
+"b3612",1,56.1936892,"G","gpmM",514,"phosphoglycero mutase III, cofactor-independent",FALSE
+"b4395",1,24.0651463,"G","ytjC",215,"phosphatase",FALSE
+"b0755",1,28.5562491,"G","gpmA",250,"phosphoglyceromutase 1",FALSE
+"b2987",1,53.8085346,"P","pitB",499,"phosphate transporter",FALSE
+"b3493",1,53.3888552,"P","pitA",499,"phosphate transporter, low-affinity; tellurite importer",FALSE
+"b3956",1,99.062216,"C","ppc",883,"phosphoenolpyruvate carboxylase",FALSE
+"b3403",1,59.6432225,"C","pck",540,"phosphoenolpyruvate carboxykinase",FALSE
+"b1702",1,87.4347968,"G","ppsA",792,"phosphoenolpyruvate synthase",FALSE
+"b2297",1,77.1718046,"R","pta",714,"phosphate acetyltransferase",FALSE
+"b2458",1,36.0666134,"C","eutD",338,"phosphate acetyltransferase",FALSE
+"b1854",1,51.3570026,"G","pykA",480,"pyruvate kinase II",FALSE
+"b1676",1,50.7292807,"G","pykF",470,"pyruvate kinase I",FALSE
+"b3386",1,24.5541617,"G","rpe",225,"D-ribulose-5-phosphate 3-epimerase",FALSE
+"b4301",1,23.2143776,"G","sgcE",210,"KpLE2 phage-like element; predicted epimerase",FALSE
+"b2914",1,22.8603144,"G","rpiA",219,"ribose 5-phosphate isomerase, constitutive",FALSE
+"b4090",1,16.0732623,"G","rpiB",149,"ribose 5-phosphate isomerase B/allose 6-phosphate isomerase",FALSE
+"b0721",1,14.2990958,"C","sdhC",129,"succinate dehydrogenase, membrane subunit, binds cytochrome b556",FALSE
+"b0722",1,12.8674782,"C","sdhD",115,"succinate dehydrogenase, membrane subunit, binds cytochrome b556",FALSE
+"b0723",1,64.4216429,"C","sdhA",588,"succinate dehydrogenase, flavoprotein subunit",FALSE
+"b0724",1,26.7698234,"C","sdhB",238,"succinate dehydrogenase, FeS subunit",FALSE
+"b0728",1,41.3924873,"C","sucC",388,"succinyl-CoA synthetase, beta subunit",FALSE
+"b0729",1,29.7773796,"C","sucD",289,"succinyl-CoA synthetase, NAD(P)-binding, alpha subunit",FALSE
+"b2464",1,35.6586418,"G","talA",316,"transaldolase A",FALSE
+"b0008",1,35.2190877,"G","talB",317,"transaldolase B",FALSE
+"b2935",2,72.2114799,"G","tktA",663,"transketolase 1, thiamin-binding",FALSE
+"b2465",2,73.0424077,"G","tktB",667,"transketolase 2, thiamin-binding",FALSE
+"b3919",1,26.9717185,"G","tpiA",255,"triosephosphate isomerase",FALSE

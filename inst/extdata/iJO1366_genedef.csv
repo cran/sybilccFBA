@@ -1,0 +1,1368 @@
+gene,cnt,MW,COG1,gname,LENGTH,PRODUCT,gcmp,isblocked,rxn1,nOR,nAND,gpr
+b0241,270,38.9218251,M,phoE,351,outer membrane phosphoporin protein E,ep,FALSE,,,,
+b0929,271,39.3331096,M,ompF,362,outer membrane porin 1a (Ia;b;F),ep,FALSE,,,,
+b1377,270,41.2196677,M,ompN,377,"outer membrane pore protein N, non-specific",ep,FALSE,,,,
+b2215,271,40.3679071,M,ompC,367,outer membrane porin protein C,ep,FALSE,,,,
+b4034,6,43.3874324,G,malE,396,maltose transporter subunit,cp,FALSE,,,,
+b4033,6,57.0131545,G,malF,514,maltose transporter subunit,cp,FALSE,,,,
+b4032,6,32.2252738,G,malG,296,maltose transporter subunit,cp,FALSE,,,,
+b4035,6,40.9902955,G,malK,371,"fused maltose transport subunit, ATP-binding component of ABC superfamily/regulatory protein",cp,FALSE,,,,
+b4036,7,49.9120366,G,lamB,446,maltose outer membrane porin (maltoporin),ep,FALSE,,,,
+b4213,8,70.8318825,F,cpdB,647,2':3'-cyclic-nucleotide 2'-phosphodiesterase,p,FALSE,,,,
+b2835,21,41.6554547,,lplT,397,lysophospholipid transporter,cp,FALSE,,,,
+b2836,23,80.6996884,IQ,aas,719,fused 2-acylglycerophospho-ethanolamine acyl transferase/acyl-acyl carrier protein synthetase,c,FALSE,,,,
+b3553,10,35.3953817,CHR,ghrB,324,glyoxylate/hydroxypyruvate reductase B,c,FALSE,,,,
+b0446,2,30.3708395,R,cof,272,thiamin pyrimidine pyrophosphate hydrolase; HMP-PP phosphatase,c,FALSE,,,,
+b1134,2,17.4328513,F,nudJ,153,bifunctional thiamin pyrimidine pyrophosphate hydrolase/ thiamin pyrophosphate hydrolase,c,FALSE,,,,
+b1009,1,28.8980151,R,rutD,266,"putative aminoacrylate hydrolase, reactive intermediate detoxification",c,FALSE,3AMACHYD,0,0,b1009
+b0954,13,18.9689926,I,fabA,172,beta-hydroxydecanoyl thioester dehydrase,c,FALSE,,,,
+b0180,14,17.0328937,I,fabZ,151,(3R)-hydroxymyristol acyl carrier protein dehydratase,c,FALSE,,,,
+b0347,2,62.1854752,HC,mhpA,554,3-(3-hydroxyphenyl)propionate hydroxylase,c,FALSE,,,,
+b3580,2,55.1546696,G,lyxK,498,L-xylulose kinase,c,FALSE,,,,
+b1093,14,25.5602211,IQR,fabG,244,3-oxoacyl-[acyl-carrier-protein] reductase,c,FALSE,,,,
+b2323,13,42.6132198,IQ,fabB,406,3-oxoacyl-[acyl-carrier-protein] synthase I,c,FALSE,,,,
+b1095,9,43.045633,IQ,fabF,413,3-oxoacyl-[acyl-carrier-protein] synthase II,c,FALSE,,,,
+b1397,2,42.2764291,I,paaJ,401,"3-oxoadipyl-CoA/3-oxo-5,6-dehydrosuberyl-CoA thiolase",c,FALSE,,,,
+b1329,1,59.8999075,E,mppA,537,murein tripeptide (L-ala-gamma-D-glutamyl-meso-DAP) transporter subunit,cp,FALSE,3PEPTabcpp,0,4,(b1329 and b1244 and b1245 and b1246 and b1247)
+b1244,2,33.4430732,EP,oppB,306,oligopeptide transporter subunit,cp,FALSE,,,,
+b1245,2,33.0218084,EP,oppC,302,oligopeptide transporter subunit,cp,FALSE,,,,
+b1246,2,37.1883683,EP,oppD,337,oligopeptide transporter subunit,cp,FALSE,,,,
+b1247,2,37.1974243,E,oppF,334,oligopeptide transporter subunit,cp,FALSE,,,,
+b1386,3,84.3782907,Q,tynA,757,"tyramine oxidase, copper-requiring",p,FALSE,,,,
+b0004,2,47.113628,E,thrC,428,threonine synthase,c,FALSE,,,,
+b1192,4,33.5673345,V,ldcA,304,murein tetrapeptide carboxypeptidase; LD-carboxypeptidase A,c,FALSE,,,,
+b1243,1,60.8986375,E,oppA,543,oligopeptide transporter subunit,cp,FALSE,4PEPTabcpp,0,4,(b1243 and b1244 and b1245 and b1246 and b1247)
+b4266,1,27.5626112,IQR,idnO,254,5-keto-D-gluconate-5-reductase,c,FALSE,5DGLCNR,0,0,b4266
+b4265,3,46.0411144,GE,idnT,439,L-idonate and D-gluconate transporter,cp,FALSE,,,,
+b0159,3,24.3538829,F,mtn,232,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase,c,FALSE,,,,
+b3197,1,35.1960233,M,kdsD,328,D-arabinose 5-phosphate isomerase,c,FALSE,A5PISO,1,0,(b3197 or b2708)
+b2708,1,34.0313472,M,gutQ,321,D-arabinose 5-phosphate isomerase,c,FALSE,A5PISO,1,0,(b3197 or b2708)
+b1094,26,8.6394841,IQ,acpP,78,acyl carrier protein (ACP),c,FALSE,,,,
+b4481,1,40.639413,,wecF,359,TDP-Fuc4NAc:lipidIIFuc4NAc transferase,c,FALSE,AADDGT,0,0,b4481
+b1927,1,56.6391345,G,amyA,495,cytoplasmic alpha-amylase,c,FALSE,AAMYL,0,0,b1927
+b3571,1,75.7123363,G,malS,676,alpha-amylase,p,FALSE,AAMYLpp,0,0,b3571
+b2901,1,55.3605682,G,bglA,479,6-phospho-beta-glucosidase A,c,TRUE,AB6PGH,0,0,b2901
+b2662,1,45.7744748,E,gabT,426,"4-aminobutyrate aminotransferase, PLP-dependent",c,FALSE,ABTA,1,0,(b2662 or b1302)
+b1302,1,44.7289046,E,puuE,421,"GABA aminotransferase, PLP-dependent",c,FALSE,ABTA,1,0,(b2662 or b1302)
+b1444,1,50.8298124,C,patD,474,gamma-aminobutyraldehyde dehydrogenase,c,FALSE,ABUTD,0,0,b1444
+b2663,1,51.0799094,E,gabP,466,gamma-aminobutyrate transporter,cp,FALSE,ABUTt2pp,0,0,b2663
+b2221,3,23.5261293,I,atoD,220,"acetyl-CoA:acetoacetyl-CoA transferase, alpha subunit",c,FALSE,,,,
+b2222,3,22.9596091,I,atoA,216,"acetyl-CoA:acetoacetyl-CoA transferase, beta subunit",c,FALSE,,,,
+b2224,1,40.3523601,I,atoB,394,acetyl-CoA acetyltransferase,c,FALSE,ACACT1r,2,0,(b2224 or b2342 or b3845)
+b2342,8,46.5303456,I,fadI,436,"beta-ketoacyl-CoA thiolase, anaerobic, subunit",c,FALSE,,,,
+b3845,8,40.8761366,I,fadA,387,3-ketoacyl-CoA thiolase (thiolase I),c,FALSE,,,,
+b2223,3,47.5275842,I,atoE,440,short chain fatty acid transporter,cp,FALSE,,,,
+b0351,1,33.4423768,Q,mhpF,316,"acetaldehyde-CoA dehydrogenase II, NAD-binding",c,FALSE,ACALD,1,0,(b0351 or b1241)
+b1241,2,96.1268571,C,adhE,891,fused acetaldehyde-CoA dehydrogenase/iron-dependent alcohol dehydrogenase/pyruvate-formate lyase deactivase,c,FALSE,,,,
+s0001,39,0.001,,,,,"c,cp,e,ep",FALSE,,,,
+b1463,1,32.274441,Q,nhoA,281,N-hydroxyarylamine O-acetyltransferase,c,TRUE,ACANTHAT,0,0,b1463
+b1993,2,20.1639337,H,cobU,181,bifunctional cobinamide kinase/ cobinamide phosphate guanylyltransferase,c,TRUE,,,,
+b0185,1,35.241412,I,accA,319,"acetyl-CoA carboxylase, carboxytransferase, alpha subunit",c,FALSE,ACCOAC,0,3,(b0185 and b2316 and b3255 and b3256)
+b2316,1,33.3218306,I,accD,304,"acetyl-CoA carboxylase, beta (carboxyltransferase) subunit",c,FALSE,ACCOAC,0,3,(b0185 and b2316 and b3255 and b3256)
+b3255,1,16.6871741,I,accB,156,"acetyl CoA carboxylase, BCCP subunit",c,FALSE,ACCOAC,0,3,(b0185 and b2316 and b3255 and b3256)
+b3256,1,49.3205831,I,accC,449,"acetyl-CoA carboxylase, biotin carboxylase subunit",c,FALSE,ACCOAC,0,3,(b0185 and b2316 and b3255 and b3256)
+b4069,2,72.093278,I,acs,652,acetyl-CoA synthetase,c,FALSE,,,,
+b1119,1,33.0425624,KG,nagK,303,N-acetyl-D-glucosamine kinase,c,FALSE,ACGAMK,0,0,b1119
+b3784,1,40.957091,M,wecA,367,UDP-GlcNAc:undecaprenylphosphate GlcNAc-1-phosphate transferase,c,FALSE,ACGAMT,0,0,b3784
+b2417,6,18.250982,G,crr,169,glucose-specific enzyme IIA component of PTS,cp,FALSE,,,,
+b1101,2,50.6763423,G,ptsG,477,fused glucose-specific PTS enzymes: IIB component/IIC component,cp,FALSE,,,,
+b2415,18,9.1193318,G,ptsH,85,phosphohistidinoprotein-hexose phosphotransferase component of PTS system (Hpr),"c,cp",FALSE,,,,
+b2416,19,63.5616033,G,ptsI,575,PEP-protein phosphotransferase of PTS system (enzyme I),"c,cp",FALSE,,,,
+b0679,1,68.3466283,G,nagE,648,"fused N-acetyl glucosamine specific PTS enzyme: IIC, IIB, and IIA components",cp,FALSE,ACGAptspp,1,5,((b2417 and b1101 and b2415 and b2416) or (b0679 and b2415 and b2416))
+b3959,1,27.1594442,E,argB,258,acetylglutamate kinase,c,FALSE,ACGK,0,0,b3959
+b2818,1,49.1949951,E,argA,443,fused acetylglutamate kinase homolog (inactive)/amino acid N-acetyltransferase,c,FALSE,ACGS,0,0,b2818
+b3670,2,11.105727,E,ilvN,96,"acetolactate synthase I, small subunit",c,FALSE,,,,
+b3671,2,60.4403985,EH,ilvB,562,"acetolactate synthase I, large subunit",c,FALSE,,,,
+b0077,2,62.9841367,EH,ilvI,574,"acetolactate synthase III, large subunit",c,FALSE,,,,
+b0078,2,17.9766844,E,ilvH,163,"acetolactate synthase III, thiamin-dependent, small subunit",c,FALSE,,,,
+b3115,2,43.3839664,C,tdcD,402,"propionate kinase/acetate kinase C, anaerobic",c,FALSE,,,,
+b2296,1,43.290297,C,ackA,400,acetate kinase A and propionate kinase 2,c,FALSE,ACKr,2,0,(b3115 or b2296 or b1849)
+b1849,2,42.4335207,F,purT,392,phosphoribosylglycinamide formyltransferase 2,c,FALSE,,,,
+b2428,1,31.2198381,R,murQ,298,N-acetylmuramic acid 6-phosphate (MurNAc-6-P) etherase,c,FALSE,ACM6PH,0,0,b2428
+b3794,1,27.9280618,M,wecG,246,UDP-N-acetyl-D-mannosaminuronic acid transferase,c,FALSE,ACMAMUT,0,0,b3794
+b1817,5,35.0474121,G,manX,323,fused mannose-specific PTS enzymes: IIA component/IIB component,cp,FALSE,,,,
+b1818,5,27.6357076,G,manY,266,mannose-specific enzyme IIC component of PTS,cp,FALSE,,,,
+b1819,5,30.9553672,G,manZ,283,mannose-specific enzyme IID component of PTS,cp,FALSE,,,,
+b2429,2,49.8017607,G,murP,474,"N-acetylmuramic acid permease, EIIBC component, PTS system",cp,FALSE,,,,
+b3224,1,53.5510318,G,nanT,496,sialic acid transporter,cp,FALSE,ACNAMt2pp,0,0,b3224
+b4311,1,27.8878891,,nanC,238,N-acetylnuraminic acid outer membrane channel protein,ep,FALSE,ACNAMtex,2,0,(b4311 or b0929 or b2215)
+b3225,1,32.5933425,EM,nanA,297,N-acetylneuraminate lyase,c,FALSE,ACNML,0,0,b3225
+b0221,8,89.2240901,I,fadE,814,acyl coenzyme A dehydrogenase,c,FALSE,,,,
+b1091,3,33.5150117,I,fabH,317,3-oxoacyl-[acyl-carrier-protein] synthase III,c,FALSE,,,,
+b3957,2,42.3471818,E,argE,383,acetylornithine deacetylase,c,FALSE,,,,
+b3200,9,20.1267993,S,lptA,185,periplasmic LPS-binding protein,cep,FALSE,,,,
+b3201,9,26.8005334,R,lptB,241,lipopolysaccharide export ABC transporter ATP-binding protein of the LptBFGC export complex,cep,FALSE,,,,
+b3199,9,21.7025303,S,lptC,191,"lipopolysaccharide export, IM-tethered periplasmic protein of the LptBFGC export complex",cep,FALSE,,,,
+b4261,9,40.3575003,R,lptF,366,lipopolysaccharide export ABC permease of the LptBFGC export complex,cep,FALSE,,,,
+b4262,9,39.6184732,R,lptG,360,lipopolysaccharide export ABC permease of the LptBFGC export complex,cep,FALSE,,,,
+b1519,1,29.0058396,R,tam,252,trans-aconitate methyltransferase,c,TRUE,ACONMT,0,0,b1519
+b0118,3,93.4977645,C,acnB,865,bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase,c,FALSE,,,,
+b1276,2,97.6768463,C,acnA,891,aconitate hydratase 1,c,FALSE,,,,
+b1748,2,43.6651931,E,astC,406,"succinylornithine transaminase, PLP-dependent",c,FALSE,,,,
+b3359,2,43.7668051,E,argD,406,bifunctional acetylornithine aminotransferase/ succinyldiaminopimelate aminotransferase,c,FALSE,,,,
+b1090,7,38.2142867,I,plsX,356,putative phosphate acyltransferase,c,FALSE,,,,
+b3475,1,21.7677137,H,acpT,195,holo-(acyl carrier protein) synthase 2,c,TRUE,ACPS1,1,0,(b3475 or b2563)
+b2563,1,14.0522303,I,acpS,126,holo-[acyl-carrier-protein] synthase 1,c,TRUE,ACPS1,1,0,(b3475 or b2563)
+b2578,2,21.2482101,E,eamB,195,cysteine and O-acetylserine exporter,cp,FALSE,,,,
+b1533,2,32.3240773,R,eamA,299,cysteine and O-acetyl-L-serine efflux system,cp,FALSE,,,,
+b4067,2,59.1968932,R,actP,549,acetate transporter,cp,FALSE,,,,
+b1623,2,36.3973125,F,add,333,adenosine deaminase,c,FALSE,,,,
+b1096,1,29.7149879,EH,pabC,269,4-amino-4-deoxychorismate lyase component of para-aminobenzoate synthase multienzyme complex,c,FALSE,ADCL,0,0,b1096
+b3360,1,20.7717854,EH,pabA,187,"aminodeoxychorismate synthase, subunit II",c,FALSE,ADCS,0,1,(b3360 and b1812)
+b1812,2,50.9693345,EH,pabB,453,"aminodeoxychorismate synthase, subunit I",c,FALSE,,,,
+b3665,1,63.7391375,F,ade,588,cryptic adenine deaminase,c,FALSE,ADD,0,0,b3665
+b3654,3,48.8678913,F,xanP,463,xanthine permease,cp,FALSE,,,,
+b3714,1,46.8656017,R,purP,445,"adenine permease, high affinity; adenine:H+ symporter",cp,FALSE,ADEt2rpp,1,0,(b3654 or b3714)
+b0474,13,23.5859218,F,adk,214,adenylate kinase,c,FALSE,,,,
+b0120,1,30.3845463,E,speD,264,S-adenosylmethionine decarboxylase,c,FALSE,ADMDC,0,0,b0120
+b3806,1,97.5856,F,cyaA,848,adenylate cyclase,c,FALSE,ADNCYC,0,0,b3806
+b0030,5,32.5606791,F,rihC,304,ribonucleoside hydrolase 3,c,FALSE,,,,
+b2964,11,46.3891018,G,nupG,418,nucleoside transporter,cp,FALSE,,,,
+b2393,7,43.475593,F,nupC,400,nucleoside (except guanosine) transporter,cp,FALSE,,,,
+b2406,6,46.139693,G,xapB,418,xanthosine transporter,cp,FALSE,,,,
+b0411,7,33.5888494,M,tsx,294,"nucleoside channel, receptor of phage T6 and colicin K",ep,FALSE,,,,
+b1992,1,26.3855173,H,cobS,247,cobalamin synthase,c,TRUE,ADOCBLS,0,0,b1992
+b1711,3,34.9491864,H,btuC,326,vitamin B12 transporter subunit: membrane component of ABC superfamily,cp,FALSE,,,,
+b1709,3,27.0810895,H,btuD,249,vitamin B12 transporter subunit : ATP-binding component of ABC superfamily,cp,FALSE,,,,
+b0158,3,29.3666911,P,btuF,266,vitamin B12 transporter subunit: periplasmic-binding component of ABC superfamily,cp,FALSE,,,,
+b3966,3,68.4067726,H,btuB,614,vitamin B12/cobalamin outer membrane transporter,cep,FALSE,,,,
+b1252,10,26.0941346,M,tonB,239,membrane spanning protein in TonB-ExbB-ExbD transport complex,cep,FALSE,,,,
+b3005,10,15.5269439,U,exbD,141,membrane spanning protein in TonB-ExbB-ExbD complex,cep,FALSE,,,,
+b3006,10,26.2872824,U,exbB,244,membrane spanning protein in TonB-ExbB-ExbD complex,cep,FALSE,,,,
+b3397,1,21.15308,LR,nudE,186,"adenosine nucleotide hydrolase; substrates include Ap3A, Ap2A, ADP-ribose, NADH",c,FALSE,ADPRDP,1,0,(b3397 or b3034)
+b3034,1,23.6667028,L,nudF,209,ADP-ribose pyrophosphatase,c,FALSE,ADPRDP,1,0,(b3397 or b3034)
+b0469,1,19.8587742,F,apt,183,adenine phosphoribosyltransferase,c,FALSE,ADPT,0,0,b0469
+b2750,1,22.321213,P,cysC,201,adenosine 5'-phosphosulfate kinase,c,FALSE,ADSK,0,0,b2750
+b1131,2,51.5425624,F,purB,456,adenylosuccinate lyase,c,FALSE,,,,
+b4177,1,47.3447599,F,purA,432,adenylosuccinate synthetase,c,FALSE,ADSS,0,0,b4177
+b0677,1,40.9489569,G,nagA,382,N-acetylglucosamine-6-phosphate deacetylase,c,FALSE,AGDC,0,0,b0677
+b0110,4,20.5360921,V,ampD,183,"1,6-anhydro-N-acetylmuramyl-L-alanine amidase, Zn-dependent; murein amidase",c,FALSE,,,,
+b2435,2,31.4119749,M,amiA,289,N-acetylmuramoyl-l-alanine amidase I,p,FALSE,,,,
+b2817,2,45.6342488,M,amiC,417,N-acetylmuramoyl-L-alanine amidase,p,FALSE,,,,
+b4169,2,47.9850175,M,amiB,445,N-acetylmuramoyl-l-alanine amidase II,p,FALSE,,,,
+b1107,3,37.5946152,G,nagZ,341,beta N-acetyl-glucosaminidase,c,FALSE,,,,
+b0433,3,53.2449756,G,ampG,491,muropeptide transporter,cp,FALSE,,,,
+b3619,1,34.8930078,MG,hldD,310,"ADP-L-glycero-D-mannoheptose-6-epimerase, NAD(P)-binding",c,FALSE,AGMHE,0,0,b3619
+b2937,1,33.5569323,E,speB,306,agmatinase,c,FALSE,AGMT,0,0,b2937
+b3018,7,27.4530531,I,plsC,245,1-acyl-sn-glycerol-3-phosphate acyltransferase,c,FALSE,,,,
+b3958,1,35.9519809,E,argC,334,"N-acetyl-gamma-glutamylphosphate reductase, NAD(P)-binding",c,FALSE,AGPR,0,0,b3958
+b0572,2,50.2693655,MU,cusC,457,"copper/silver efflux system, outer membrane component",ce,TRUE,,,,
+b0573,2,12.2511216,S,cusF,110,periplasmic copper- and silver-binding protein,ce,TRUE,,,,
+b0574,2,44.3047043,M,cusB,407,"copper/silver efflux system, membrane fusion protein",ce,TRUE,,,,
+b0575,2,114.7066756,P,cusA,1047,"copper/silver efflux system, membrane component",ce,TRUE,,,,
+b4006,2,57.329014,F,purH,529,fused IMP cyclohydrolase/phosphoribosylaminoimidazolecarboxamide formyltransferase,c,FALSE,,,,
+b0522,1,39.4609523,F,purK,355,N5-carboxyaminoimidazole ribonucleotide synthase,c,FALSE,AIRC2,0,0,b0522
+b0523,1,17.7802503,F,purE,169,N5-carboxyaminoimidazole ribonucleotide mutase,c,FALSE,AIRC3,0,0,b0523
+b0116,3,50.6882868,C,lpd,474,"lipoamide dehydrogenase, E3 component is part of three enzyme complexes",c,FALSE,,,,
+b0726,1,105.0613065,C,sucA,933,"2-oxoglutarate decarboxylase, thiamin-requiring",c,FALSE,AKGDH,0,2,(b0116 and b0726 and b0727)
+b0727,1,44.0112245,C,sucB,405,dihydrolipoyltranssuccinase,c,FALSE,AKGDH,0,2,(b0116 and b0726 and b0727)
+b2587,1,47.0523534,G,kgtP,432,alpha-ketoglutarate transporter,cp,FALSE,AKGt2rpp,0,0,b2587
+b1488,1,21.2129747,M,ddpX,193,"D-ala-D-ala dipeptidase, Zn-dependent",c,FALSE,ALAALAD,0,0,b1488
+b1487,1,57.6409524,E,ddpA,516,D-ala-D-a la transporter subunit,cp,FALSE,ALAALAabcpp,1,8,((b1487 and b1486 and b1485 and b1484 and b1483) or (b3544 and b3543 and b3542 and b3541 and b3540))
+b1486,1,37.3448543,EP,ddpB,340,D-ala-D-ala transporter subunit,cp,FALSE,ALAALAabcpp,1,8,((b1487 and b1486 and b1485 and b1484 and b1483) or (b3544 and b3543 and b3542 and b3541 and b3540))
+b1485,1,31.9708074,EP,ddpC,298,D-ala-D-ala transporter subunit,cp,FALSE,ALAALAabcpp,1,8,((b1487 and b1486 and b1485 and b1484 and b1483) or (b3544 and b3543 and b3542 and b3541 and b3540))
+b1484,1,36.0997508,EP,ddpD,328,"D,D-dipeptide permease system, ATP-binding component",cp,FALSE,ALAALAabcpp,1,8,((b1487 and b1486 and b1485 and b1484 and b1483) or (b3544 and b3543 and b3542 and b3541 and b3540))
+b1483,1,34.620804,EP,ddpF,308,"D,D-dipeptide permease system, ATP-binding component",cp,FALSE,ALAALAabcpp,1,8,((b1487 and b1486 and b1485 and b1484 and b1483) or (b3544 and b3543 and b3542 and b3541 and b3540))
+b3544,3,60.2934324,E,dppA,535,dipeptide transporter,cp,FALSE,,,,
+b3543,3,37.4968385,EP,dppB,339,dipeptide/heme transporter,cp,FALSE,,,,
+b3542,3,32.308355,EP,dppC,300,dipeptide/heme transporter,cp,FALSE,,,,
+b3541,3,35.8442602,EP,dppD,327,dipeptide/heme transporter,cp,FALSE,,,,
+b3540,3,37.5603159,E,dppF,334,dipeptide transporter,cp,FALSE,,,,
+b0381,1,39.3156435,M,ddlA,364,D-alanine-D-alanine ligase A,c,FALSE,ALAALAr,1,0,(b0381 or b0092)
+b0092,1,32.8395951,M,ddlB,306,D-alanine:D-alanine ligase,c,FALSE,ALAALAr,1,0,(b0381 or b0092)
+b1325,1,34.6739072,MR,ycjG,321,L-Ala-D/L-Glu epimerase,c,FALSE,ALAGLUE,0,0,b1325
+b1190,1,38.8444917,M,dadX,356,"alanine racemase 2, PLP-binding",c,FALSE,ALAR,1,0,(b1190 or b4053)
+b4053,1,39.1528052,M,alr,359,"alanine racemase 1, PLP-binding, biosynthetic",c,FALSE,ALAR,1,0,(b1190 or b4053)
+b2551,6,45.3164161,E,glyA,417,serine hydroxymethyltransferase,c,FALSE,,,,
+b0870,4,36.4945842,E,ltaE,333,"L-allo-threonine aldolase, PLP-dependent",c,FALSE,,,,
+b2290,1,45.5171922,E,alaA,405,valine-pyruvate aminotransferase 2,c,FALSE,ALATA_L,1,0,(b2290 or b2379)
+b2379,1,46.2160402,E,alaC,412,valine-pyruvate aminotransferase 3,c,FALSE,ALATA_L,1,0,(b2290 or b2379)
+b2697,1,96.0320163,J,alaS,876,alanyl-tRNA synthetase,c,TRUE,ALATRS,0,0,b2697
+b3454,5,26.3101459,E,livF,237,leucine/isoleucine/valine transporter subunit,cp,FALSE,,,,
+b3455,5,28.4267417,E,livG,255,leucine/isoleucine/valine transporter subunit,cp,FALSE,,,,
+b3457,5,32.9821919,E,livH,308,leucine/isoleucine/valine transporter subunit,cp,FALSE,,,,
+b3460,5,39.0762366,E,livJ,367,leucine/isoleucine/valine transporter subunit,cp,FALSE,,,,
+b3456,5,46.2691294,E,livM,425,leucine/isoleucine/valine transporter subunit,cp,FALSE,,,,
+b4208,5,51.6594777,E,cycA,470,D-alanine/D-serine/glycine transporter,cp,FALSE,,,,
+b0007,2,51.6627173,E,yaaJ,476,putative transporter,cp,FALSE,,,,
+b0356,3,39.3588728,C,frmA,369,alcohol dehydrogenase class III/glutathione-dependent formaldehyde dehydrogenase,c,FALSE,,,,
+b1478,1,35.3794659,R,adhP,336,ethanol-active dehydrogenase/acetaldehyde-active reductase,c,FALSE,ALCD2x,2,0,(b1478 or b1241 or b0356)
+b1385,1,53.6989318,C,feaB,499,phenylacetaldehyde dehydrogenase,c,FALSE,ALDD19xr,0,0,b1385
+b1300,2,53.4183961,C,puuC,495,"gamma-Glu-gamma-aminobutyraldehyde dehydrogenase, NAD(P)H-dependent",c,FALSE,,,,
+b3588,2,56.3061418,C,aldB,512,aldehyde dehydrogenase B,c,FALSE,,,,
+b4084,1,33.820843,KG,alsK,309,D-allose kinase,c,FALSE,ALLK,0,0,b4084
+b4090,2,16.0732623,G,rpiB,149,ribose 5-phosphate isomerase B/allose 6-phosphate isomerase,c,FALSE,,,,
+b0516,1,45.6938509,E,allC,411,allantoate amidohydrolase,c,FALSE,ALLTAMH,0,0,b0516
+b0512,1,49.6014621,F,allB,453,allantoinase,c,FALSE,ALLTN,0,0,b0512
+b0511,1,52.455861,FH,ybbW,484,putative allantoin transporter,cp,FALSE,ALLTNt2rpp,0,0,b0511
+b4085,1,26.1091134,G,alsE,231,allulose-6-phosphate 3-epimerase,c,FALSE,ALLULPE,0,0,b4085
+b4087,2,56.7447133,G,alsA,510,fused D-allose transporter subunits of ABC superfamily: ATP-binding components,cp,FALSE,,,,
+b4088,2,32.9097736,G,alsB,311,D-allose transporter subunit,cp,FALSE,,,,
+b4086,2,34.3155317,G,alsC,326,D-allose transporter subunit,cp,FALSE,,,,
+b0657,2,57.0655525,M,lnt,512,apolipoprotein N-acyltransferase,p,TRUE,,,,
+b1677,2,8.3234598,M,lpp,78,murein lipoprotein,p,TRUE,,,,
+b3012,2,31.1094865,R,dkgA,275,"2,5-diketo-D-gluconate reductase A",c,FALSE,,,,
+b0207,2,29.4366547,R,dkgB,267,"2,5-diketo-D-gluconate reductase B",c,FALSE,,,,
+b1781,1,30.9865086,R,yeaE,284,"aldo-keto reductase, methylglyoxal to acetol, NADPH-dependent",c,FALSE,ALR2,3,0,(b3012 or b0207 or b1781 or b3001)
+b3001,1,38.8320109,C,gpr,346,L-glyceraldehyde 3-phosphate reductase,c,FALSE,ALR2,3,0,(b3012 or b0207 or b1781 or b3001)
+b3945,4,38.7120599,C,gldA,367,"glycerol dehydrogenase, NAD",c,FALSE,,,,
+b3091,1,54.0928933,G,uxaA,495,altronate hydrolase,c,FALSE,ALTRH,0,0,b3091
+b3416,4,78.5032079,G,malQ,694,4-alpha-glucanotransferase (amylomaltase),c,FALSE,,,,
+b3223,1,24.0735861,G,nanE,229,putative N-acetylmannosamine-6-P epimerase,c,FALSE,AMANAPEr,0,0,b3223
+b3222,1,29.6437533,KG,nanK,291,N-acetylmannosamine kinase,c,FALSE,AMANK,0,0,b3222
+b0774,1,47.3354971,H,bioA,429,"7,8-diaminopelargonic acid synthase, PLP-dependent",c,FALSE,AMAOTr,0,0,b0774
+b3833,2,28.0731127,H,ubiE,251,"bifunctional 2-octaprenyl-6-methoxy-1,4-benzoquinone methylase/ S-adenosylmethionine:2-DMK methyltransferase",c,FALSE,,,,
+b3994,1,70.8501185,H,thiC,631,thiamin (pyrimidine moiety) biosynthesis protein,c,FALSE,AMPMS2,0,0,b3994
+b1982,1,53.9946568,F,amn,484,AMP nucleosidase,c,FALSE,AMPN,0,0,b1982
+b0237,3,52.915197,E,pepD,485,aminoacyl-histidine dipeptidase (peptidase D),c,FALSE,,,,
+b0932,2,98.91852,E,pepN,870,aminopeptidase N,c,FALSE,,,,
+b4260,2,54.879644,E,pepA,503,"multifunctional aminopeptidase A: a cyteinylglycinase, transcription regulator and site-specific recombination factor",c,FALSE,,,,
+b2523,2,46.1799891,E,pepB,427,aminopeptidase B,c,FALSE,,,,
+b1640,1,39.4961295,O,anmK,369,anhydro-N-acetylmuramic acid kinase,c,FALSE,ANHMK,0,0,b1640
+b1263,2,56.8697269,E,trpD,531,fused glutamine amidotransferase (component II) of anthranilate synthase/anthranilate phosphoribosyl transferase,c,FALSE,,,,
+b1264,1,57.4942742,EH,trpE,520,component I of anthranilate synthase,c,FALSE,ANS,0,1,(b1263 and b1264)
+b0776,1,41.5941046,H,bioF,384,8-amino-7-oxononanoate synthase,c,FALSE,AOXSr2,0,0,b0776
+b0049,3,31.2965963,T,apaH,280,diadenosine tetraphosphatase,c,FALSE,,,,
+b4129,2,57.8263415,J,lysU,505,"lysine tRNA synthetase, inducible",c,FALSE,,,,
+b0121,2,32.321272,E,speE,288,spermidine synthase (putrescine aminopropyltransferase),c,FALSE,,,,
+b3059,7,22.1933511,S,plsY,205,putative glycerol-3-phosphate acyltransferase,c,FALSE,,,,
+b0968,7,10.2997186,C,yccX,92,weak acylphosphatase,c,FALSE,,,,
+b0414,2,40.3381755,H,ribD,367,fused diaminohydroxyphosphoribosylaminopyrimidine deaminase and 5-amino-6-(5-phosphoribosylamino) uracil reductase,c,FALSE,,,,
+b0062,1,56.0738,G,araA,500,L-arabinose isomerase,c,FALSE,ARAI,0,0,b0062
+b0153,5,70.4227908,P,fhuB,660,fused iron-hydroxamate transporter subunits of ABC superfamily: membrane components,cp,FALSE,,,,
+b0151,5,28.8863272,PH,fhuC,265,iron-hydroxamate transporter subunit,cp,FALSE,,,,
+b0152,5,32.9982199,P,fhuD,296,iron-hydroxamate transporter subunit,cp,FALSE,,,,
+b3722,1,66.4827007,G,bglF,625,fused beta-glucoside-specific PTS enzymes: IIA component/IIB component/IIC component,cp,TRUE,ARBTptspp,1,4,((b3722 and b2415 and b2416) or (b2715 and b2415 and b2416))
+b2715,1,51.0258035,G,ascF,485,fused cellobiose/arbutin/salicin-specific PTS enzymes: IIB component/IC component,cp,TRUE,ARBTptspp,1,4,((b3722 and b2415 and b2416) or (b2715 and b2415 and b2416))
+b1901,1,35.5407729,G,araF,329,L-arabinose transporter subunit,cp,FALSE,ARBabcpp,0,2,(b1901 and b1900 and b4460)
+b1900,1,55.018029,G,araG,504,fused L-arabinose transporter subunits of ABC superfamily: ATP-binding components,cp,FALSE,ARBabcpp,0,2,(b1901 and b1900 and b4460)
+b4460,1,34.2108105,G,araH,328,fused L-arabinose transporter subunits of ABC superfamily: membrane components,cp,FALSE,ARBabcpp,0,2,(b1901 and b1900 and b4460)
+b2841,1,51.6843034,G,araE,472,arabinose transporter,cp,FALSE,ARBt2rpp,0,0,b2841
+b1528,3,42.5380503,G,ydeA,396,"arabinose efflux transporter, arabinose-inducible",cp,FALSE,,,,
+b4115,1,46.8424612,E,adiC,445,arginine:agmatine antiporter,cp,FALSE,ARGAGMt7pp,0,0,b4115
+b4117,1,84.4249551,E,adiA,755,arginine decarboxylase,c,FALSE,ARGDC,0,0,b4117
+b2938,1,73.8982056,E,speA,658,"biosynthetic arginine decarboxylase, PLP-binding",p,FALSE,ARGDCpp,0,0,b2938
+b1605,1,49.5012963,E,ydgI,460,putative arginine/ornithine antiporter transporter,cp,FALSE,ARGORNt7pp,0,0,b1605
+b3960,1,50.318035,E,argH,457,argininosuccinate lyase,c,FALSE,ARGSL,0,0,b3960
+b3172,1,49.8982274,E,argG,447,argininosuccinate synthetase,c,FALSE,ARGSS,0,0,b3172
+b1876,1,64.6827288,J,argS,577,arginyl-tRNA synthetase,c,TRUE,ARGTRS,0,0,b1876
+b2310,3,27.9915296,ET,argT,260,lysine/arginine/ornithine transporter subunit,cp,FALSE,,,,
+b2307,4,26.8696716,E,hisM,238,histidine/lysine/arginine/ornithine transporter subunit,cp,FALSE,,,,
+b2306,4,28.6529253,E,hisP,257,histidine/lysine/arginine/ornithine transporter subunit,cp,FALSE,,,,
+b2308,4,24.6491705,E,hisQ,228,histidine/lysine/arginine/ornithine transporter permease subunit,cp,FALSE,,,,
+b0863,1,26.9294327,ET,artI,243,arginine transporter subunit,cp,FALSE,ARGabcpp,1,7,((b2310 and b2307 and b2306 and b2308) or (b0863 and b0860 and b0861 and b0864 and b0862))
+b0860,1,26.8293592,ET,artJ,243,"arginine binding protein, periplasmic",cp,FALSE,ARGabcpp,1,7,((b2310 and b2307 and b2306 and b2308) or (b0863 and b0860 and b0861 and b0864 and b0862))
+b0861,1,24.9136715,E,artM,222,arginine transporter subunit,cp,FALSE,ARGabcpp,1,7,((b2310 and b2307 and b2306 and b2308) or (b0863 and b0860 and b0861 and b0864 and b0862))
+b0864,1,27.0219557,E,artP,242,arginine transporter subunit,cp,FALSE,ARGabcpp,1,7,((b2310 and b2307 and b2306 and b2308) or (b0863 and b0860 and b0861 and b0864 and b0862))
+b0862,1,26.2170171,E,artQ,238,arginine transporter subunit,cp,FALSE,ARGabcpp,1,7,((b2310 and b2307 and b2306 and b2308) or (b0863 and b0860 and b0861 and b0864 and b0862))
+b2923,2,23.1756191,R,argO,211,arginine transporter,cp,FALSE,,,,
+b3433,1,40.0177461,E,asd,367,"aspartate-semialdehyde dehydrogenase, NAD(P)-binding",c,FALSE,ASAD,0,0,b3433
+b4192,1,40.060517,R,ulaG,354,L-ascorbate 6-phosphate lactonase,c,FALSE,ASCBPL,0,0,b4192
+b4195,1,17.2374673,GT,ulaC,154,L-ascorbate-specific enzyme IIA component of PTS,cp,FALSE,ASCBptspp,0,4,(b2415 and b2416 and b4195 and b4194 and b4193)
+b4194,1,10.8955913,G,ulaB,101,L-ascorbate-specific enzyme IIB component of PTS,cp,FALSE,ASCBptspp,0,4,(b2415 and b2416 and b4195 and b4194 and b4193)
+b4193,1,50.7373709,S,ulaA,465,L-ascorbate-specific enzyme IIC component of PTS,cp,FALSE,ASCBptspp,0,4,(b2415 and b2416 and b4195 and b4194 and b4193)
+b1767,1,37.1270981,EJ,ansA,338,cytoplasmic L-asparaginase I,c,FALSE,ASNN,1,0,(b1767 or b0828)
+b0828,1,33.393902,E,iaaA,321,Isoaspartyl peptidase,c,FALSE,ASNN,1,0,(b1767 or b0828)
+b2957,2,36.8505416,EJ,ansB,348,periplasmic L-asparaginase II,p,FALSE,,,,
+b0674,1,62.6587749,E,asnB,554,asparagine synthetase B,c,FALSE,ASNS1,0,0,b0674
+b3744,1,36.6503896,E,asnA,330,asparagine synthetase A,c,FALSE,ASNS2,0,0,b3744
+b0930,1,52.5702073,J,asnS,466,asparaginyl tRNA synthetase,c,TRUE,ASNTRS,0,0,b0930
+b1453,1,54.2328803,E,ansP,499,L-asparagine transporter,cp,FALSE,ASNt2rpp,0,0,b1453
+b3502,1,45.4972351,P,arsB,429,arsenite/antimonite transporter,cp,TRUE,ASO3t8pp,0,0,b3502
+b0131,1,13.8336864,H,panD,126,aspartate 1-decarboxylase,c,FALSE,ASP1DC,0,0,b0131
+b4244,1,17.1205687,F,pyrI,153,"aspartate carbamoyltransferase, regulatory subunit",c,FALSE,ASPCT,1,1,((b4244 and b4245) or b4245)
+b4245,1,34.4272188,F,pyrB,311,"aspartate carbamoyltransferase, catalytic subunit",c,FALSE,ASPCT,1,1,((b4244 and b4245) or b4245)
+b0002,2,89.1199356,E,thrA,820,fused aspartokinase I and homoserine dehydrogenase I,c,FALSE,,,,
+b3940,2,88.8872992,E,metL,810,fused aspartokinase II/homoserine dehydrogenase II,c,FALSE,,,,
+b4024,1,48.5315327,E,lysC,449,aspartokinase III,c,FALSE,ASPK,2,0,(b0002 or b3940 or b4024)
+b2574,4,60.3371916,H,nadB,540,"quinolinate synthase, L-aspartate oxidase (B protein) subunit",c,FALSE,,,,
+b4139,1,52.355986,E,aspA,478,aspartate ammonia-lyase,c,FALSE,ASPT,0,0,b4139
+b0928,3,43.5731827,E,aspC,396,"aspartate aminotransferase, PLP-dependent",c,FALSE,,,,
+b1866,1,65.9132135,J,aspS,590,aspartyl-tRNA synthetase,c,TRUE,ASPTRS,0,0,b1866
+b0655,2,33.4200331,ET,gltI,302,"glutamate, aspartate binding protein, periplasmic; part of GltJKLI ABC transporter",cp,FALSE,,,,
+b0654,2,27.502588,E,gltJ,246,"glutamate, aspartate ABC transporter permease subunit",cp,FALSE,,,,
+b0653,2,24.9146249,E,gltK,224,"glutamate, aspartate ABC transporter permease subunit",cp,FALSE,,,,
+b0652,2,26.6610202,E,gltL,241,"glutamate, aspartate ABC transporter ATP-binding subunit",cp,FALSE,,,,
+b3528,6,45.4361098,C,dctA,428,"C4-dicarboxylic acid, orotate and citrate transporter",cp,FALSE,,,,
+b4138,7,45.7505425,R,dcuA,433,C4-dicarboxylate antiporter,cp,FALSE,,,,
+b4123,9,47.9350862,R,dcuB,446,"C4-dicarboxylate transporter, anaerobic; DcuS co-sensor",cp,FALSE,,,,
+b4077,2,47.1589839,C,gltP,437,glutamate/aspartate:proton symporter,cp,FALSE,,,,
+b3503,1,15.8532497,P,arsC,141,arsenate reductase,c,TRUE,ASR,0,1,(b3503 and b1064)
+b1064,7,24.3501125,O,grxB,215,glutaredoxin 2 (Grx2),c,FALSE,,,,
+b1747,1,38.4557281,E,astA,344,arginine succinyltransferase,c,FALSE,AST,0,0,b1747
+b1539,4,27.2488355,R,ydfG,248,"malonic semialdehyde reductase, NADPH-dependent; L-allo-threonine dehydrogenase, NAD(P)-dependent; also oxidizes L-serine, D-serine, D-threonine and 3-hydroxyisobutyrate",c,FALSE,,,,
+b2019,1,33.3666321,E,hisG,299,ATP phosphoribosyltransferase,c,FALSE,ATPPRT,0,0,b2019
+b3736,1,17.2638819,C,atpF,156,"F0 sector of membrane-bound ATP synthase, subunit b",cp,FALSE,ATPS4rpp,1,15,(((b3736 and b3737 and b3738) and (b3731 and b3732 and b3733 and b3734 and b3735) and b3739) or ((b3736 and b3737 and b3738) and (b3731 and b3732 and b3733 and b3734 and b3735)))
+b3737,1,8.2561066,C,atpE,79,"F0 sector of membrane-bound ATP synthase, subunit c",cp,FALSE,ATPS4rpp,1,15,(((b3736 and b3737 and b3738) and (b3731 and b3732 and b3733 and b3734 and b3735) and b3739) or ((b3736 and b3737 and b3738) and (b3731 and b3732 and b3733 and b3734 and b3735)))
+b3738,1,30.3031226,C,atpB,271,"F0 sector of membrane-bound ATP synthase, subunit a",cp,FALSE,ATPS4rpp,1,15,(((b3736 and b3737 and b3738) and (b3731 and b3732 and b3733 and b3734 and b3735) and b3739) or ((b3736 and b3737 and b3738) and (b3731 and b3732 and b3733 and b3734 and b3735)))
+b3731,1,15.0682147,C,atpC,139,"F1 sector of membrane-bound ATP synthase, epsilon subunit",cp,FALSE,ATPS4rpp,1,15,(((b3736 and b3737 and b3738) and (b3731 and b3732 and b3733 and b3734 and b3735) and b3739) or ((b3736 and b3737 and b3738) and (b3731 and b3732 and b3733 and b3734 and b3735)))
+b3732,1,50.3252287,C,atpD,460,"F1 sector of membrane-bound ATP synthase, beta subunit",cp,FALSE,ATPS4rpp,1,15,(((b3736 and b3737 and b3738) and (b3731 and b3732 and b3733 and b3734 and b3735) and b3739) or ((b3736 and b3737 and b3738) and (b3731 and b3732 and b3733 and b3734 and b3735)))
+b3733,1,31.5773259,C,atpG,287,"F1 sector of membrane-bound ATP synthase, gamma subunit",cp,FALSE,ATPS4rpp,1,15,(((b3736 and b3737 and b3738) and (b3731 and b3732 and b3733 and b3734 and b3735) and b3739) or ((b3736 and b3737 and b3738) and (b3731 and b3732 and b3733 and b3734 and b3735)))
+b3734,1,55.2218497,C,atpA,513,"F1 sector of membrane-bound ATP synthase, alpha subunit",cp,FALSE,ATPS4rpp,1,15,(((b3736 and b3737 and b3738) and (b3731 and b3732 and b3733 and b3734 and b3735) and b3739) or ((b3736 and b3737 and b3738) and (b3731 and b3732 and b3733 and b3734 and b3735)))
+b3735,1,19.3321672,C,atpH,177,"F1 sector of membrane-bound ATP synthase, delta subunit",cp,FALSE,ATPS4rpp,1,15,(((b3736 and b3737 and b3738) and (b3731 and b3732 and b3733 and b3734 and b3735) and b3739) or ((b3736 and b3737 and b3738) and (b3731 and b3732 and b3733 and b3734 and b3735)))
+b3739,1,13.631661,C,atpI,126,"ATP synthase, membrane-bound accessory factor",cp,FALSE,ATPS4rpp,1,15,(((b3736 and b3737 and b3738) and (b3731 and b3732 and b3733 and b3734 and b3735) and b3739) or ((b3736 and b3737 and b3738) and (b3731 and b3732 and b3733 and b3734 and b3735)))
+b0312,2,52.91094,C,betB,490,"betaine aldehyde dehydrogenase, NAD-dependent",c,TRUE,,,,
+b0827,4,44.067104,H,moeA,411,molybdopterin molybdenumtransferase; molybdopterin biosynthesis protein,c,FALSE,,,,
+b3857,5,21.6427932,H,mobA,194,molybdopterin-guanine dinucleotide synthase,c,FALSE,,,,
+b3856,5,19.3633069,H,mobB,175,molybdopterin-guanine dinucleotide biosynthesis protein B,c,FALSE,,,,
+b4214,1,27.1757565,P,cysQ,246,"PAPS (adenosine 3'-phosphate 5'-phosphosulfate) 3'(2'),5'-bisphosphate nucleotidase",c,FALSE,BPNT,0,0,b4214
+b3551,3,85.8503391,C,bisC,777,biotin sulfoxide reductase,c,FALSE,,,,
+b0775,1,38.6479961,H,bioB,346,biotin synthase,c,FALSE,BTS5,0,0,b0775
+b0936,5,34.5575694,P,ssuA,319,"aliphatic sulfonate binding protein, SsuABC ABC transporter",cp,FALSE,,,,
+b0933,5,27.7379899,P,ssuB,255,alkanesulfonate transporter subunit,cp,FALSE,,,,
+b0934,5,28.9253173,P,ssuC,263,putative alkanesulfonate transporter subunit,cp,FALSE,,,,
+b0365,3,34.2659278,P,tauA,320,taurine transporter subunit,cp,FALSE,,,,
+b0366,3,28.2966251,P,tauB,255,taurine transporter subunit,cp,FALSE,,,,
+b0367,3,29.811783,P,tauC,275,taurine transporter subunit,cp,FALSE,,,,
+b1216,3,39.1683086,P,chaA,366,calcium/sodium:proton antiporter,cp,FALSE,,,,
+b4132,1,46.6649028,E,cadB,444,putative lysine/cadaverine transporter,cp,FALSE,CADVtpp,0,0,b4132
+b1732,1,84.1621999,P,katE,753,"catalase HPII, heme d-containing",c,TRUE,CAT,1,0,(b1732 or b3942)
+b3942,1,80.0234287,P,katG,726,"catalase-peroxidase HPI, heme b-containing",c,TRUE,CAT,1,0,(b1732 or b3942)
+b3196,1,34.7404631,P,yrbG,325,putative calcium/sodium:proton antiporter,cp,FALSE,CAt6pp,0,0,b3196
+b1270,2,21.9988007,H,btuR,196,cob(I)alamin adenolsyltransferase/cobinamide ATP-dependent adenolsyltransferase,c,FALSE,,,,
+b0521,1,31.6440025,E,ybcF,297,putative carbamate kinase,c,FALSE,CBMKr,2,0,(b0521 or b0323 or b2874)
+b0323,1,33.9307239,E,yahI,316,carbamate kinase-like protein,c,FALSE,CBMKr,2,0,(b0521 or b0323 or b2874)
+b2874,1,33.0708456,E,yqeA,310,putative amino acid kinase,c,FALSE,CBMKr,2,0,(b0521 or b0323 or b2874)
+b0032,1,41.4308396,EF,carA,382,"carbamoyl phosphate synthetase small subunit, glutamine amidotransferase",c,FALSE,CBPS,0,1,(b0032 and b0033)
+b0033,1,117.8413094,EF,carB,1073,carbamoyl-phosphate synthase large subunit,c,FALSE,CBPS,0,1,(b0032 and b0033)
+b0444,1,25.5140971,R,queC,231,7-cyano-7-deazaguanine (preQ0) synthase; queuosine biosynthesis,c,TRUE,CCGS,0,0,b0444
+b3469,6,76.8395792,P,zntA,732,"zinc, cobalt and lead efflux system",cp,FALSE,,,,
+b3915,7,32.9271396,P,fieF,300,ferrous iron and zinc transporter,cp,FALSE,,,,
+b0752,5,34.6782872,P,zitB,313,zinc efflux system,cp,FALSE,,,,
+b3040,6,26.4847045,P,zupT,257,zinc transporter,cp,FALSE,,,,
+b3918,7,28.4506602,I,cdh,251,CDP-diacylglycerol phosphotidylhydrolase,c,FALSE,,,,
+b2794,1,32.5873575,S,queF,282,7-cyano-7-deazaguanine reductase (NADPH-dependent),c,TRUE,CDGR,0,0,b2794
+b1208,1,30.9252481,I,ispE,283,4-diphosphocytidyl-2-C-methylerythritol kinase,c,FALSE,CDPMEK,0,0,b1208
+b1661,4,43.9088571,M,cfa,382,cyclopropane fatty acyl phospholipid synthase (unsaturated-phospholipid methyltransferase),c,TRUE,,,,
+b2128,2,25.5144079,E,yehW,243,putative transporter subunit: membrane component of ABC superfamily,cp,TRUE,,,,
+b2129,2,34.4243795,E,yehX,308,putative transporter subunit: ATP-binding component of ABC superfamily,cp,TRUE,,,,
+b2130,2,41.1383974,E,yehY,385,putative transporter subunit: membrane component of ABC superfamily,cp,TRUE,,,,
+b2131,2,32.6091359,M,osmF,305,putative transporter subunit: periplasmic-binding component of ABC superfamily,cp,TRUE,,,,
+b0314,1,75.8418698,M,betT,677,choline transporter of high affinity,cp,TRUE,CHLt2pp,1,0,(b0314 or b1801)
+b1801,3,52.8809521,M,yeaV,481,putative transporter,cp,FALSE,,,,
+b0311,1,61.8774,E,betA,556,"choline dehydrogenase, a flavoprotein",c,TRUE,CHOLD,0,0,b0311
+b2599,2,43.1111759,E,pheA,386,fused chorismate mutase P/prephenate dehydratase,c,FALSE,,,,
+b2600,2,42.0423531,E,tyrA,373,fused chorismate mutase T/prephenate dehydrogenase,c,FALSE,,,,
+b2329,1,39.1373053,E,aroC,361,chorismate synthase,c,FALSE,CHORS,0,0,b2329
+b4039,1,18.7768356,H,ubiC,165,chorismate--pyruvate lyase,c,FALSE,CHRPL,0,0,b4039
+b2538,2,51.1090031,PR,hcaE,453,"3-phenylpropionate dioxygenase, large (alpha) subunit",c,FALSE,,,,
+b2539,2,20.5791459,Q,hcaF,172,"3-phenylpropionate dioxygenase, small (beta) subunit",c,FALSE,,,,
+b2540,2,11.3287447,PR,hcaC,106,"3-phenylpropionate dioxygenase, predicted ferredoxin subunit",c,FALSE,,,,
+b2542,2,43.9780424,R,hcaD,400,"phenylpropionate dioxygenase, ferredoxin reductase subunit",c,FALSE,,,,
+b0615,1,55.1725192,C,citF,510,"citrate lyase, citrate-ACP transferase (alpha) subunit",c,FALSE,CITL,0,3,((b0615 and b0616 and b0617) and b0614)
+b0616,1,33.1095231,G,citE,302,"citrate lyase, citryl-ACP lyase (beta) subunit",c,FALSE,CITL,0,3,((b0615 and b0616 and b0617) and b0614)
+b0617,1,10.6892443,C,citD,98,"citrate lyase, acyl carrier (gamma) subunit",c,FALSE,CITL,0,3,((b0615 and b0616 and b0617) and b0614)
+b0614,1,20.270285,HI,citX,183,apo-citrate lyase phosphoribosyl-dephospho-CoA transferase,c,FALSE,CITL,0,3,((b0615 and b0616 and b0617) and b0614)
+b0612,1,53.0923613,P,citT,487,citrate:succinate antiporter,cp,FALSE,CITt7pp,0,0,b0612
+b0789,7,47.6332854,I,clsB,413,cardiolipin synthase 2,p,FALSE,,,,
+b1249,7,54.8221642,I,clsA,486,cardiolipin synthase 1,p,FALSE,,,,
+b0155,1,50.3485396,P,clcA,473,H(+)/Cl(-) exchange transporter,cp,FALSE,CLt3_2pp,1,0,(b0155 or b1592)
+b1592,1,44.15322,P,clcB,418,H(+)/Cl(-) exchange transporter,cp,FALSE,CLt3_2pp,1,0,(b0155 or b1592)
+b0463,7,42.1965094,M,acrA,397,multidrug efflux system,cep,FALSE,,,,
+b0462,7,113.5732288,V,acrB,1049,multidrug efflux system protein,cep,FALSE,,,,
+b3035,9,53.7404651,MU,tolC,493,transport channel,"cep,cp",FALSE,,,,
+b2470,7,113.0469321,V,acrD,1037,aminoglycoside/multidrug efflux system,cep,FALSE,,,,
+b3816,3,36.5895529,P,corA,316,magnesium/nickel/cobalt transporter,cp,FALSE,,,,
+b2174,1,26.759016,I,lpxT,237,lipid A 1-diphosphate synthase; undecaprenyl pyrophosphate:lipid A 1-phosphate phosphotransferase,p,FALSE,COLIPAKpp,0,0,b2174
+b0914,32,64.4604976,V,msbA,582,fused lipid transporter subunits of ABC superfamily: membrane component/ATP-binding component,cp,FALSE,,,,
+b1102,1,81.2323023,P,fhuE,729,ferric-rhodotorulic acid outer membrane transporter,cep,FALSE,CPGNtonex,0,3,(b1102 and (b1252 and b3005 and b3006))
+b2765,1,13.7728348,H,queD,121,6-pyruvoyl tetrahydrobiopterin synthase (PTPS),c,TRUE,CPH4S,0,0,b2765
+b0781,1,37.3462814,H,moaA,329,molybdopterin biosynthesis protein A,c,FALSE,CPMPS,0,1,(b0781 and b0783)
+b0783,1,17.4672022,H,moaC,161,"molybdopterin biosynthesis, protein C",c,FALSE,CPMPS,0,1,(b0781 and b0783)
+b2436,1,34.3224779,H,hemF,299,coproporphyrinogen III oxidase,c,FALSE,CPPPGO,0,0,b2436
+b3867,1,52.7288251,H,hemN,457,"coproporphyrinogen III oxidase, SAM and NAD(P)H dependent, oxygen-independent",c,FALSE,CPPPGO2,0,0,b3867
+b0038,2,45.1266153,C,caiB,405,crotonobetainyl CoA:carnitine CoA transferase,c,TRUE,,,,
+b0037,3,58.558919,IQ,caiC,517,putative crotonobetaine/carnitine-CoA ligase,c,TRUE,,,,
+b0036,2,28.1901209,I,caiD,261,carnitinyl-CoA dehydratase,c,TRUE,,,,
+b2677,4,44.1626341,E,proV,400,glycine betaine transporter subunit,cp,FALSE,,,,
+b2678,4,37.6195498,E,proW,354,glycine betaine transporter subunit,cp,FALSE,,,,
+b2679,4,36.0223864,E,proX,330,glycine betaine transporter subunit,cp,FALSE,,,,
+b4111,5,54.8456079,G,proP,500,proline/glycine betaine transporter,cp,FALSE,,,,
+b0040,2,56.5870844,M,caiT,504,putative transporter,cp,FALSE,,,,
+b0720,1,48.0148555,C,gltA,427,citrate synthase,c,FALSE,CS,0,0,b0720
+b0337,1,47.5907788,FR,codA,427,cytosine/isoguanine deaminase,c,FALSE,CSND,0,0,b0337
+b0336,1,43.6494329,F,codB,419,cytosine transporter,cp,FALSE,CSNt2pp,0,0,b0336
+b3846,19,79.5935903,I,fadB,729,fused 3-hydroxybutyryl-CoA epimerase/delta(3)-cis-delta(2)-trans-enoyl-CoA isomerase/enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase,c,FALSE,,,,
+b2780,1,60.3739219,F,pyrG,545,CTP synthetase,c,FALSE,CTPS2,0,0,b2780
+b0123,2,56.5560029,Q,cueO,516,multicopper oxidase (laccase),p,FALSE,,,,
+b0484,1,87.8728421,P,copA,834,copper transporter,cp,TRUE,CU1abcpp,0,0,b0484
+b3425,1,12.0824341,P,glpE,108,thiosulfate:cyanide sulfurtransferase (rhodanese),c,TRUE,CYANST,0,0,b3425
+b1308,1,11.4752676,P,pspE,104,thiosulfate:cyanide sulfurtransferase (rhodanese),p,FALSE,CYANSTpp,0,0,b1308
+b0340,1,17.0487644,P,cynS,156,cyanate aminohydrolase,c,FALSE,CYNTAH,0,0,b0340
+b0341,1,41.3605574,P,cynX,384,putative cyanate transporter,cp,FALSE,CYNTt2pp,0,0,b0341
+b1919,1,35.1531718,E,dcyD,328,"D-cysteine desulfhydrase, PLP-dependent",c,FALSE,CYSDDS,0,0,b1919
+b3708,3,52.7732797,E,tnaA,471,"tryptophanase/L-cysteine desulfhydrase, PLP-dependent",c,FALSE,,,,
+b3008,2,43.2122189,E,metC,395,"cystathionine beta-lyase, PLP-dependent",c,FALSE,,,,
+b2414,1,34.4895005,E,cysK,323,"cysteine synthase A, O-acetylserine sulfhydrolase A subunit",c,FALSE,CYSS,1,0,(b2414 or b2421)
+b2421,1,32.6640653,E,cysM,303,cysteine synthase B (O-acetylserine sulfhydrolase B),c,FALSE,CYSS,1,0,(b2414 or b2421)
+b2810,1,43.2340065,E,csdA,401,cysteine sulfinate desulfinase,c,TRUE,CYSSADS,0,0,b2810
+b1622,1,43.6417039,E,malY,390,"bifunctional beta-cystathionase, PLP-dependent/ regulator of maltose regulon",c,FALSE,CYSTL,1,0,(b1622 or b3008)
+b0526,1,52.2019303,J,cysS,461,cysteinyl-tRNA synthetase,c,TRUE,CYSTRS,0,0,b0526
+b0886,2,62.9198883,CO,cydC,573,"fused glutathione, cysteine exporter subunits of ABC superfamily: membrane component/ATP-binding component",cp,FALSE,,,,
+b0887,2,65.0558909,CO,cydD,588,"fused glutathione, cysteine exporter subunits of ABC superfamily: membrane component/ATP-binding component",cp,FALSE,,,,
+b0978,2,57.9196355,C,appC,514,"cytochrome bd-II oxidase, subunit I",cp,FALSE,,,,
+b0979,2,42.4236921,C,appB,378,"cytochrome bd-II oxidase, subunit II",cp,FALSE,,,,
+b0733,1,58.2048592,C,cydA,522,"cytochrome d terminal oxidase, subunit I",cp,FALSE,CYTBDpp,1,2,((b0978 and b0979) or (b0733 and b0734))
+b0734,1,42.452971,C,cydB,379,"cytochrome d terminal oxidase, subunit II",cp,FALSE,CYTBDpp,1,2,((b0978 and b0979) or (b0733 and b0734))
+b0429,1,12.0294379,C,cyoD,109,cytochrome o ubiquinol oxidase subunit IV,cp,FALSE,CYTBO3_4pp,0,3,(b0429 and b0430 and b0431 and b0432)
+b0430,1,22.6225572,C,cyoC,204,cytochrome o ubiquinol oxidase subunit III,cp,FALSE,CYTBO3_4pp,0,3,(b0429 and b0430 and b0431 and b0432)
+b0431,1,74.3676259,C,cyoB,663,cytochrome o ubiquinol oxidase subunit I,cp,FALSE,CYTBO3_4pp,0,3,(b0429 and b0430 and b0431 and b0432)
+b0432,1,34.9111781,C,cyoA,315,cytochrome o ubiquinol oxidase subunit II,cp,FALSE,CYTBO3_4pp,0,3,(b0429 and b0430 and b0431 and b0432)
+b2143,2,31.5397506,F,cdd,294,cytidine/deoxycytidine deaminase,c,FALSE,,,,
+b2162,2,33.7479271,F,rihB,313,ribonucleoside hydrolase 2,c,FALSE,,,,
+b0651,2,33.8227933,F,rihA,311,ribonucleoside hydrolase 1,c,FALSE,,,,
+b2066,2,24.3530359,F,udk,213,uridine/cytidine kinase,c,FALSE,,,,
+b0910,3,24.7462315,F,cmk,227,cytidylate kinase,c,FALSE,,,,
+b3603,3,59.1679285,C,lldP,551,L-lactate permease,cp,FALSE,,,,
+b2975,3,58.9199092,C,glcA,560,glycolate transporter,cp,FALSE,,,,
+b1189,1,47.6071269,E,dadA,432,D-amino acid dehydrogenase,c,FALSE,DAAD,0,0,b1189
+b4042,7,13.244633,M,dgkA,122,diacylglycerol kinase,c,FALSE,,,,
+b2871,1,43.3274337,E,ygeX,398,"2,3-diaminopropionate ammonia lyase, PLP-dependent",c,FALSE,DAPAL,0,0,b2871
+b2838,1,46.177073,E,lysA,420,"diaminopimelate decarboxylase, PLP-binding",c,FALSE,DAPDC,0,0,b2838
+b3809,1,30.2084731,E,dapF,274,diaminopimelate epimerase,c,FALSE,DAPE,0,0,b3809
+b0175,7,31.4536389,I,cdsA,285,CDP-diglyceride synthase,c,FALSE,,,,
+b3041,1,23.3534213,H,ribB,217,"3,4-dihydroxy-2-butanone-4-phosphate synthase",c,FALSE,DB4PS,0,0,b3041
+b0778,1,24.1394886,H,bioD,225,dethiobiotin synthetase,c,FALSE,DBTS,0,0,b0778
+b1734,1,50.5123134,G,chbF,450,phospho-chitobiase; general 6-phospho-beta-glucosidase activity,c,FALSE,DC6PH,0,0,b1734
+b2065,1,21.2491755,F,dcd,193,2'-deoxycytidine 5'-triphosphate deaminase,c,FALSE,DCTPD,0,0,b2065
+b2344,7,48.5413471,I,fadL,446,long-chain fatty acid outer membrane transporter,ep,FALSE,,,,
+b3693,1,31.3734635,G,dgoK,292,2-oxo-3-deoxygalactonate kinase,c,FALSE,DDGALK,0,0,b3693
+b3909,2,33.6691566,,kdgT,327,2-keto-3-deoxy-D-gluconate transporter,cp,FALSE,,,,
+b3526,1,33.9622304,G,kdgK,309,ketodeoxygluconokinase,c,FALSE,DDGLK,0,0,b3526
+b2601,1,38.8038506,E,aroF,356,"3-deoxy-D-arabino-heptulosonate-7-phosphate synthase, tyrosine-repressible",c,FALSE,DDPA,2,0,(b2601 or b0754 or b1704)
+b0754,1,38.0093945,E,aroG,350,"3-deoxy-D-arabino-heptulosonate-7-phosphate synthase, phenylalanine repressible",c,FALSE,DDPA,2,0,(b2601 or b0754 or b1704)
+b1704,1,38.7349301,E,aroH,348,"3-deoxy-D-arabino-heptulosonate-7-phosphate synthase, tryptophan repressible",c,FALSE,DDPA,2,0,(b2601 or b0754 or b1704)
+b4477,1,21.3905168,G,dgoA,205,2-oxo-3-deoxygalactonate 6-phosphate aldolase,c,FALSE,DDPGALA,0,0,b4477
+b3648,2,23.592608,F,gmk,207,guanylate kinase,c,FALSE,,,,
+b1393,1,27.2372756,I,paaF,255,"2,3-dehydroadipyl-CoA hydratase",c,FALSE,DHACOAH,0,0,b1393
+b3771,2,65.531403,EG,ilvD,616,dihydroxyacid dehydratase,c,FALSE,,,,
+b1200,1,38.215073,G,dhaK,356,"dihydroxyacetone kinase, PTS-dependent, dihydroxyacetone-binding subunit",c,FALSE,DHAPT,0,4,(b1200 and b1199 and b1198 and b2415 and b2416)
+b1199,1,22.63169,G,dhaL,210,"dihydroxyacetone kinase, C-terminal domain",c,FALSE,DHAPT,0,4,(b1200 and b1199 and b1198 and b2415 and b2416)
+b1198,1,51.4484341,G,dhaM,472,fused predicted dihydroxyacetone-specific PTS enzymes: HPr component/EI component,c,FALSE,DHAPT,0,4,(b1200 and b1199 and b1198 and b2415 and b2416)
+b0596,1,26.2495651,IQR,entA,248,"2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase",c,FALSE,DHBD,0,0,b0596
+b0594,1,59.1119032,Q,entE,536,"2,3-dihydroxybenzoate-AMP ligase component of enterobactin synthase multienzyme complex",c,FALSE,DHBS,0,0,b0594
+b2541,2,28.4994999,IQR,hcaB,270,"2,3-dihydroxy-2,3-dihydrophenylpropionate dehydrogenase",c,FALSE,,,,
+b0348,2,34.1959108,,mhpB,314,"2,3-dihydroxyphenylpropionate 1,2-dioxygenase",c,FALSE,,,,
+b0031,1,28.7565192,E,dapB,273,dihydrodipicolinate reductase,c,FALSE,DHDPRy,0,0,b0031
+b2478,1,31.2698769,EM,dapA,292,dihydrodipicolinate synthase,c,FALSE,DHDPS,0,0,b2478
+b1606,2,26.3482068,IQR,folM,240,"dihydromonapterin reductase, NADPH-dependent; dihydrofolate reductase isozyme",c,FALSE,,,,
+b0048,1,17.9993087,H,folA,159,dihydrofolate reductase,c,FALSE,DHFR,1,0,(b1606 or b0048)
+b2315,1,45.405496,H,folC,422,bifunctional folylpolyglutamate synthase/ dihydrofolate synthase,c,FALSE,DHFS,0,0,b2315
+b3930,1,33.5938479,H,menA,308,"1,4-dihydroxy-2-naphthoate octaprenyltransferase",c,FALSE,DHNAOT4,0,0,b3930
+b2262,1,31.6330112,H,menB,285,dihydroxynaphthoic acid synthetase,c,FALSE,DHNCOAS,0,0,b2262
+b0736,1,15.5619549,R,ybgC,134,"acyl-CoA thioesterase, involved in phospholipid metabolism",c,FALSE,DHNCOAT,0,0,b0736
+b3058,2,13.6194687,H,folB,122,bifunctional dihydroneopterin aldolase/dihydroneopterin triphosphate 2'-epimerase,c,FALSE,,,,
+b0945,2,36.77437,F,pyrD,336,"dihydro-orotate oxidase, FMN-linked",c,FALSE,,,,
+b1062,1,38.8272519,F,pyrC,348,dihydro-orotase,c,FALSE,DHORTS,0,0,b1062
+b3177,1,30.6150117,H,folP,282,"7,8-dihydropteroate synthase",c,FALSE,DHPS2,0,0,b3177
+b0578,2,23.9050848,C,nfsB,217,"dihydropteridine reductase, NAD(P)H-dependent, oxygen-insensitive",c,TRUE,,,,
+b2303,1,14.0819659,H,folX,120,"D-erythro-7,8-dihydroneopterin triphosphate 2'-epimerase and dihydroneopterin aldolase",c,TRUE,DHPTPE,0,0,b2303
+b3389,1,38.8808537,E,aroB,362,3-dehydroquinate synthase,c,FALSE,DHQS,0,0,b3389
+b1693,1,27.4665587,E,aroD,252,3-dehydroquinate dehydratase,c,FALSE,DHQTi,0,0,b1693
+b0421,2,32.1595181,H,ispA,299,geranyltranstransferase,c,FALSE,,,,
+b0029,2,34.7744221,IM,ispH,316,"4-hydroxy-3-methylbut-2-enyl diphosphate reductase, 4Fe-4S protein",c,FALSE,,,,
+b2232,2,26.5553583,H,ubiG,240,bifunctional 3-demethylubiquinone-9 3-methyltransferase/ 2-octaprenyl-6-hydroxy phenol methylase,c,FALSE,,,,
+b1587,3,89.7796793,C,ynfE,808,"putative selenate reductase, periplasmic",c,TRUE,,,,
+b1588,3,89.9867498,C,ynfF,807,"S- and N-oxide reductase, A subunit, periplasmic",c,TRUE,,,,
+b1589,3,22.7517303,C,ynfG,205,"oxidoreductase, Fe-S subunit",c,TRUE,,,,
+b1590,3,30.5235732,R,ynfH,284,"oxidoreductase, membrane subunit",c,TRUE,,,,
+b0894,4,90.3983239,C,dmsA,814,"dimethyl sulfoxide reductase, anaerobic, subunit A",c,TRUE,,,,
+b0895,4,22.8689202,C,dmsB,205,"dimethyl sulfoxide reductase, anaerobic, subunit B",c,TRUE,,,,
+b0896,4,30.8261415,R,dmsC,287,"dimethyl sulfoxide reductase, anaerobic, subunit C",c,TRUE,,,,
+b1872,4,88.9636449,C,torZ,809,"trimethylamine N-oxide reductase system III, catalytic subunit",cp,FALSE,,,,
+b1873,4,40.2863094,C,torY,366,"TMAO reductase III (TorYZ), cytochrome c-type subunit",cp,FALSE,,,,
+b0099,3,14.9270046,F,mutT,129,"nucleoside triphosphate pyrophosphohydrolase, marked preference for dGTP",c,FALSE,,,,
+b1865,2,17.3056875,LR,nudB,150,dihydroneopterin triphosphate pyrophosphatase,c,FALSE,,,,
+b3575,1,36.572619,C,yiaK,332,"2,3-diketo-L-gulonate reductase, NADH-dependent",c,TRUE,DOGULNR,0,0,b3575
+b0103,1,22.6216018,H,coaE,206,dephospho-CoA kinase,c,FALSE,DPCOAK,0,0,b0103
+b0425,1,33.8706439,H,panE,303,"2-dehydropantoate reductase, NADPH-specific",c,FALSE,DPR,1,0,(b0425 or b3774)
+b3774,3,54.0688609,EH,ilvC,491,"ketol-acid reductoisomerase, NAD(P)-binding",c,FALSE,,,,
+b4381,1,27.7337027,F,deoC,259,"2-deoxyribose-5-phosphate aldolase, NAD(P)-linked",c,FALSE,DRPA,0,0,b4381
+b3860,2,23.1044464,O,dsbA,208,periplasmic protein disulfide isomerase I,cp,TRUE,,,,
+b1185,2,20.1421316,O,dsbB,176,oxidoreductase that catalyzes reoxidation of DsbA protein disulfide isomerase I,cp,TRUE,,,,
+b2893,2,25.621597,O,dsbC,236,protein disulfide isomerase II,"cp,p",TRUE,,,,
+b4136,3,61.7948454,OC,dsbD,565,fused thiol:disulfide interchange protein: activator of DsbC/conserved protein,"c,cp",TRUE,,,,
+b2582,10,15.5547285,O,trxC,139,thioredoxin 2,c,FALSE,,,,
+b3781,10,11.8065765,O,trxA,109,thioredoxin 1,c,FALSE,,,,
+b0604,2,27.4948926,O,dsbG,248,"thiol:disulfide interchange protein, periplasmic","cp,p",TRUE,,,,
+b4122,2,60.1050885,C,fumB,548,anaerobic class I fumarate hydratase (fumarase B),c,FALSE,,,,
+b1098,1,23.7830356,F,tmk,213,thymidylate kinase,c,FALSE,DTMPK,0,0,b1098
+b2147,1,45.068764,F,preA,411,"dihydropyrimidine dehydrogenase, NADH-dependent, subunit C",c,TRUE,DURADx,0,1,(b2147 and b2146)
+b2146,1,44.3293232,ER,preT,412,"dihydropyrimidine dehydrogenase, NADH-dependent, subunit N",c,TRUE,DURADx,0,1,(b2147 and b2146)
+b1238,2,23.4564963,F,tdk,205,thymidine kinase/deoxyuridine kinase,c,FALSE,,,,
+b4382,2,47.2069823,F,deoA,440,thymidine phosphorylase,c,FALSE,,,,
+b4384,7,25.9498513,F,deoD,239,purine-nucleoside phosphorylase,c,FALSE,,,,
+b3640,1,16.1554134,F,dut,151,deoxyuridinetriphosphatase,c,FALSE,DUTPDP,1,0,(b3640 or b2251)
+b2251,3,16.3706592,,nudI,141,nucleoside triphosphatase,c,FALSE,,,,
+b0173,1,43.387887,I,dxr,398,1-deoxy-D-xylulose 5-phosphate reductoisomerase,c,FALSE,DXPRIi,0,0,b0173
+b0420,1,67.6167004,HI,dxs,620,"1-deoxyxylulose-5-phosphate synthase, thiamine-requiring, FAD-requiring",c,FALSE,DXPS,0,0,b0420
+b3564,2,52.6180663,G,xylB,484,xylulokinase,c,FALSE,,,,
+b2927,1,37.2992285,G,epd,339,D-erythrose 4-phosphate dehydrogenase,c,FALSE,E4PD,1,0,(b2927 or b1779)
+b1779,2,35.5323522,G,gapA,331,glyceraldehyde-3-phosphate dehydrogenase A,c,FALSE,,,,
+b1288,26,27.8638622,I,fabI,262,"enoyl-[acyl-carrier-protein] reductase, NADH-dependent",c,FALSE,,,,
+b3622,2,46.8774588,M,waaL,419,O-antigen ligase,p,FALSE,,,,
+b3793,3,51.5170387,,wzyE,450,putative Wzy protein involved in ECA polysaccharide chain elongation,p,FALSE,,,,
+b3785,3,39.4889657,M,wzzE,348,Entobacterial Common Antigen (ECA) polysaccharide chain length modulation protein,p,FALSE,,,,
+b3792,1,44.9594519,,wzxE,416,O-antigen translocase,cp,FALSE,ECAtpp,0,0,b3792
+b2341,16,77.0719167,I,fadJ,714,fused enoyl-CoA hydratase and epimerase and isomerase/3-hydroxyacyl-CoA dehydrogenase,c,FALSE,,,,
+b1850,2,22.283938,G,eda,213,multifunctional 2-keto-3-deoxygluconate 6-phosphate aldolase and 2-keto-4-hydroxyglutarate aldolase and oxaloacetate decarboxylase,c,FALSE,,,,
+b1851,1,64.6388315,EG,edd,603,6-phosphogluconate dehydratase,c,FALSE,EDD,0,0,b1851
+b1054,1,35.4067323,M,waaM,306,lauryl-acyl carrier protein (ACP)-dependent acyltransferase,c,FALSE,EDTXS1,0,0,b1054
+b1855,2,37.4102454,M,waaN,323,myristoyl-acyl carrier protein (ACP)-dependent acyltransferase,c,FALSE,,,,
+b2378,1,35.4933001,M,lpxP,306,palmitoleoyl-acyl carrier protein (ACP)-dependent acyltransferase,c,FALSE,EDTXS3,0,0,b2378
+b2779,1,45.6547736,G,eno,432,enolase,c,FALSE,ENO,0,0,b2779
+b0583,1,23.2584666,Q,entD,206,phosphopantetheinyltransferase component of enterobactin synthase multienzyme complex,c,FALSE,ENTCS,0,0,b0583
+b0585,2,42.5693491,P,fes,374,enterobactin/ferric enterobactin esterase,c,FALSE,,,,
+b2440,1,31.7815052,E,eutC,295,"ethanolamine ammonia-lyase, small subunit (light chain)",c,FALSE,ETHAAL,0,1,(b2440 and b2441)
+b2441,1,49.4028932,E,eutB,453,"ethanolamine ammonia-lyase, large subunit, heavy chain",c,FALSE,ETHAAL,0,1,(b2440 and b2441)
+b0825,1,22.9967435,G,fsaA,220,fructose-6-phosphate aldolase 1,c,FALSE,F6PA,1,0,(b0825 or b3946)
+b3946,1,23.5551358,G,fsaB,220,fructose-6-phosphate aldolase 2,c,FALSE,F6PA,1,0,(b0825 or b3946)
+b0822,5,30.412697,R,ybiV,271,"sugar phosphatase; preference for fructose-1-P, ribose-5-P and glucose-6-P",c,FALSE,,,,
+b3666,4,50.6064047,G,uhpT,463,hexose phosphate transporter,cp,FALSE,,,,
+b0404,7,22.9610099,S,acpH,193,hypothetical protein,c,FALSE,,,,
+b0452,10,31.9661705,I,tesB,286,acyl-CoA thioesterase II,c,FALSE,,,,
+b1805,10,62.3317327,IQ,fadD,561,acyl-CoA synthetase (long-chain-fatty-acid--CoA ligase),cp,FALSE,,,,
+b1701,10,60.7729176,IQ,fadK,548,"short chain acyl-CoA synthetase, anaerobic",cp,FALSE,,,,
+b3844,6,26.2418943,HC,fre,233,NAD(P)H-flavin reductase,c,FALSE,,,,
+b2763,4,63.9978669,P,cysI,570,"sulfite reductase, beta subunit, NAD(P)-binding, heme-binding",c,FALSE,,,,
+b2764,4,66.269509,P,cysJ,599,"sulfite reductase, alpha subunit, flavoprotein",c,FALSE,,,,
+b2097,1,38.1090542,G,fbaB,350,fructose-bisphosphate aldolase class I,c,FALSE,FBA,2,0,(b2097 or b1773 or b2925)
+b1773,1,30.8096851,G,ydjI,278,putative aldolase,c,FALSE,FBA,2,0,(b2097 or b1773 or b2925)
+b2925,2,39.1471048,G,fbaA,359,"fructose-bisphosphate aldolase, class II",c,FALSE,,,,
+b3925,1,35.8522141,G,glpX,336,"fructose 1,6-bisphosphatase II",c,FALSE,FBP,2,0,(b3925 or b4232 or b2930)
+b4232,1,36.8337843,G,fbp,332,"fructose-1,6-bisphosphatase I",c,FALSE,FBP,2,0,(b3925 or b4232 or b2930)
+b2930,1,34.3233518,G,yggF,321,"fructose 1,6 bisphosphatase isozyme",c,FALSE,FBP,2,0,(b3925 or b4232 or b2930)
+b2802,1,64.9764988,G,fucI,591,L-fucose isomerase,c,FALSE,FCI,0,0,b2802
+b2803,1,53.2356833,G,fucK,482,L-fuculokinase,c,FALSE,FCLK,0,0,b2803
+b2738,1,23.2223905,G,ygbL,212,putative class II aldolase,c,FALSE,FCLPA,1,0,(b2738 or b2800)
+b2800,1,23.7752351,G,fucA,215,L-fuculose-1-phosphate aldolase,c,FALSE,FCLPA,1,0,(b2738 or b2800)
+b0475,1,35.8842512,H,hemH,320,ferrochelatase,c,FALSE,FCLT,0,0,b0475
+b3892,2,24.6062558,C,fdoI,211,"formate dehydrogenase-O, cytochrome b556 subunit",cp,FALSE,,,,
+b3893,2,33.1003112,C,fdoH,300,"formate dehydrogenase-O, Fe-S subunit",cp,FALSE,,,,
+b3894,2,112.3989425,C,fdoG,1016,"formate dehydrogenase-O, large subunit",cp,FALSE,,,,
+b1474,2,112.8128825,C,fdnG,1015,"formate dehydrogenase-N, alpha subunit, nitrate-inducible",cp,FALSE,,,,
+b1475,2,32.2386645,C,fdnH,294,"formate dehydrogenase-N, Fe-S (beta) subunit, nitrate-inducible",cp,FALSE,,,,
+b1476,2,25.3684024,C,fdnI,217,"formate dehydrogenase-N, cytochrome B556 (gamma) subunit, nitrate-inducible",cp,FALSE,,,,
+b0935,5,41.7360599,C,ssuD,381,"alkanesulfonate monooxygenase, FMNH(2)-dependent",c,FALSE,,,,
+b3409,1,84.4733897,P,feoB,773,"fused ferrous iron transporter, protein B: GTP-binding protein/membrane protein",cp,FALSE,FE2abcpp,0,0,b3409
+b2392,2,44.1934977,P,mntH,412,manganese/divalent cation transporter,cp,FALSE,,,,
+b4290,1,33.1461982,P,fecB,300,KpLE2 phage-like element; iron-dicitrate transporter subunit,cp,FALSE,FE3DCITabcpp,0,3,(b4290 and b4289 and b4288 and b4287)
+b4289,1,34.8925921,P,fecC,332,KpLE2 phage-like element; iron-dicitrate transporter subunit,cp,FALSE,FE3DCITabcpp,0,3,(b4290 and b4289 and b4288 and b4287)
+b4288,1,34.1313871,P,fecD,318,KpLE2 phage-like element; iron-dicitrate transporter subunit,cp,FALSE,FE3DCITabcpp,0,3,(b4290 and b4289 and b4288 and b4287)
+b4287,1,28.1905861,PH,fecE,255,KpLE2 phage-like element; iron-dicitrate transporter subunit,cp,FALSE,FE3DCITabcpp,0,3,(b4290 and b4289 and b4288 and b4287)
+b4291,1,85.3212121,P,fecA,774,KpLE2 phage-like element; ferric citrate outer membrane transporter,cep,FALSE,FE3DCITtonex,0,3,(b4291 and (b1252 and b3005 and b3006))
+b0592,2,34.2829029,P,fepB,318,iron-enterobactin transporter subunit,cp,FALSE,,,,
+b0588,2,29.7839981,PH,fepC,271,iron-enterobactin transporter subunit,cp,FALSE,,,,
+b0590,2,33.8711856,P,fepD,334,iron-enterobactin transporter subunit,cp,FALSE,,,,
+b0589,2,34.9100894,P,fepG,330,iron-enterobactin transporter subunit,cp,FALSE,,,,
+b0805,1,81.9596856,P,fiu,760,catecholate siderophore receptor Fiu,cep,FALSE,FE3DHBZStonex,1,6,((b0805 and (b1252 and b3005 and b3006)) or (b2155 and (b1252 and b3005 and b3006)))
+b2155,1,73.8953698,P,cirA,663,catecholate siderophore receptor CirA,cep,FALSE,FE3DHBZStonex,1,6,((b0805 and (b1252 and b3005 and b3006)) or (b2155 and (b1252 and b3005 and b3006)))
+b0150,3,82.1818956,P,fhuA,747,ferrichrome outer membrane transporter,cep,FALSE,,,,
+b0584,1,82.1065234,P,fepA,746,iron-enterobactin outer membrane transporter,cep,FALSE,FEENTERtonex,0,3,(b0584 and (b1252 and b3005 and b3006))
+b0591,1,43.28181,,entS,416,"enterobactin exporter, iron-regulated",cp,FALSE,FEENTERtpp,0,0,b0591
+b4367,3,30.1126456,R,fhuF,262,ferric iron reductase involved in ferric hydroximate transport,c,FALSE,,,,
+b4209,1,24.8825587,D,ytfE,220,iron-sulfur cluster repair protein RIC,c,FALSE,FESR,0,0,b4209
+b4079,1,79.2235432,R,fdhF,715,"formate dehydrogenase-H, selenopolypeptide subunit",c,TRUE,FHL,1,16,((b4079 and (b2481 and b2482 and b2483 and b2484 and b2485 and b2486 and b2487 and b2488 and b2489 and b2490)) or (b4079 and (b2719 and b2720 and b2721 and b2722 and b2723 and b2724)))
+b2481,1,22.1543325,C,hyfA,205,"hydrogenase 4, 4Fe-4S subunit",c,TRUE,FHL,1,16,((b4079 and (b2481 and b2482 and b2483 and b2484 and b2485 and b2486 and b2487 and b2488 and b2489 and b2490)) or (b4079 and (b2719 and b2720 and b2721 and b2722 and b2723 and b2724)))
+b2482,1,72.5827807,CP,hyfB,672,"hydrogenase 4, membrane subunit",c,TRUE,FHL,1,16,((b4079 and (b2481 and b2482 and b2483 and b2484 and b2485 and b2486 and b2487 and b2488 and b2489 and b2490)) or (b4079 and (b2719 and b2720 and b2721 and b2722 and b2723 and b2724)))
+b2483,1,34.3591322,C,hyfC,315,"hydrogenase 4, membrane subunit",c,TRUE,FHL,1,16,((b4079 and (b2481 and b2482 and b2483 and b2484 and b2485 and b2486 and b2487 and b2488 and b2489 and b2490)) or (b4079 and (b2719 and b2720 and b2721 and b2722 and b2723 and b2724)))
+b2484,1,51.7543878,CP,hyfD,479,"hydrogenase 4, membrane subunit",c,TRUE,FHL,1,16,((b4079 and (b2481 and b2482 and b2483 and b2484 and b2485 and b2486 and b2487 and b2488 and b2489 and b2490)) or (b4079 and (b2719 and b2720 and b2721 and b2722 and b2723 and b2724)))
+b2485,1,23.3614324,C,hyfE,216,"hydrogenase 4, membrane subunit",c,TRUE,FHL,1,16,((b4079 and (b2481 and b2482 and b2483 and b2484 and b2485 and b2486 and b2487 and b2488 and b2489 and b2490)) or (b4079 and (b2719 and b2720 and b2721 and b2722 and b2723 and b2724)))
+b2486,1,56.7669668,CP,hyfF,526,"hydrogenase 4, membrane subunit",c,TRUE,FHL,1,16,((b4079 and (b2481 and b2482 and b2483 and b2484 and b2485 and b2486 and b2487 and b2488 and b2489 and b2490)) or (b4079 and (b2719 and b2720 and b2721 and b2722 and b2723 and b2724)))
+b2487,1,63.383257,C,hyfG,555,"hydrogenase 4, subunit",c,TRUE,FHL,1,16,((b4079 and (b2481 and b2482 and b2483 and b2484 and b2485 and b2486 and b2487 and b2488 and b2489 and b2490)) or (b4079 and (b2719 and b2720 and b2721 and b2722 and b2723 and b2724)))
+b2488,1,20.1593484,C,hyfH,181,"hydrogenase 4, Fe-S subunit",c,TRUE,FHL,1,16,((b4079 and (b2481 and b2482 and b2483 and b2484 and b2485 and b2486 and b2487 and b2488 and b2489 and b2490)) or (b4079 and (b2719 and b2720 and b2721 and b2722 and b2723 and b2724)))
+b2489,1,28.101204,C,hyfI,252,"hydrogenase 4, Fe-S subunit",c,TRUE,FHL,1,16,((b4079 and (b2481 and b2482 and b2483 and b2484 and b2485 and b2486 and b2487 and b2488 and b2489 and b2490)) or (b4079 and (b2719 and b2720 and b2721 and b2722 and b2723 and b2724)))
+b2490,1,15.5769349,,hyfJ,137,putative processing element hydrogenase 4,c,TRUE,FHL,1,16,((b4079 and (b2481 and b2482 and b2483 and b2484 and b2485 and b2486 and b2487 and b2488 and b2489 and b2490)) or (b4079 and (b2719 and b2720 and b2721 and b2722 and b2723 and b2724)))
+b2719,2,27.9990699,C,hycG,255,"hydrogenase 3 and formate hydrogenase complex, HycG subunit","c,cp",FALSE,,,,
+b2720,2,20.3093274,C,hycF,180,formate hydrogenlyase complex iron-sulfur protein,"c,cp",FALSE,,,,
+b2721,2,64.9801426,C,hycE,569,"hydrogenase 3, large subunit","c,cp",FALSE,,,,
+b2722,2,33.0292263,C,hycD,307,"hydrogenase 3, membrane subunit","c,cp",FALSE,,,,
+b2723,2,64.0769346,CP,hycC,608,"hydrogenase 3, membrane subunit","c,cp",FALSE,,,,
+b2724,2,21.8732376,C,hycB,203,"hydrogenase 3, Fe-S subunit","c,cp",FALSE,,,,
+b0684,7,19.7368542,C,fldA,176,flavodoxin 1,c,FALSE,,,,
+b3924,5,27.7508305,C,fpr,248,ferredoxin-NADP reductase,c,FALSE,,,,
+b2895,7,19.7001081,C,fldB,173,flavodoxin 2,c,FALSE,,,,
+b3288,1,34.1683379,J,fmt,315,10-formyltetrahydrofolate:L-methionyl-tRNA(fMet) N-formyltransferase,c,TRUE,FMETTRS,0,0,b3288
+b0025,2,34.7341168,H,ribF,313,bifunctional riboflavin kinase/FAD synthetase,c,FALSE,,,,
+b0937,2,21.2532118,R,ssuE,191,NAD(P)H-dependent FMN reductase,c,FALSE,,,,
+b2912,1,21.1053405,H,fau,182,"conserved protein, 5-formyltetrahydrofolate cyclo-ligase family",c,FALSE,FOMETRi,0,0,b2912
+b2374,1,45.8280107,C,frc,416,"formyl-CoA transferase, NAD(P)-binding",c,TRUE,FORCT,0,0,b2374
+b0904,2,30.9906532,P,focA,285,formate channel,cp,FALSE,,,,
+b2492,2,30.5645583,P,focB,282,putative formate transporter,cp,FALSE,,,,
+b4151,2,13.1068798,C,frdD,119,"fumarate reductase (anaerobic), membrane anchor subunit",c,FALSE,,,,
+b4152,2,15.014974,C,frdC,131,"fumarate reductase (anaerobic), membrane anchor subunit",c,FALSE,,,,
+b4153,2,27.1230142,C,frdB,244,"fumarate reductase (anaerobic), Fe-S subunit",c,FALSE,,,,
+b4154,2,65.9714054,C,frdA,602,fumarate reductase (anaerobic) catalytic and NAD/flavoprotein subunit,c,FALSE,,,,
+b2168,1,33.7555623,G,fruK,312,fructose-1-phosphate kinase,c,FALSE,FRUK,0,0,b2168
+b3371,1,38.5690875,M,frlB,340,fructoselysine-6-P-deglycase,c,FALSE,FRULYSDG,0,0,b3371
+b4474,1,31.16877,G,frlC,276,fructoselysine 3-epimerase,c,FALSE,FRULYSE,0,0,b4474
+b3374,1,28.3317418,G,frlD,261,fructoselysine 6-kinase,c,FALSE,FRULYSK,0,0,b3374
+b3370,2,47.5763676,E,frlA,445,putative fructoselysine transporter,cp,FALSE,,,,
+b4321,2,47.1377837,GE,gntP,447,fructuronate transporter,cp,FALSE,,,,
+b2167,1,57.5189533,G,fruA,563,fused fructose-specific PTS enzymes: IIBcomponent/IIC components,cp,FALSE,FRUptspp,0,3,(b2167 and b2169 and b2415 and b2416)
+b2169,1,39.6476639,G,fruB,376,fused fructose-specific PTS enzymes: IIA component/HPr component,cp,FALSE,FRUptspp,0,3,(b2167 and b2169 and b2415 and b2416)
+b1232,1,31.9345919,F,purU,280,formyltetrahydrofolate hydrolase,c,FALSE,FTHFD,0,0,b1232
+b2801,1,47.5447305,G,fucP,438,L-fucose transporter,cp,FALSE,FUCtpp,0,0,b2801
+b1612,1,60.2983449,C,fumA,548,"fumarate hydratase (fumarase A), aerobic Class I",c,FALSE,FUM,2,0,(b1612 or b4122 or b1611)
+b1611,1,50.4887391,C,fumC,467,"fumarate hydratase (fumarase C),aerobic Class II",c,FALSE,FUM,2,0,(b1612 or b4122 or b1611)
+b0621,4,48.4120784,C,dcuC,461,anaerobic C4-dicarboxylate transport,cp,FALSE,,,,
+b3730,2,49.1898883,M,glmU,456,fused N-acetyl glucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyl transferase,c,FALSE,,,,
+b1002,2,45.6827473,,agp,413,glucose-1-phosphatase/inositol phosphatase,p,FALSE,,,,
+b2039,1,32.6934316,M,rfbA,293,glucose-1-phosphate thymidylyltransferase,c,FALSE,G1PTT,1,0,(b2039 or b3789)
+b3789,1,32.7342507,M,rffH,293,glucose-1-phosphate thymidylyltransferase,c,FALSE,G1PTT,1,0,(b2039 or b3789)
+b0154,1,45.3660016,H,hemL,426,glutamate-1-semialdehyde aminotransferase (aminomutase),c,FALSE,G1SAT,0,0,b0154
+b2533,2,29.1720011,G,suhB,267,inositol monophosphatase,c,FALSE,,,,
+b4055,17,26.1034207,R,aphA,237,"acid phosphatase/phosphotransferase, class B, non-specific",p,FALSE,,,,
+b4041,7,91.3810882,I,plsB,807,glycerol-3-phosphate O-acyltransferase,c,FALSE,,,,
+b3452,7,33.2637186,G,ugpA,295,glycerol-3-phosphate transporter subunit,cp,FALSE,,,,
+b3453,7,48.4485339,G,ugpB,438,glycerol-3-phosphate transporter subunit,cp,FALSE,,,,
+b3450,7,39.5235369,G,ugpC,356,glycerol-3-phosphate transporter subunit,cp,FALSE,,,,
+b3451,7,31.499621,G,ugpE,281,glycerol-3-phosphate transporter subunit,cp,FALSE,,,,
+b3608,1,36.3614856,C,gpsA,339,glycerol-3-phosphate dehydrogenase (NAD+),c,FALSE,G3PD2,0,0,b3608
+b2241,3,58.9580573,C,glpA,542,"sn-glycerol-3-phosphate dehydrogenase (anaerobic), large subunit, FAD/NAD(P)-binding",c,FALSE,,,,
+b2242,3,45.3570751,E,glpB,419,"sn-glycerol-3-phosphate dehydrogenase (anaerobic), membrane anchor subunit",c,FALSE,,,,
+b2243,3,44.1079187,C,glpC,396,"anaerobic sn-glycerol-3-phosphate dehydrogenase, C subunit, 4Fe-4S iron-sulfur cluster",c,FALSE,,,,
+b3426,1,56.7502817,C,glpD,501,"sn-glycerol-3-phosphate dehydrogenase, aerobic, FAD/NAD(P)-binding",c,FALSE,G3PD5,1,2,((b2241 and b2242 and b2243) or b3426)
+b0243,1,44.6299045,E,proA,417,gamma-glutamylphosphate reductase,c,FALSE,G5SD,0,0,b0243
+b0678,1,29.7741068,G,nagB,266,glucosamine-6-phosphate deaminase,c,FALSE,G6PDA,0,0,b0678
+b1852,1,55.7042156,G,zwf,491,glucose-6-phosphate 1-dehydrogenase,c,FALSE,G6PDH2r,0,0,b1852
+b3128,1,56.4013909,G,garD,523,(D)-galactarate dehydrogenase,c,FALSE,GALCTD,0,0,b3128
+b4358,1,36.4477563,ER,yjjN,340,L-galactonate oxidoreductase,c,FALSE,GALCTLO,0,0,b4358
+b4478,1,42.5227209,MR,dgoD,382,galactonate dehydratase,c,FALSE,GALCTND,0,0,b4478
+b4356,1,49.4403605,G,yjjL,453,L-galactonate transporter,cp,FALSE,GALCTNLt2pp,0,0,b4356
+b3691,1,47.0765339,G,dgoT,430,D-galactonate transporter,cp,FALSE,GALCTNt2pp,0,0,b3691
+b2789,3,49.1419053,G,gudP,450,putative D-glucarate transporter,cp,FALSE,,,,
+b3127,3,49.0090563,G,garP,444,putative (D)-galactarate transporter,cp,FALSE,,,,
+b2045,1,47.3433659,S,wcaK,426,colanic acid biosynthesis protein,c,FALSE,GALKr,1,0,(b2045 or b0757)
+b0757,1,41.4419733,G,galK,382,galactokinase,c,FALSE,GALKr,1,0,(b2045 or b0757)
+b0756,1,38.1902841,G,galM,346,galactose-1-epimerase (mutarotase),p,FALSE,GALM2pp,0,0,b0756
+b4119,1,50.6569347,G,melA,451,"alpha-galactosidase, NAD(P)-binding",c,FALSE,GALS3,0,0,b4119
+b3628,1,40.8257652,M,waaB,359,"UDP-D-galactose:(glucosyl)lipopolysaccharide-1,6-D-galactosyltransferase",c,FALSE,GALT1,0,0,b3628
+b2094,1,16.907385,GT,gatA,150,galactitol-specific enzyme IIA component of PTS,cp,FALSE,GALTptspp,0,4,(b2094 and b2093 and b2092 and b2415 and b2416)
+b2093,1,10.2220248,G,gatB,94,galactitol-specific enzyme IIB component of PTS,cp,FALSE,GALTptspp,0,4,(b2094 and b2093 and b2092 and b2415 and b2416)
+b2092,1,48.364837,G,gatC,451,galactitol-specific enzyme IIC component of PTS,cp,FALSE,GALTptspp,0,4,(b2094 and b2093 and b2092 and b2415 and b2416)
+b3093,2,51.5715372,G,exuT,472,hexuronate transporter,cp,FALSE,,,,
+b1236,1,32.9421642,M,galU,302,glucose-1-phosphate uridylyltransferase,c,FALSE,GALUi,0,0,b1236
+b2149,2,56.4150619,G,mglA,506,fused methyl-galactoside transporter subunits of ABC superfamily: ATP-binding components,cp,FALSE,,,,
+b2150,2,35.7124221,G,mglB,332,methyl-galactoside transporter subunit,cp,FALSE,,,,
+b2148,2,35.5500133,G,mglC,336,methyl-galactoside transporter subunit,cp,FALSE,,,,
+b4231,2,34.9775266,G,yjfF,331,putative sugar transporter subunit: membrane component of ABC superfamily,cp,FALSE,,,,
+b4227,2,34.3445298,G,ytfQ,318,galactofuranose binding proteint: periplasmic-binding component of ABC superfamily,cp,FALSE,,,,
+b4485,2,55.2597936,G,ytfR,500,putative sugar transporter subunit: ATP-binding component of ABC superfamily,cp,FALSE,,,,
+b4230,2,35.6588393,G,ytfT,341,putative sugar transporter subunit: membrane component of ABC superfamily,cp,FALSE,,,,
+b2943,2,50.9823356,G,galP,464,D-galactose transporter,cp,FALSE,,,,
+b2500,1,23.2381794,F,purN,212,phosphoribosylglycinamide formyltransferase 1,c,FALSE,GARFT,0,0,b2500
+b1415,2,52.2725894,C,aldA,479,"aldehyde dehydrogenase A, NAD-linked",c,FALSE,,,,
+b2052,2,36.1409993,MG,wcaG,321,bifunctional GDP-fucose synthetase: GDP-4-dehydro-6-deoxy-D-mannose epimerase/ GDP-4-dehydro-6-L-deoxygalactose reductase,c,TRUE,,,,
+b2784,2,83.8752821,TK,relA,744,(p)ppGpp synthetase I/GTP pyrophosphokinase,c,FALSE,,,,
+b3650,3,79.342161,TK,spoT,702,"bifunctional (p)ppGpp synthetase II/ guanosine-3',5'-bis pyrophosphate 3'-pyrophosphohydrolase",c,FALSE,,,,
+b2051,1,18.2733903,F,wcaH,159,GDP-mannose mannosyl hydrolase,c,FALSE,GDPMNH,0,0,b2051
+b2467,1,21.7485737,LR,nudK,191,GDP-mannose pyrophosphatase,c,FALSE,GDPMNP,0,0,b2467
+b3729,1,66.894063,M,glmS,609,L-glutamine:D-fructose-6-phosphate aminotransferase,c,FALSE,GF6PTA,0,0,b3729
+b1298,1,28.0129181,R,puuD,254,gamma-Glu-GABA hydrolase,c,FALSE,GGGABAH,0,0,b1298
+b1301,1,47.169365,E,puuB,426,"gamma-Glu-putrescine oxidase, FAD/NAD(P)-binding",c,FALSE,GGPTRCO,0,0,b1301
+b1297,2,53.1770007,E,puuA,472,gamma-Glu-putrescine synthase,c,FALSE,,,,
+b3882,1,31.1580793,I,yihU,298,"gamma-hydroxybutyrate dehydrogenase, NADH-dependent",c,TRUE,GHBDHx,0,0,b3882
+b3432,1,84.3364977,G,glgB,728,"1,4-alpha-glucan branching enzyme",c,FALSE,GLBRAN2,0,0,b3432
+b0459,2,20.0959196,R,maa,183,maltose O-acetyltransferase,c,TRUE,,,,
+b0124,1,86.7470027,G,gcd,796,glucose dehydrogenase,cp,FALSE,GLCDpp,1,0,(b0124 or b0837)
+b0837,1,41.0542889,G,yliI,371,soluble aldose sugar dehydrogenase,cp,FALSE,GLCDpp,1,0,(b0124 or b0837)
+b4476,1,46.4158056,GE,gntU,446,"gluconate transporter, low affinity GNT 1 system",cp,FALSE,GLCNt2rpp,3,0,(b4321 or b4476 or b3415 or b4265)
+b3415,1,45.9664744,GE,gntT,438,"gluconate transporter, high-affinity GNT I system",cp,FALSE,GLCNt2rpp,3,0,(b4321 or b4476 or b3415 or b4265)
+b3428,2,93.1721423,G,glgP,815,glycogen phosphorylase,c,FALSE,,,,
+b3417,5,90.5219764,G,malP,797,maltodextrin phosphorylase,c,FALSE,,,,
+b3126,1,27.3840232,G,garL,256,alpha-dehydro-beta-deoxy-D-glucarate aldolase,c,FALSE,GLCRAL,0,0,b3126
+b2788,1,48.849393,MR,gudX,446,"glucarate dehydratase-related protein, substrate unknown",c,FALSE,GLCRD,1,0,(b2788 or b2787)
+b2787,1,49.1408391,MR,gudD,446,(D)-glucarate dehydratase 1,c,FALSE,GLCRD,1,0,(b2788 or b2787)
+b3429,1,52.8221817,G,glgA,477,glycogen synthase,c,FALSE,GLCS1,0,0,b3429
+b3631,1,42.2839441,M,waaG,374,glucosyltransferase I,c,FALSE,GLCTR1,0,0,b3631
+b3627,1,39.4230125,M,waaR,339,"UDP-D-galactose:(glucosyl)lipopolysaccharide-alpha-1,3-D-galactosyltransferase",c,FALSE,GLCTR2,0,0,b3627
+b3626,1,39.0401672,M,waaJ,338,UDP-D-glucose:(galactosyl)lipopolysaccharide glucosyltransferase,c,FALSE,GLCTR3,0,0,b3626
+b1621,2,56.6267979,G,malX,530,"fused maltose and glucose-specific PTS enzymes: IIB component, IIC component",cp,FALSE,,,,
+b3431,1,73.5763417,G,glgX,657,glycogen debranching enzyme,c,FALSE,GLDBRAN2,0,0,b3431
+b3430,1,48.6974914,G,glgC,431,glucose-1-phosphate adenylyltransferase,c,FALSE,GLGC,0,0,b3430
+b3870,1,51.9035784,E,glnA,469,glutamine synthetase,c,FALSE,GLNS,1,0,(b3870 or b1297)
+b0680,1,63.4776405,J,glnS,554,glutamyl-tRNA synthetase,c,TRUE,GLNTRS,0,0,b0680
+b0811,1,27.1899784,ET,glnH,248,glutamine transporter subunit,cp,FALSE,GLNabcpp,0,2,(b0811 and b0810 and b0809)
+b0810,1,24.3641923,E,glnP,219,glutamine transporter subunit,cp,FALSE,GLNabcpp,0,2,(b0811 and b0810 and b0809)
+b0809,1,26.7308833,E,glnQ,240,glutamine transporter subunit,cp,FALSE,GLNabcpp,0,2,(b0811 and b0810 and b0809)
+b2091,1,37.3900057,ER,gatD,346,"galactitol-1-phosphate dehydrogenase, Zn-dependent and NAD(P)-binding",c,FALSE,GLTPD,0,0,b2091
+b0242,1,39.0563651,E,proB,367,gamma-glutamate kinase,c,FALSE,GLU5K,0,0,b0242
+b1492,1,55.0764544,E,gadC,511,glutamate:gamma-aminobutyric acid antiporter,cp,FALSE,GLUABUTt7pp,0,0,b1492
+b2688,1,58.2690759,H,gshA,518,glutamate-cysteine ligase,c,FALSE,GLUCYS,0,0,b2688
+b3517,1,52.6849818,E,gadA,466,"glutamate decarboxylase A, PLP-dependent",c,FALSE,GLUDC,1,0,(b3517 or b1493)
+b1493,1,52.6679528,E,gadB,466,"glutamate decarboxylase B, PLP-dependent",c,FALSE,GLUDC,1,0,(b3517 or b1493)
+b1761,1,48.5812213,E,gdhA,447,"glutamate dehydrogenase, NADP-specific",c,FALSE,GLUDy,0,0,b1761
+b0485,1,32.9032069,E,glsA,310,glutaminase 1,c,FALSE,GLUN,2,0,(b1812 or b0485 or b1524)
+b1524,1,33.5154869,E,glsB,308,glutaminase 2,c,FALSE,GLUN,2,0,(b1812 or b0485 or b1524)
+b2312,1,56.487839,F,purF,505,amidophosphoribosyltransferase,c,FALSE,GLUPRT,0,0,b2312
+b3967,1,31.0018295,M,murI,285,glutamate racemase,c,FALSE,GLUR,0,0,b3967
+b3212,1,163.2963552,E,gltB,1486,"glutamate synthase, large subunit",c,FALSE,GLUSy,0,1,(b3212 and b3213)
+b3213,1,52.0151256,ER,gltD,472,"glutamate synthase, 4Fe-4S protein, small subunit",c,FALSE,GLUSy,0,1,(b3212 and b3213)
+b1210,1,46.3066363,H,hemA,418,glutamyl tRNA reductase,c,FALSE,GLUTRR,0,0,b1210
+b2400,1,53.8155195,J,gltX,471,glutamyl-tRNA synthetase,c,FALSE,GLUTRS,0,0,b2400
+b3653,1,42.4249916,E,gltS,401,glutamate transporter,cp,FALSE,GLUt4pp,0,0,b3653
+b0507,1,64.73156,R,gcl,593,glyoxylate carboligase,c,FALSE,GLXCL,0,0,b0507
+b3927,3,29.7798772,G,glpF,281,glycerol facilitator,cp,FALSE,,,,
+b3617,1,43.1168993,H,kbl,398,glycine C-acetyltransferase,c,FALSE,GLYAT,0,0,b3617
+b2240,1,50.3102239,G,glpT,452,sn-glycerol-3-phosphate transporter,cp,FALSE,GLYC3Pt6pp,0,0,b2240
+b0514,1,38.7343862,G,glxK,381,glycerate kinase II,c,FALSE,GLYCK,0,0,b0514
+b3124,1,39.104202,G,garK,381,glycerate kinase I,c,FALSE,GLYCK2,0,0,b3124
+b2904,1,13.8111365,E,gcvH,129,glycine cleavage complex lipoylprotein,c,FALSE,GLYCL,0,3,(b2904 and b2903 and b2905 and b0116)
+b2903,1,104.3760221,E,gcvP,957,"glycine decarboxylase, PLP-dependent, subunit (protein P) of glycine cleavage complex",c,FALSE,GLYCL,0,3,(b2904 and b2903 and b2905 and b0116)
+b2905,1,40.1465669,E,gcvT,364,"aminomethyltransferase, tetrahydrofolate-dependent, subunit (T protein) of glycine cleavage complex",c,FALSE,GLYCL,0,3,(b2904 and b2903 and b2905 and b0116)
+b1033,4,35.343262,HE,ghrA,312,glyoxylate/hydroxypyruvate reductase A,c,FALSE,,,,
+b2979,3,53.8115166,C,glcD,499,"glycolate oxidase subunit, FAD-linked",c,FALSE,,,,
+b4467,3,45.1100024,C,glcF,407,glycolate oxidase 4Fe-4S iron-sulfur cluster subunit,c,FALSE,,,,
+b4468,3,38.3608589,C,glcE,350,glycolate oxidase FAD binding subunit,c,FALSE,,,,
+b3926,1,56.2305538,C,glpK,502,glycerol kinase,c,FALSE,GLYK,0,0,b3926
+b0212,1,28.4342592,R,gloB,251,hydroxyacylglutathione hydrolase,c,FALSE,GLYOX,0,0,b0212
+b3559,1,76.8126091,J,glyS,689,"glycine tRNA synthetase, beta subunit",c,TRUE,GLYTRS,0,1,(b3559 and b3560)
+b3560,1,34.774249,J,glyQ,303,"glycine tRNA synthetase, alpha subunit",c,TRUE,GLYTRS,0,1,(b3559 and b3560)
+b2053,1,42.0466569,M,gmd,373,"GDP-D-mannose dehydratase, NAD(P)-binding",c,TRUE,GMAND,0,0,b2053
+b3052,2,51.0504178,M,hldE,477,fused heptose 7-phosphate kinase/heptose 1-phosphate adenyltransferase,c,FALSE,,,,
+b0200,1,21.2941768,E,gmhB,191,"D,D-heptose 1,7-bisphosphate phosphatase",c,FALSE,GMHEPPA,0,0,b0200
+b0104,1,37.3835591,F,guaC,347,GMP reductase,c,FALSE,GMPR,0,0,b0104
+b2507,1,58.6789996,F,guaA,525,GMP synthetase (glutamine aminotransferase),c,FALSE,GMPS2,0,0,b2507
+b2029,1,51.481058,G,gnd,468,"6-phosphogluconate dehydrogenase, decarboxylating",c,FALSE,GND,0,0,b2029
+b4268,1,21.0039154,G,idnK,187,"D-gluconate kinase, thermosensitive",c,FALSE,GNK,1,0,(b4268 or b3437)
+b3437,1,19.5431972,G,gntK,175,gluconate kinase 2,c,FALSE,GNK,1,0,(b4268 or b3437)
+b3449,5,27.4094851,C,ugpQ,247,"glycerophosphodiester phosphodiesterase, cytosolic",c,FALSE,,,,
+b2239,5,40.8431958,C,glpQ,358,periplasmic glycerophosphodiester phosphodiesterase,p,FALSE,,,,
+b3610,6,9.1374711,O,grxC,83,glutaredoxin 3,c,FALSE,,,,
+b1654,6,12.8787188,O,grxD,115,glutaredoxin-4,c,FALSE,,,,
+b0849,6,9.6848124,O,grxA,85,"glutaredoxin 1, redox coenzyme for ribonucleotide reductase (RNR1a)",c,FALSE,,,,
+b0477,2,48.4486001,G,gsk,434,inosine/guanosine kinase,c,FALSE,,,,
+b2988,2,70.5316492,E,gss,619,fused glutathionylspermidine amidase/glutathionylspermidine synthetase,c,FALSE,,,,
+b3500,1,48.7723379,C,gor,450,glutathione oxidoreductase,c,FALSE,GTHOr,0,0,b3500
+b1710,2,20.4694837,O,btuE,183,glutathione peroxidase,c,FALSE,,,,
+b3447,1,61.767709,E,ggt,580,gamma-glutamyltranspeptidase,p,FALSE,GTHRDHpp,0,0,b3447
+b0829,1,69.1137459,R,gsiA,623,"glutathione transporter ATP-binding protein, ABC superfamily",cp,FALSE,GTHRDabcpp,0,3,(b0829 and b0830 and b0831 and b0832)
+b0830,1,56.4699547,E,gsiB,512,"glutathione periplasmic binding protein, ABC superfamily transporter",cp,FALSE,GTHRDabcpp,0,3,(b0829 and b0830 and b0831 and b0832)
+b0831,1,34.0662931,EP,gsiC,306,"glutathione transporter, permease component, ABC superfamily",cp,FALSE,GTHRDabcpp,0,3,(b0829 and b0830 and b0831 and b0832)
+b0832,1,33.2381234,EP,gsiD,303,"glutathione transporter, permease component, ABC superfamily",cp,FALSE,GTHRDabcpp,0,3,(b0829 and b0830 and b0831 and b0832)
+b2947,1,35.56077,HJ,gshB,316,glutathione synthetase,c,FALSE,GTHS,0,0,b2947
+b2153,1,24.8305365,H,folE,222,GTP cyclohydrolase I,c,FALSE,GTPCI,0,0,b2153
+b1277,1,21.8358977,H,ribA,196,GTP cyclohydrolase II,c,FALSE,GTPCII2,0,0,b1277
+b3779,1,54.8709385,FP,gpp,494,guanosine pentaphosphatase/exopolyphosphatase,c,FALSE,GTPDPDP,0,0,b3779
+b2883,1,50.2440255,FR,guaD,439,guanine deaminase,c,FALSE,GUAD,0,0,b2883
+b0238,3,16.9705215,F,gpt,152,guanine-hypoxanthine phosphoribosyltransferase,c,FALSE,,,,
+b0125,2,20.1151738,F,hpt,178,hypoxanthine phosphoribosyltransferase,c,FALSE,,,,
+b3092,2,53.9869945,G,uxaC,470,uronate isomerase,c,FALSE,,,,
+b0957,1,37.200596,M,ompA,346,outer membrane protein A (3a;II*;G;d),ep,FALSE,H2Otex,7,0,(s0001 or b0957 or b3875 or b2215 or b0241 or b1319 or b1377 or b0929)
+b3875,1,27.2001484,,ompL,230,outer membrane porin L,ep,FALSE,H2Otex,7,0,(s0001 or b0957 or b3875 or b2215 or b0241 or b1319 or b1377 or b0929)
+b1319,1,34.9131019,,ompG,301,outer membrane porin G,ep,FALSE,H2Otex,7,0,(s0001 or b0957 or b3875 or b2215 or b0241 or b1319 or b1377 or b0929)
+b0875,1,23.7026853,G,aqpZ,231,aquaporin Z,cp,FALSE,H2Otpp,1,0,(s0001 or b0875)
+b1395,1,51.7324134,I,paaH,475,"3-hydroxyadipyl-CoA dehydrogenase, NAD+-dependent",c,FALSE,HADPCOADH3,0,0,b1395
+b4040,1,32.5116174,H,ubiA,290,p-hydroxybenzoate octaprenyltransferase,c,FALSE,HBZOPT,0,0,b4040
+b0353,2,41.5506454,G,mhpT,403,putative 3-hydroxyphenylpropionic transporter,cp,FALSE,,,,
+b0126,1,25.096677,P,can,220,carbonic anhydrase,c,FALSE,HCO3E,1,0,(b0126 or b0339)
+b0339,1,23.7641867,P,cynT,219,carbonic anhydrase,c,FALSE,HCO3E,1,0,(b0126 or b0339)
+b0261,2,33.422694,E,mmuM,310,CP4-6 prophage; S-methylmethionine:homocysteine methyltransferase,c,FALSE,,,,
+b0428,1,32.2483761,O,cyoE,296,protoheme IX farnesyltransferase,c,FALSE,HEMEOS,0,0,b0428
+b3630,1,30.8722081,,waaP,265,kinase that phosphorylates core heptose of lipopolysaccharide,c,FALSE,HEPK1,0,0,b3630
+b3625,1,27.4608279,R,waaY,232,lipopolysaccharide core biosynthesis protein,c,FALSE,HEPK2,0,0,b3625
+b3621,1,35.5436127,M,waaC,319,ADP-heptose:LPS heptosyl transferase I,c,FALSE,HEPT1,0,0,b3621
+b3620,1,39.0419966,M,waaF,348,ADP-heptose:LPS heptosyltransferase II,c,FALSE,HEPT2,0,0,b3620
+b3632,1,38.7305255,M,waaQ,344,lipopolysaccharide core biosynthesis protein,c,FALSE,HEPT3,0,0,b3632
+b3623,1,41.729253,M,waaU,357,lipopolysaccharide core biosynthesis,c,FALSE,HEPT4,0,0,b3623
+b2104,1,27.3390943,H,thiM,262,hydoxyethylthiazole kinase,c,TRUE,HETZK,0,0,b2104
+b2388,1,34.7229504,G,glk,321,glucokinase,c,FALSE,HEX1,0,0,b2388
+b0394,1,32.4996343,KG,mak,302,manno(fructo)kinase,c,FALSE,HEX7,0,0,b0394
+b2020,1,46.1101673,E,hisD,434,bifunctional histidinal dehydrogenase/ histidinol dehydrogenase,c,FALSE,HISTD,0,0,b2020
+b2022,2,40.277833,E,hisB,355,fused histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase,c,FALSE,,,,
+b2514,1,47.0292542,J,hisS,424,histidyl tRNA synthetase,c,TRUE,HISTRS,0,0,b2514
+b2309,1,28.4832459,ET,hisJ,260,histidine/lysine/arginine/ornithine transporter subunit,cp,FALSE,HISabcpp,0,3,(b2309 and b2307 and b2306 and b2308)
+b0112,4,49.6899519,E,aroP,457,aromatic amino acid transporter,cp,FALSE,,,,
+b0349,2,31.9373555,,mhpC,288,"2-hydroxy-6-ketonona-2,4-dienedioic acid hydrolase",c,FALSE,,,,
+b3805,1,33.8517075,H,hemC,313,hydroxymethylbilane synthase,c,FALSE,HMBS,0,0,b3805
+b2103,2,28.6335101,H,thiD,266,bifunctional hydroxy-methylpyrimidine kinase/ hydroxy-phosphomethylpyrimidine kinase,c,FALSE,,,,
+b2418,4,30.8472626,H,pdxK,283,pyridoxal-pyridoxamine kinase/hydroxymethylpyrimidine kinase,c,FALSE,,,,
+b0813,2,31.1683481,R,rhtA,295,threonine and homoserine efflux system,cp,FALSE,,,,
+b3824,1,22.4266763,E,rhtB,206,"homoserine, homoserine lactone and S-methyl-methionine efflux pump",cp,FALSE,HOMt2pp,1,0,(b0813 or b3824)
+b0352,1,36.4703324,E,mhpE,337,"4-hyroxy-2-oxovalerate/4-hydroxy-2-oxopentanoic acid aldolase, class I",c,FALSE,HOPNTAL,0,0,b0352
+b0142,1,18.0787091,H,folK,159,2-amino-4-hydroxy-6-hydroxymethyldihyropteridine pyrophosphokinase,c,FALSE,HPPK2,0,0,b0142
+b0508,1,29.3773411,G,hyi,258,hydroxypyruvate isomerase,c,FALSE,HPYRI,0,0,b0508
+b0003,1,33.6235618,E,thrB,310,homoserine kinase,c,FALSE,HSK,0,0,b0003
+b4013,1,35.7271179,E,metA,309,homoserine O-transsuccinylase,c,FALSE,HSST,0,0,b4013
+b2021,1,39.3599817,E,hisC,356,histidinol-phosphate aminotransferase,c,FALSE,HSTPT,0,0,b2021
+b2866,2,81.3205566,C,xdhA,752,"xanthine dehydrogenase, molybdenum binding subunit",c,FALSE,,,,
+b2867,2,31.5566849,C,xdhB,292,"xanthine dehydrogenase, FAD-binding subunit",c,FALSE,,,,
+b2868,2,16.9217108,C,xdhC,159,"xanthine dehydrogenase, Fe-S binding subunit",c,FALSE,,,,
+b0972,3,40.681266,C,hyaA,372,"hydrogenase 1, small subunit",cp,FALSE,,,,
+b0973,3,66.2531421,C,hyaB,597,"hydrogenase 1, large subunit",cp,FALSE,,,,
+b0974,3,27.5972144,C,hyaC,235,"hydrogenase 1, b-type cytochrome subunit",cp,FALSE,,,,
+b2994,3,62.4909015,C,hybC,567,"hydrogenase 2, large subunit",cp,FALSE,,,,
+b2995,3,43.6018635,C,hybB,392,putative hydrogenase 2 cytochrome b type component,cp,FALSE,,,,
+b2996,3,36.0029275,C,hybA,328,hydrogenase 2 4Fe-4S ferredoxin-type component,cp,FALSE,,,,
+b2997,3,39.6519018,C,hybO,372,"hydrogenase 2, small subunit",cp,FALSE,,,,
+b2530,6,45.0893521,E,iscS,404,"cysteine desulfurase (tRNA sulfurtransferase), PLP-dependent",c,FALSE,,,,
+b2529,6,13.8485477,C,iscU,128,iron-sulfur cluster assembly scaffold protein,c,FALSE,,,,
+b3807,4,12.2313602,P,cyaY,106,iron-dependent inhibitor of iron-sulfur cluster formation; frataxin; iron-binding and oxidizing protein,c,FALSE,,,,
+b2528,2,11.5560094,S,iscA,107,FeS cluster assembly protein,c,FALSE,,,,
+b1136,1,45.7565505,C,icd,416,"e14 prophage; isocitrate dehydrogenase, specific for NADP+",c,FALSE,ICDHyr,0,0,b1136
+b2265,1,48.7643437,HQ,menF,431,isochorismate synthase 2,c,FALSE,ICHORS,0,0,b2265
+b0593,1,42.9314682,HQ,entC,391,isochorismate synthase 1,c,FALSE,ICHORSi,0,0,b0593
+b0595,1,32.5542384,Q,entB,285,isochorismatase,c,FALSE,ICHORT,0,0,b0595
+b4015,1,47.5213756,C,aceA,434,isocitrate lyase,c,FALSE,ICL,0,0,b4015
+b4267,2,37.1465167,ER,idnD,343,"L-idonate 5-dehydrogenase, NAD-binding",c,FALSE,,,,
+b2023,1,21.6527911,E,hisH,196,"imidazole glycerol phosphate synthase, glutamine amidotransferase subunit with HisF",c,FALSE,IG3PS,0,1,(b2023 and b2025)
+b2025,1,28.4543405,E,hisF,258,"imidazole glycerol phosphate synthase, catalytic subunit with HisH",c,FALSE,IG3PS,0,1,(b2023 and b2025)
+b1262,2,49.3609194,E,trpC,452,fused indole-3-glycerolphosphate synthetase/N-(5-phosphoribosyl)anthranilate isomerase,c,FALSE,,,,
+b3770,4,34.093515,EH,ilvE,309,branched-chain amino-acid aminotransferase,c,FALSE,,,,
+b0026,1,104.2964375,J,ileS,938,isoleucyl-tRNA synthetase,c,TRUE,ILETRS,0,0,b0026
+b0401,3,46.2085427,E,brnQ,439,"branched-chain amino acid transport system 2 carrier protein; LIV-II transport system for Ile, Leu, and Val",cp,FALSE,,,,
+b2508,1,52.0222732,F,guaB,488,IMP dehydrogenase,c,FALSE,IMPD,0,0,b2508
+b3265,1,41.3174849,M,acrE,385,cytoplasmic membrane lipoprotein,cp,FALSE,INDOLEt2pp,0,2,((b3265 and b3266) and b3035)
+b3266,1,111.4539775,V,acrF,1034,multidrug efflux system protein,cp,FALSE,INDOLEt2pp,0,2,((b3265 and b3266) and b3035)
+b3161,2,44.3323845,E,mtr,414,tryptophan transporter of high affinity,cp,FALSE,,,,
+b3679,1,62.0847173,R,yidK,571,putative transporter,cp,TRUE,INOSTt4pp,0,0,b3679
+b2889,1,20.5081878,I,idi,182,isopentenyl diphosphate isomerase,c,FALSE,IPDDI,0,0,b2889
+b0073,1,39.5168747,CE,leuB,363,"3-isopropylmalate dehydrogenase, NAD(+)-dependent",c,FALSE,IPMD,0,0,b0073
+b0071,2,22.4873828,E,leuD,201,3-isopropylmalate dehydratase small subunit,c,FALSE,,,,
+b0072,2,49.8816932,E,leuC,466,3-isopropylmalate dehydratase large subunit,c,FALSE,,,,
+b0074,1,57.2976949,E,leuA,523,2-isopropylmalate synthase,c,FALSE,IPPS,0,0,b0074
+b0918,1,27.6143322,M,kdsB,248,3-deoxy-manno-octulosonate cytidylyltransferase,c,FALSE,KDOCT2,0,0,b0918
+b3198,1,19.997042,R,kdsC,188,3-deoxy-D-manno-octulosonate 8-phosphate phosphatase,c,FALSE,KDOPP,0,0,b3198
+b1215,1,30.8325925,M,kdsA,284,3-deoxy-D-manno-octulosonate 8-phosphate synthase,c,FALSE,KDOPS,0,0,b1215
+b4196,1,23.5779934,G,ulaD,216,3-keto-L-gulonate 6-phosphate decarboxylase,c,FALSE,KG6PDC,1,0,(b4196 or b3581)
+b3581,1,23.444673,G,yiaQ,220,3-keto-L-gulonate 6-phosphate decarboxylase,c,FALSE,KG6PDC,1,0,(b4196 or b3581)
+b0698,1,59.1889121,P,kdpA,557,"potassium translocating ATPase, subunit A",cp,FALSE,Kabcpp,1,5,((b0698 and b0697 and b0696) or (b0698 and b0697 and b0696 and b4513))
+b0697,1,72.1989097,P,kdpB,682,"potassium translocating ATPase, subunit B",cp,FALSE,Kabcpp,1,5,((b0698 and b0697 and b0696) or (b0698 and b0697 and b0696 and b4513))
+b0696,1,20.2670553,P,kdpC,190,"potassium translocating ATPase, subunit C",cp,FALSE,Kabcpp,1,5,((b0698 and b0697 and b0696) or (b0698 and b0697 and b0696 and b4513))
+b4513,1,3.0717369,,kdpF,29,potassium ion accessory transporter subunit,cp,FALSE,Kabcpp,1,5,((b0698 and b0697 and b0696) or (b0698 and b0697 and b0696 and b4513))
+b1291,1,37.6605824,V,sapD,330,antimicrobial peptide transport ABC system ATP-binding protein,cp,FALSE,Kt2pp,3,4,((b1291 and b3290 and b3849) or b1250 or (b1291 and b3290 and b1363) or b3747)
+b3290,1,50.3675705,P,trkA,458,NAD-binding component of TrK potassium transporter,cp,FALSE,Kt2pp,3,4,((b1291 and b3290 and b3849) or b1250 or (b1291 and b3290 and b1363) or b3747)
+b3849,1,52.9595165,P,trkH,483,potassium transporter,cp,FALSE,Kt2pp,3,4,((b1291 and b3290 and b3849) or b1250 or (b1291 and b3290 and b1363) or b3747)
+b1250,1,46.0624044,P,kch,417,voltage-gated potassium channel,cp,FALSE,Kt2pp,3,4,((b1291 and b3290 and b3849) or b1250 or (b1291 and b3290 and b1363) or b3747)
+b1363,1,53.9435671,P,trkG,485,Rac prophage; potassium transporter subunit,cp,FALSE,Kt2pp,3,4,((b1291 and b3290 and b3849) or b1250 or (b1291 and b3290 and b1363) or b3747)
+b3747,1,69.2938556,P,kup,622,potassium transporter,cp,FALSE,Kt2pp,3,4,((b1291 and b3290 and b3849) or b1250 or (b1291 and b3290 and b1363) or b3747)
+b0842,2,44.3207852,G,mdfA,410,multidrug efflux system protein,cp,FALSE,,,,
+b3350,1,66.4109127,P,kefB,601,potassium:proton antiporter,cp,FALSE,Kt3pp,3,0,(b1216 or b0842 or b3350 or b0047)
+b0047,1,67.7956012,P,kefC,620,potassium:proton antiporter,cp,FALSE,Kt3pp,3,0,(b1216 or b0842 or b3350 or b0047)
+b3605,2,42.7280506,C,lldD,396,"L-lactate dehydrogenase, FMN-linked",c,FALSE,,,,
+b0306,2,26.0042491,C,ykgE,239,putative oxidoreductase,c,FALSE,,,,
+b0307,2,53.0517388,C,ykgF,475,putative electron transport protein with ferridoxin-like domai,c,FALSE,,,,
+b0308,2,25.2126202,S,ykgG,231,putative transporter,c,FALSE,,,,
+b2257,1,62.5422718,M,arnT,550,4-amino-4-deoxy-L-arabinose transferase,p,FALSE,LA4NTpp,0,0,b2257
+b0344,1,116.4823942,G,lacZ,1024,beta-D-galactosidase,c,FALSE,LACZ,0,0,b0344
+b2132,1,83.4597276,G,bglX,765,"beta-D-glucoside glucohydrolase, periplasmic",p,FALSE,LACZpp,0,0,b2132
+b1326,1,26.5578978,E,mpaA,242,murein peptide amidase A,c,FALSE,LADGMDH,0,0,b1326
+b1634,2,53.9909725,E,dtpA,500,dipeptide and tripeptide permease A,cp,FALSE,,,,
+b3496,2,53.5750039,E,dtpB,489,dipeptide and tripeptide permease B,cp,FALSE,,,,
+b4130,2,53.0544378,E,yjdL,485,dipeptide and tripeptide permease,cp,FALSE,,,,
+b0709,2,54.1587766,E,dtpD,493,dipeptide and tripeptide permease D,cp,FALSE,,,,
+b2799,1,40.5132313,C,fucO,382,"L-1,2-propanediol oxidoreductase",c,FALSE,LCARS,0,0,b2799
+b2170,1,42.7459438,G,setB,393,lactose/glucose efflux system,cp,FALSE,LCTSt3ipp,2,0,(b2170 or b0070 or b1528)
+b0070,1,42.7130834,G,setA,392,broad specificity sugar efflux system,cp,FALSE,LCTSt3ipp,2,0,(b2170 or b0070 or b1528)
+b0343,1,46.5030801,P,lacY,417,lactose permease,cp,FALSE,LCTStpp,0,0,b0343
+b2133,2,64.6120624,C,dld,571,"D-lactate dehydrogenase, FAD-binding, NADH independent",c,FALSE,,,,
+b1380,1,36.5346707,CHR,ldhA,329,"fermentative D-lactate dehydrogenase, NAD-dependent",c,FALSE,LDH_D,1,0,(b2133 or b1380)
+b4054,3,43.5376428,E,tyrB,397,"tyrosine aminotransferase, tyrosine-repressible, PLP-dependent",c,FALSE,,,,
+b0642,1,97.2334329,J,leuS,860,leucyl-tRNA synthetase,c,TRUE,LEUTRS,0,0,b0642
+b3458,1,39.3785385,E,livK,369,leucine transporter subunit,cp,FALSE,LEUabcpp,1,8,((b3454 and b3455 and b3457 and b3460 and b3456) or (b3454 and b3455 and b3457 and b3458 and b3456))
+b1651,1,14.9197868,E,gloA,135,"glyoxalase I, Ni-dependent",c,FALSE,LGTHL,0,0,b1651
+b0622,2,21.7694637,,pagP,186,phospholipid:lipid A palmitoyltransferase,e,FALSE,,,,
+b4386,3,37.9257325,H,lplA,338,lipoate-protein ligase A,c,FALSE,,,,
+b0630,1,23.882452,H,lipB,213,octanoyltransferase; octanoyl-[ACP]:protein N-octanoyltransferase,c,FALSE,LIPOCT,0,0,b0630
+b0628,1,36.0716296,H,lipA,321,lipoate synthase,c,FALSE,LIPOS,0,0,b0628
+b0182,1,42.3823111,M,lpxB,382,tetraacyldisaccharide-1-P synthase,c,FALSE,LPADSS,0,0,b0182
+b0494,21,23.6220577,E,tesA,208,multifunctional acyl-CoA thioesterase I and protease I and lysophospholipase L1,p,FALSE,,,,
+b3825,35,38.9780859,I,pldB,340,lysophospholipase L2,c,FALSE,,,,
+b0186,1,80.5900182,E,ldcC,713,"lysine decarboxylase 2, constitutive",c,FALSE,LYSDC,1,0,(b0186 or b4131)
+b4131,1,81.2598452,E,cadA,715,"lysine decarboxylase, acid-inducible",c,FALSE,LYSDC,1,0,(b0186 or b4131)
+b2890,1,57.6031932,J,lysS,505,"lysine tRNA synthetase, constitutive",c,TRUE,LYSTRS,1,0,(b4129 or b2890)
+b2156,1,53.575679,E,lysP,489,lysine transporter,cp,FALSE,LYSt2pp,0,0,b2156
+b3903,2,47.1992449,G,rhaA,419,L-rhamnose isomerase,c,FALSE,,,,
+b3907,2,37.3196856,,rhaT,344,L-rhamnose:proton symporter,cp,FALSE,,,,
+b3600,1,41.1388355,G,mtlD,382,"mannitol-1-phosphate dehydrogenase, NAD-dependent",c,FALSE,M1PD,0,0,b3600
+b0777,1,28.2760742,H,bioC,251,"malonyl-CoA methyltransferase, SAM-dependent",c,FALSE,MALCOAMT,0,0,b0777
+b1800,1,40.3147881,CE,dmlA,361,"D-malate oxidase, NAD-dependent; probable tartrate dehydrogenase",c,FALSE,MALDDH,0,0,b1800
+b4014,1,60.2733275,C,aceB,533,malate synthase A,c,FALSE,MALS,1,0,(b4014 or b2976)
+b2976,1,80.4882257,C,glcB,723,malate synthase G,c,FALSE,MALS,1,0,(b4014 or b2976)
+b2049,1,53.0160877,M,cpsB,478,mannose-1-phosphate guanyltransferase,c,FALSE,MAN1PT2,0,0,b2049
+b1613,1,42.8497601,G,manA,391,mannose-6-phosphate isomerase,c,FALSE,MAN6PI,0,0,b1613
+b4323,1,53.5800162,G,uxuB,486,"D-mannonate oxidoreductase, NAD-dependent",c,FALSE,MANAO,0,0,b4323
+b0731,1,69.6676423,G,mngA,658,fused 2-O-a-mannosyl-D-glycerate specific PTS enzymes: IIA component/IIB component/IIC component,cp,FALSE,MANGLYCptspp,0,2,(b0731 and b2415 and b2416)
+b0732,1,100.0146177,G,mngB,877,alpha-mannosidase,c,FALSE,MANPGH,0,0,b0732
+b0334,1,53.9515457,R,prpD,483,2-methylcitrate dehydratase,c,FALSE,MCITD,0,0,b0334
+b0331,1,32.1345458,G,prpB,296,2-methylisocitrate lyase,c,FALSE,MCITL2,0,0,b0331
+b0333,1,43.1020076,C,prpC,389,2-methylcitrate synthase,c,FALSE,MCITS,0,0,b0333
+b1092,1,32.4171102,I,fabD,309,malonyl-CoA-[acyl-carrier-protein] transacylase,c,FALSE,MCOATA,0,1,(b1094 and b1092)
+b2521,1,30.811693,P,sseA,281,3-mercaptopyruvate sulfurtransferase,c,TRUE,MCPST,0,0,b2521
+b0084,2,63.8771643,M,ftsI,588,transpeptidase involved in septal peptidoglycan synthesis (penicillin-binding protein 3),p,FALSE,,,,
+b0635,2,70.8562724,M,mrdA,633,transpeptidase involved in peptidoglycan synthesis (penicillin-binding protein 2),p,FALSE,,,,
+b0149,5,94.2921766,M,mrcB,844,fused glycosyl transferase and transpeptidase,"cp,p",FALSE,,,,
+b3396,5,93.6357739,M,mrcA,850,fused penicillin-binding protein 1a: murein transglycosylase/murein transpeptidase,"cp,p",FALSE,,,,
+b0632,5,44.4437932,M,dacA,403,D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein 5),p,FALSE,,,,
+b3182,9,51.7981255,M,dacB,477,D-alanyl-D-alanine carboxypeptidase,p,FALSE,,,,
+b0839,5,43.6087256,M,dacC,400,D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein 6a),p,FALSE,,,,
+b2010,5,43.3458757,M,dacD,388,D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein 6b),p,FALSE,,,,
+b2328,4,30.1365725,M,mepA,274,murein DD-endopeptidase,p,FALSE,,,,
+b2134,4,33.8873052,M,pbpG,310,D-alanyl-D-alanine endopeptidase,p,FALSE,,,,
+b3236,1,32.3371597,C,mdh,312,"malate dehydrogenase, NAD(P)-binding",c,FALSE,MDH,0,0,b3236
+b2210,2,60.2293769,R,mqo,548,"malate dehydrogenase, FAD/NAD(P)-binding domain",c,FALSE,,,,
+b1479,1,63.1970905,C,maeA,565,"malate dehydrogenase, (decarboxylating, NAD-requiring) (malic enzyme)",c,FALSE,ME1,0,0,b1479
+b2463,1,82.4171056,C,maeB,759,fused malic enzyme predicted oxidoreductase/predicted phosphotransacetylase,c,FALSE,ME2,0,0,b2463
+b2515,1,40.6834568,I,ispG,372,1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase,c,FALSE,MECDPDH5,1,2,((b2895 and b2515) or (b0684 and b2515))
+b2746,1,16.8974757,I,ispF,159,"2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",c,FALSE,MECDPS,0,0,b2746
+b4120,1,52.6362025,G,melB,473,melibiose:sodium symporter,cp,FALSE,MELIBt2pp,0,0,b4120
+b2747,1,25.7371623,I,ispD,236,4-diphosphocytidyl-2C-methyl-D-erythritol synthase,c,FALSE,MEPCT,0,0,b2747
+b2942,1,41.9514662,H,metK,384,S-adenosylmethionine synthetase,c,FALSE,METAT,0,0,b2942
+b0198,2,23.2559906,P,metI,217,DL-methionine transporter subunit,cp,FALSE,,,,
+b0199,2,37.7882297,P,metN,343,DL-methionine transporter subunit,cp,FALSE,,,,
+b0197,2,29.4314905,P,metQ,271,DL-methionine transporter subunit,cp,FALSE,,,,
+b4019,1,135.9965069,E,metH,1227,"homocysteine-N5-methyltetrahydrofolate transmethylase, B12-dependent",c,FALSE,METS,1,0,(b4019 or b3829)
+b3829,1,84.6731341,E,metE,753,5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase,c,FALSE,METS,1,0,(b4019 or b3829)
+b4219,1,23.3149602,O,msrA,212,methionine sulfoxide reductase A,c,FALSE,METSOXR1,3,4,((b4219 and b2582) or (b4219 and b3781) or (b3551 and b2582) or (b3551 and b3781))
+b1778,1,15.4511381,O,msrB,137,methionine sulfoxide reductase B,c,FALSE,METSOXR2,1,2,((b1778 and b2582) or (b1778 and b3781))
+b2114,1,76.2544446,J,metG,677,methionyl-tRNA synthetase,c,TRUE,METTRS,0,0,b2114
+b4242,2,99.4661209,P,mgtA,898,magnesium transporter,cp,FALSE,,,,
+b0963,1,16.9185161,G,mgsA,152,methylglyoxal synthase,c,FALSE,MGSA,0,0,b0963
+b0403,5,69.0407129,G,malZ,604,maltodextrin glucosidase,c,FALSE,,,,
+b2558,4,58.3018669,M,mltF,518,"membrane-bound lytic transglycosylase F, murein hydrolase",p,FALSE,,,,
+b2963,4,40.1123308,M,mltC,359,membrane-bound lytic murein transglycosylase C,p,FALSE,,,,
+b4392,4,73.3528708,M,slt,645,"lytic murein transglycosylase, soluble",p,FALSE,,,,
+b2813,4,40.4104413,M,mltA,365,membrane-bound lytic murein transglycosylase A,p,FALSE,,,,
+b2701,4,40.2555723,M,mltB,361,membrane-bound lytic murein transglycosylase B,p,FALSE,,,,
+b1193,4,22.2264624,M,emtA,203,lytic murein endotransglycosylase E,p,FALSE,,,,
+b2919,1,29.1724828,I,scpB,261,"methylmalonyl-CoA decarboxylase, biotin-independent",c,FALSE,MMCD,0,0,b2919
+b0260,1,50.5256141,E,mmuP,467,CP4-6 prophage; predicted S-methylmethionine transporter,cp,FALSE,MMETt2pp,0,0,b0260
+b2917,1,77.8709689,I,scpA,714,methylmalonyl-CoA mutase,c,FALSE,MMM,0,0,b2917
+b3599,1,67.9720317,G,mtlA,637,fused mannitol-specific PTS enzymes: IIA components/IIB components/IIC components,cp,FALSE,MNLptspp,0,2,(b3599 and b2415 and b2416)
+b4322,1,44.8378476,G,uxuA,394,mannonate hydrolase,c,FALSE,MNNH,0,0,b4322
+b0784,2,8.7578964,H,moaD,81,"molybdopterin synthase, small subunit",c,FALSE,,,,
+b3633,2,47.2908451,M,waaA,425,3-deoxy-D-manno-octulosonic-acid transferase (KDO transferase),c,FALSE,,,,
+b3624,1,32.9199577,,waaZ,283,lipopolysaccharide core biosynthesis protein,c,FALSE,MOAT3C,0,0,b3624
+b0763,3,27.3640843,P,modA,257,molybdate transporter subunit,cp,FALSE,,,,
+b0764,3,24.9387154,P,modB,229,molybdate transporter subunit,cp,FALSE,,,,
+b0765,3,39.1022498,P,modC,352,molybdate transporter subunit,cp,FALSE,,,,
+b2422,5,41.0587163,P,cysA,365,sulfate/thiosulfate transporter subunit,cp,FALSE,,,,
+b2424,5,30.2917158,O,cysU,277,sulfate/thiosulfate ABC transporter permease,cp,FALSE,,,,
+b2423,5,32.5374557,P,cysW,291,sulfate/thiosulfate ABC transporter subunit,cp,FALSE,,,,
+b3917,3,36.6591127,P,sbp,329,sulfate transporter subunit,cp,FALSE,,,,
+b2425,5,37.6143802,P,cysP,338,thiosulfate-binding protein,cp,FALSE,,,,
+b2877,1,21.5137875,R,mocA,192,CTP:molybdopterin cytidylyltransferase,c,FALSE,MOCDS,0,0,b2877
+b0134,1,28.2373458,H,panB,264,3-methyl-2-oxobutanoate hydroxymethyltransferase,c,FALSE,MOHMT,0,0,b0134
+b0009,1,21.2222748,H,mog,195,molybdochelatase incorporating molybdenum into molybdopterin,c,FALSE,MPTAT,0,0,b0009
+b1069,2,55.2672483,R,murJ,511,putative peptidoglycan lipid II flippase required for murein synthesis,cp,FALSE,,,,
+b2519,2,85.0665705,M,pbpC,770,penicillin-binding protein PBP1C murein transglycosylase; inactive transpeptidase domain,cp,FALSE,,,,
+b0785,1,16.9809716,H,moaE,150,"molybdopterin synthase, large subunit",c,FALSE,MPTS,0,1,(b0784 and b0785)
+b0826,1,26.7187865,H,moeB,249,molybdopterin synthase sulfurylase,c,FALSE,MPTSS,0,0,b0826
+b1008,1,21.5702997,C,rutE,196,malonic semialdehyde reductase,c,FALSE,MSAR,1,0,(b1008 or b1539)
+b0529,2,31.0436241,H,folD,288,"bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase",c,FALSE,,,,
+b3941,1,33.1026046,E,metF,296,"5,10-methylenetetrahydrofolate reductase",c,FALSE,MTHFR2,0,0,b3941
+b1059,2,40.9018196,E,solA,372,"N-methyltryptophan oxidase, FAD-binding",c,TRUE,,,,
+b3996,1,29.6888399,L,nudC,257,NADH pyrophosphatase,c,FALSE,NADDP,1,0,(b3996 or b2411)
+b2411,1,73.6057547,L,ligA,671,"DNA ligase, NAD(+)-dependent",c,FALSE,NADDP,1,0,(b3996 or b2411)
+b1109,3,47.3585119,C,ndh,434,respiratory NADH dehydrogenase 2/cupric reductase,c,FALSE,,,,
+b2276,3,52.043882,C,nuoN,485,"NADH:ubiquinone oxidoreductase, membrane subunit N",cp,FALSE,,,,
+b2277,3,56.5243373,C,nuoM,509,"NADH:ubiquinone oxidoreductase, membrane subunit M",cp,FALSE,,,,
+b2278,3,66.4378411,CP,nuoL,613,"NADH:ubiquinone oxidoreductase, membrane subunit L",cp,FALSE,,,,
+b2279,3,10.8449833,C,nuoK,100,"NADH:ubiquinone oxidoreductase, membrane subunit K",cp,FALSE,,,,
+b2280,3,19.8745689,C,nuoJ,184,"NADH:ubiquinone oxidoreductase, membrane subunit J",cp,FALSE,,,,
+b2281,3,20.5377122,C,nuoI,180,"NADH:ubiquinone oxidoreductase, chain I",cp,FALSE,,,,
+b2282,3,36.2190246,C,nuoH,325,"NADH:ubiquinone oxidoreductase, membrane subunit H",cp,FALSE,,,,
+b2283,3,100.2988472,C,nuoG,908,"NADH:ubiquinone oxidoreductase, chain G",cp,FALSE,,,,
+b2284,3,49.2922855,C,nuoF,445,"NADH:ubiquinone oxidoreductase, chain F",cp,FALSE,,,,
+b2285,3,18.5899939,C,nuoE,166,"NADH:ubiquinone oxidoreductase, chain E",cp,FALSE,,,,
+b2286,3,68.2358411,C,nuoC,596,"NADH:ubiquinone oxidoreductase, fused CD subunit",cp,FALSE,,,,
+b2287,3,25.0557646,C,nuoB,220,"NADH:ubiquinone oxidoreductase, chain B",cp,FALSE,,,,
+b2288,3,16.4572649,C,nuoA,147,"NADH:ubiquinone oxidoreductase, membrane subunit A",cp,FALSE,,,,
+b2615,1,32.566254,G,nadK,292,NAD kinase,c,FALSE,NADK,0,0,b2615
+b3028,3,21.8908113,R,mdaB,193,NADPH quinone reductase,c,FALSE,,,,
+b1740,1,30.6366983,H,nadE,275,"NAD synthetase, NH3/glutamine-dependent",c,FALSE,NADS1,0,0,b1740
+b3962,1,51.5602127,C,sthA,466,"pyridine nucleotide transhydrogenase, soluble",c,FALSE,NADTRHD,1,1,(b3962 or (b1602 and b1603))
+b1602,2,48.7228667,C,pntB,462,"pyridine nucleotide transhydrogenase, beta subunit","c,cp",FALSE,,,,
+b1603,2,54.6232401,C,pntA,510,"pyridine nucleotide transhydrogenase, alpha subunit","c,cp",FALSE,,,,
+b0931,1,45.897082,H,pncB,400,nicotinate phosphoribosyltransferase,c,FALSE,NAMNPP,0,0,b0931
+b1186,1,56.7281828,P,nhaB,513,sodium:proton antiporter,cp,FALSE,NAt3_1p5pp,0,0,b1186
+b0019,1,41.3555243,P,nhaA,388,sodium-proton antiporter,cp,FALSE,NAt3_2pp,0,0,b0019
+b2518,8,15.4633785,F,ndk,143,multifunctional nucleoside diphosphate kinase and apyrimidinic endonuclease and 3'-phosphodiesterase,c,FALSE,,,,
+b0451,1,44.5145455,P,amtB,428,ammonium transporter,cp,FALSE,NH4tpp,1,0,(b0451 or s0001)
+b2710,1,54.2340038,C,norV,479,anaerobic nitric oxide reductase flavorubredoxin,c,FALSE,NHFRBO,0,1,(b2710 and b2711)
+b2711,1,41.4034412,C,norW,377,NADH:flavorubredoxin oxidoreductase,c,FALSE,NHFRBO,0,1,(b2710 and b2711)
+b3476,1,58.7187346,E,nikA,524,"nickel-binding, heme-binding periplasmic protein",cp,FALSE,NI2uabcpp,1,4,((b3476 and b3477 and b3478 and b3479 and b3480) or b4242)
+b3477,1,35.2479787,EP,nikB,314,nickel transporter subunit,cp,FALSE,NI2uabcpp,1,4,((b3476 and b3477 and b3478 and b3479 and b3480) or b4242)
+b3478,1,30.3618582,EP,nikC,277,nickel transporter subunit,cp,FALSE,NI2uabcpp,1,4,((b3476 and b3477 and b3478 and b3479 and b3480) or b4242)
+b3479,1,26.8203252,EP,nikD,254,nickel transporter subunit,cp,FALSE,NI2uabcpp,1,4,((b3476 and b3477 and b3478 and b3479 and b3480) or b4242)
+b3480,1,29.7215522,EP,nikE,268,nickel transporter subunit,cp,FALSE,NI2uabcpp,1,4,((b3476 and b3477 and b3478 and b3479 and b3480) or b4242)
+b4390,1,47.3456295,H,nadR,410,"trifunctional protein: nicotinamide mononucleotide adenylyltransferase, ribosylnicotinamide kinase, transcriptional repressor",c,FALSE,NMNAT,1,0,(b4390 or b0639)
+b0639,2,24.527831,H,nadD,213,"nicotinic acid mononucleotide adenylyltransferase, NAD(P)-dependent",c,FALSE,,,,
+b0751,1,26.9961512,H,pnuC,239,nicotinamide riboside transporter,cp,FALSE,NMNPtpp,0,0,b0751
+b1768,1,23.3619703,Q,pncA,213,nicotinamidase/pyrazinamidase,c,FALSE,NNAM,0,0,b1768
+b1991,1,36.9868967,H,cobT,359,nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase,c,TRUE,NNDMBRT,0,0,b1991
+b0109,1,32.761919,H,nadC,297,quinolinate phosphoribosyltransferase,c,FALSE,NNDPR,0,0,b0109
+b3367,1,28.5624201,P,nirC,268,nitrite transporter,cp,FALSE,NO2t2rpp,1,0,(b3367 or b1223)
+b1223,2,49.6932452,P,narK,463,nitrate/nitrite transporter,cp,FALSE,,,,
+b2203,2,16.2964918,C,napB,149,"nitrate reductase, small, cytochrome C550 subunit, periplasmic",cp,FALSE,,,,
+b2206,2,93.0416615,C,napA,828,"nitrate reductase, periplasmic, large subunit",cp,FALSE,,,,
+b2202,2,23.1004965,C,napC,200,"quinol dehydrogenase, electron source for NapAB",cp,FALSE,,,,
+b2205,1,24.9246634,R,napG,231,ferredoxin-type protein essential for electron transfer from ubiquinol to periplasmic nitrate reductase (NapAB),cp,FALSE,NO3R1bpp,0,4,((b2203 and b2206) and b2202 and b2205 and b2204)
+b2204,1,31.8734568,C,napH,287,ferredoxin-type protein essential for electron transfer from ubiquinol to periplasmic nitrate reductase (NapAB),cp,FALSE,NO3R1bpp,0,4,((b2203 and b2206) and b2202 and b2205 and b2204)
+b1465,2,26.0178369,C,narV,226,"nitrate reductase 2 (NRZ), gamma subunit",cp,FALSE,,,,
+b1466,2,26.1604885,C,narW,231,"nitrate reductase 2 (NRZ), delta subunit (assembly subunit)",cp,FALSE,,,,
+b1467,2,58.5577371,C,narY,514,"nitrate reductase 2 (NRZ), beta subunit",cp,FALSE,,,,
+b1468,2,140.2261253,C,narZ,1246,"nitrate reductase 2 (NRZ), alpha subunit",cp,FALSE,,,,
+b1224,2,140.4888452,C,narG,1247,"nitrate reductase 1, alpha subunit",cp,FALSE,,,,
+b1225,2,58.0662478,C,narH,512,"nitrate reductase 1, beta (Fe-S) subunit",cp,FALSE,,,,
+b1226,2,26.4487404,C,narJ,236,molybdenum-cofactor-assembly chaperone subunit (delta subunit) of nitrate reductase 1,cp,FALSE,,,,
+b1227,2,25.4972795,C,narI,225,"nitrate reductase 1, gamma (cytochrome b(NR)) subunit",cp,FALSE,,,,
+b1469,1,49.8899525,P,narU,462,nitrate/nitrite transporter,cp,FALSE,NO3t7pp,1,0,(b1223 or b1469)
+b2552,2,43.8674639,C,hmp,396,fused nitric oxide dioxygenase/dihydropteridine reductase 2,c,FALSE,,,,
+b2291,6,22.7079753,R,yfbR,199,5'-nucleotidase,c,FALSE,,,,
+b2744,14,26.9003303,R,surE,253,broad specificity 5'(3')-nucleotidase and polyphosphatase,c,FALSE,,,,
+b4374,3,25.3005066,R,yjjG,225,dUMP phosphatase,c,FALSE,,,,
+b0480,17,60.8237206,F,ushA,550,bifunctional UDP-sugar hydrolase/5'-nucleotidase,p,FALSE,,,,
+b0650,1,61.9860289,O,hscC,556,"Hsp70 family chaperone Hsc62, binds to RpoD and inhibits transcription",c,FALSE,NTP1,1,0,(b0650 or b4161)
+b4161,4,39.1931457,R,rsgA,350,ribosome small subunit-dependent GTPase A,c,FALSE,,,,
+b4394,3,18.2125755,S,yjjX,170,inosine/xanthosine triphosphatase,c,FALSE,,,,
+b0980,2,47.0566482,,appA,432,phosphoanhydride phosphorylase,p,FALSE,,,,
+b2781,8,30.4121877,R,mazG,263,nucleoside triphosphate pyrophosphohydrolase,c,FALSE,,,,
+b2954,3,21.0387498,F,rdgB,197,dITP/XTP pyrophosphatase,c,FALSE,,,,
+b1759,2,15.0460524,F,nudG,135,"CTP pyrophosphohydrolase; also hydrolyzes 2-hydroxy-dATP, 8-hydroxy-dGTP, 5-hydroxy-CTP, dCTP and 5-methyl-dCTP",c,FALSE,,,,
+b0160,2,59.3826791,F,dgt,505,deoxyguanosine triphosphate triphosphohydrolase,c,FALSE,,,,
+b3365,1,93.1210113,C,nirB,847,"nitrite reductase, large subunit, NAD(P)H-binding",c,FALSE,NTRIR2x,0,1,(b3365 and b3366)
+b3366,1,12.2839584,PR,nirD,108,"nitrite reductase, NAD(P)H-binding, small subunit",c,FALSE,NTRIR2x,0,1,(b3365 and b3366)
+b4070,2,53.7027542,P,nrfA,478,"nitrite reductase, formate-dependent, cytochrome",cp,FALSE,,,,
+b4071,2,20.7144512,P,nrfB,188,"nitrite reductase, formate-dependent, penta-heme cytochrome c",cp,FALSE,,,,
+b4072,2,24.5674165,C,nrfC,223,"formate-dependent nitrite reductase, 4Fe4S subunit",cp,FALSE,,,,
+b4073,2,35.042083,P,nrfD,318,"formate-dependent nitrite reductase, membrane subunit",cp,FALSE,,,,
+b2035,3,44.7441287,,wbbH,388,O-antigen polymerase,p,TRUE,,,,
+b2027,3,36.4545838,M,wzzB,326,regulator of length of O-antigen component of lipopolysaccharide chains,p,TRUE,,,,
+b2033,1,21.675003,R,wbbJ,196,putative lipopolysaccharide biosynthesis O-acetyl transferase,c,TRUE,O16AT,0,0,b2033
+b2037,1,45.3824158,R,wzxB,415,putative polisoprenol-linked O-antigen transporter,cp,TRUE,O16AUNDtpp,0,0,b2037
+b2034,1,37.7570659,,wbbI,330,"d-Galf:alpha-d-Glc beta-1,6-galactofuranosyltransferase",c,TRUE,O16GALFT,0,0,b2034
+b2032,1,43.1879563,M,wbbK,372,lipopolysaccharide biosynthesis protein,c,TRUE,O16GLCT1,0,0,b2032
+b0902,2,28.204213,O,pflA,246,pyruvate formate lyase activating enzyme 1,c,FALSE,,,,
+b0903,2,85.3569182,C,pflB,760,pyruvate formate lyase I,c,FALSE,,,,
+b2579,2,14.2841193,R,grcA,127,autonomous glycyl radical cofactor,c,FALSE,,,,
+b3114,2,85.9352046,C,tdcE,764,pyruvate formate-lyase 4/2-ketobutyrate formate-lyase,c,FALSE,,,,
+b4254,1,36.9069911,E,argI,334,ornithine carbamoyltransferase 1,c,FALSE,OCBT,1,0,(b4254 or b0273)
+b0273,1,36.8270391,E,argF,334,"ornithine carbamoyltransferase 2, chain F; CP4-6 prophage",c,FALSE,OCBT,1,0,(b4254 or b0273)
+b3187,1,35.2168615,H,ispB,323,octaprenyl diphosphate synthase,c,FALSE,OCTDPS,0,0,b3187
+b0907,2,39.7831598,HE,serC,362,3-phosphoserine/phosphohydroxythreonine aminotransferase,c,FALSE,,,,
+b0662,1,42.9533351,HC,ubiF,391,"2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol oxygenase",c,FALSE,OMMBLHX,0,0,b0662
+b1281,1,26.350164,F,pyrF,245,orotidine-5'-phosphate decarboxylase,c,FALSE,OMPDC,0,0,b1281
+b2907,1,42.288134,HC,ubiH,392,"2-octaprenyl-6-methoxyphenol hydroxylase, FAD/NAD(P)-binding",c,FALSE,OMPHHX,0,0,b2907
+b0350,1,28.8897735,Q,mhpD,269,2-keto-4-pentenoate hydratase,c,FALSE,OP4ENH,0,0,b0350
+b3843,1,55.6035313,H,ubiD,497,3-octaprenyl-4-hydroxybenzoate decarboxylase,c,FALSE,OPHBDC,0,1,(b3843 and b2311)
+b2311,1,20.6949325,H,ubiX,189,3-octaprenyl-4-hydroxybenzoate carboxy-lyase,c,FALSE,OPHBDC,0,1,(b3843 and b2311)
+b3835,1,63.2024651,R,ubiB,546,2-octaprenylphenol hydroxylase,c,FALSE,OPHHX,0,0,b3835
+b2965,1,79.4158357,E,speC,711,"ornithine decarboxylase, constitutive",c,FALSE,ORNDC,1,0,(b2965 or b0693)
+b0693,1,82.4154905,E,speF,732,"ornithine decarboxylase isozyme, inducible",c,FALSE,ORNDC,1,0,(b2965 or b0693)
+b3642,1,23.5668933,F,pyrE,213,orotate phosphoribosyltransferase,c,FALSE,ORPT,0,0,b3642
+b2373,1,60.5810231,EH,oxc,564,"oxalyl CoA decarboxylase, ThDP-dependent",c,TRUE,OXCDC,0,0,b2373
+b1387,1,73.002361,C,paaZ,681,"fused oxepin-CoA hydrolase/3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase",c,FALSE,OXCOAHDH,0,0,b1387
+b1394,2,28.4045255,I,paaG,262,"1,2-epoxyphenylacetyl-CoA isomerase, oxepin-CoA-forming",c,FALSE,,,,
+b1014,2,143.8145764,C,putA,1320,fused DNA-binding transcriptional regulator/proline dehydrogenase/pyrroline-5-carboxylate dehydrogenase,c,FALSE,,,,
+b0386,1,28.1448207,E,proC,269,"pyrroline-5-carboxylate reductase, NAD(P)-binding",c,FALSE,P5CR,0,0,b0386
+b1388,1,35.4991566,S,paaA,309,"ring 1,2-phenylacetyl-CoA epoxidase subunit",c,FALSE,PACCOAE,0,4,(b1388 and b1389 and b1390 and b1391 and b1392)
+b1389,1,10.9422101,Q,paaB,95,"ring 1,2-phenylacetyl-CoA epoxidase possible subunit, not required for in vitro activity",c,FALSE,PACCOAE,0,4,(b1388 and b1389 and b1390 and b1391 and b1392)
+b1390,1,27.8773601,S,paaC,248,"ring 1,2-phenylacetyl-CoA epoxidase subunit",c,FALSE,PACCOAE,0,4,(b1388 and b1389 and b1390 and b1391 and b1392)
+b1391,1,18.3240413,R,paaD,165,"ring 1,2-phenylacetyl-CoA epoxidase subunit",c,FALSE,PACCOAE,0,4,(b1388 and b1389 and b1390 and b1391 and b1392)
+b1392,1,39.3198363,C,paaE,356,"ring 1,2-phenylacetyl-CoA epoxidase, NAD(P)H oxidoreductase component",c,FALSE,PACCOAE,0,4,(b1388 and b1389 and b1390 and b1391 and b1392)
+b1398,1,48.9527095,H,paaK,437,phenylacetyl-CoA ligase,c,FALSE,PACCOAL,0,0,b1398
+b0133,1,31.5975583,H,panC,283,pantothenate synthetase,c,FALSE,PANTS,0,0,b0133
+b1278,30,29.0211136,I,pgpB,254,phosphatidylglycerophosphatase B,"c,p",FALSE,,,,
+b0087,1,39.8745765,M,mraY,360,phospho-N-acetylmuramoyl-pentapeptide transferase,c,FALSE,PAPPT3,0,0,b0087
+b2762,2,27.9756844,EH,cysH,244,3'-phosphoadenosine 5'-phosphosulfate reductase,c,FALSE,,,,
+b1489,2,90.2600496,T,dosP,799,"oxygen sensor, c-di-GMP phosphodiesterase, heme-regulated; cold- and stationary phase-induced bioflim regulator",c,FALSE,,,,
+b0114,1,99.6680625,C,aceE,887,"pyruvate dehydrogenase, decarboxylase component E1, thiamin-binding",c,FALSE,PDH,0,2,(b0114 and b0115 and b0116)
+b0115,1,66.0957991,C,aceF,630,"pyruvate dehydrogenase, dihydrolipoyltransacetylase component E2",c,FALSE,PDH,0,2,(b0114 and b0115 and b0116)
+b1638,2,25.5450323,H,pdxH,218,pyridoxine 5'-phosphate oxidase,c,FALSE,,,,
+b0052,1,35.1136443,H,pdxA,329,"4-hydroxy-L-threonine phosphate dehydrogenase, NAD-dependent",c,FALSE,PDX5PS,0,1,(b0052 and b2564)
+b2564,1,26.3842159,H,pdxJ,243,pyridoxine 5'-phosphate synthase,c,FALSE,PDX5PS,0,1,(b0052 and b2564)
+b0766,2,30.2011937,R,ybhA,272,pyridoxal phosphate (PLP) phosphatase,c,FALSE,,,,
+b2320,1,41.367466,HE,pdxB,378,erythronate-4-phosphate dehydrogenase,c,FALSE,PERD,0,0,b2320
+b3546,2,63.8041426,R,eptB,563,"KDO phosphoethanolamine transferase, Ca(2+)-inducible",p,FALSE,,,,
+b3916,3,34.8419457,G,pfkA,320,6-phosphofructokinase I,c,FALSE,,,,
+b1723,1,32.4558686,G,pfkB,309,6-phosphofructokinase II,c,FALSE,PFK,1,0,(b3916 or b1723)
+b3951,1,85.9594118,C,pflD,765,putative formate acetyltransferase 2 (pyruvate formate lyase II),c,FALSE,PFL,3,5,((b0902 and b0903) or (b0902 and b3114) or (b3951 and b3952) or ((b0902 and b0903) and b2579))
+b3952,1,32.4295718,O,pflC,292,pyruvate formate lyase II activase,c,FALSE,PFL,3,5,((b0902 and b0903) or (b0902 and b3114) or (b3951 and b3952) or ((b0902 and b0903) and b2579))
+b3176,1,47.5434182,G,glmM,445,phosphoglucosamine mutase,c,FALSE,PGAMT,0,0,b3176
+b2913,1,44.175602,HE,serA,410,D-3-phosphoglycerate dehydrogenase,c,FALSE,PGCD,0,0,b2913
+b4025,1,61.5294893,G,pgi,549,glucosephosphate isomerase,c,FALSE,PGI,0,0,b4025
+b2926,1,41.1180394,G,pgk,387,phosphoglycerate kinase,c,FALSE,PGK,0,0,b2926
+b0767,1,36.3074921,G,pgl,331,6-phosphogluconolactonase,c,FALSE,PGL,0,0,b0767
+b3385,1,27.3890484,R,gph,252,phosphoglycolate phosphatase,c,TRUE,PGLYCP,0,0,b3385
+b3612,1,56.1936892,G,gpmM,514,"phosphoglycero mutase III, cofactor-independent",c,FALSE,PGM,2,0,(b3612 or b4395 or b0755)
+b4395,1,24.0651463,G,ytjC,215,phosphatase,c,FALSE,PGM,2,0,(b3612 or b4395 or b0755)
+b0755,1,28.5562491,G,gpmA,250,phosphoglyceromutase 1,c,FALSE,PGM,2,0,(b3612 or b4395 or b0755)
+b2690,1,20.7797445,R,yqaB,188,fructose-1-P and 6-phosphogluconate phosphatase,c,FALSE,PGMT,1,0,(b2690 or b0688)
+b0688,1,58.3607103,G,pgm,546,phosphoglucomutase,c,FALSE,PGMT,1,0,(b2690 or b0688)
+b0418,14,19.4180592,I,pgpA,172,phosphatidylglycerophosphatase A,"c,p",FALSE,,,,
+b1912,7,20.700539,I,pgsA,182,phosphatidylglycerophosphate synthetase,c,FALSE,,,,
+b2201,1,23.0531479,O,ccmA,207,heme exporter subunit,cp,FALSE,PHEMEabcpp,0,4,(b2201 and b2200 and b2199 and b2198 and b2197)
+b2200,1,23.6187109,O,ccmB,220,heme exporter subunit,cp,FALSE,PHEMEabcpp,0,4,(b2201 and b2200 and b2199 and b2198 and b2197)
+b2199,1,27.8852321,O,ccmC,245,heme exporter subunit,cp,FALSE,PHEMEabcpp,0,4,(b2201 and b2200 and b2199 and b2198 and b2197)
+b2198,1,7.7451085,U,ccmD,69,cytochrome c biogenesis protein,cp,FALSE,PHEMEabcpp,0,4,(b2201 and b2200 and b2199 and b2198 and b2197)
+b2197,1,17.6982501,O,ccmE,159,periplasmic heme chaperone,cp,FALSE,PHEMEabcpp,0,4,(b2201 and b2200 and b2199 and b2198 and b2197)
+b1713,1,87.3777725,J,pheT,795,"phenylalanine tRNA synthetase, beta subunit",c,TRUE,PHETRS,0,1,(b1713 and b1714)
+b1714,1,36.8316534,J,pheS,327,"phenylalanine tRNA synthetase, alpha subunit",c,TRUE,PHETRS,0,1,(b1713 and b1714)
+b1473,3,31.5393253,,yddG,293,aromatic amino acid exporter,cp,FALSE,,,,
+b0576,2,50.6771116,E,pheP,458,phenylalanine transporter,cp,FALSE,,,,
+b2987,1,53.8085346,P,pitB,499,phosphate transporter,cp,FALSE,PIt2rpp,1,0,(b2987 or b3493)
+b3493,1,53.3888552,P,pitA,499,"phosphate transporter, low-affinity; tellurite importer",cp,FALSE,PIt2rpp,1,0,(b2987 or b3493)
+b3726,1,32.3216773,P,pstA,296,phosphate transporter subunit,cp,FALSE,PIuabcpp,0,3,(b3726 and b3725 and b3727 and b3728)
+b3725,1,29.0271866,P,pstB,257,phosphate transporter subunit,cp,FALSE,PIuabcpp,0,3,(b3726 and b3725 and b3727 and b3728)
+b3727,1,34.1208823,P,pstC,319,phosphate transporter subunit,cp,FALSE,PIuabcpp,0,3,(b3726 and b3725 and b3727 and b3728)
+b3728,1,37.023723,P,pstS,346,"periplasmic phosphate binding protein, high-affinity",cp,FALSE,PIuabcpp,0,3,(b3726 and b3725 and b3727 and b3728)
+b3821,42,33.1629737,M,pldA,289,outer membrane phospholipase A,p,FALSE,,,,
+b2048,1,50.4623838,G,cpsG,456,phosphomannomutase,c,FALSE,PMANM,0,0,b2048
+b3412,1,28.5048915,R,bioH,256,pimeloyl-ACP carboxylesterase,c,FALSE,PMEACPE,0,0,b3412
+b3974,1,36.3595975,H,coaA,316,pantothenate kinase,c,FALSE,PNTK,0,0,b3974
+b3258,1,51.7168373,H,panF,483,pantothenate:sodium symporter,cp,FALSE,PNTOt4pp,0,0,b3258
+b1010,1,13.762803,J,rutC,128,"putative aminoacrylate deaminase, reactive intermediate detoxification",c,FALSE,POAACR,0,0,b1010
+b1378,1,128.8239586,C,ydbK,1174,fused predicted pyruvate-flavodoxin oxidoreductase: conserved protein/conserved protein/FeS binding protein,c,FALSE,POR5,1,2,((b0684 and b1378) or (b2895 and b1378))
+b0871,1,62.0111982,EH,poxB,572,"pyruvate dehydrogenase (pyruvate oxidase), thiamin-dependent, FAD-binding",c,FALSE,POX,0,0,b0871
+b4226,1,19.7034708,C,ppa,176,inorganic pyrophosphatase,c,FALSE,PPA,2,0,(b2744 or b4226 or b2502)
+b2502,2,58.1357484,FP,ppx,513,exopolyphosphatase,c,FALSE,,,,
+b1015,2,54.3439651,ER,putP,502,proline:sodium symporter,cp,FALSE,,,,
+b0369,1,35.6247039,H,hemB,324,5-aminolevulinate dehydratase (porphobilinogen synthase),c,FALSE,PPBNGS,0,0,b0369
+b3956,1,99.062216,C,ppc,883,phosphoenolpyruvate carboxylase,c,FALSE,PPC,0,0,b3956
+b3639,2,43.437993,H,dfp,406,"fused 4'-phosphopantothenoylcysteine decarboxylase/phosphopantothenoylcysteine synthetase, FMN-binding",c,FALSE,,,,
+b3403,1,59.6432225,C,pck,540,phosphoenolpyruvate carboxykinase,c,FALSE,PPCK,0,0,b3403
+b2920,1,53.8242541,C,scpC,492,propionyl-CoA:succinate CoA transferase,c,FALSE,PPCSCT,0,0,b2920
+b2501,2,80.4311185,P,ppk,688,"polyphosphate kinase, component of RNA degradosome",c,FALSE,,,,
+b3380,1,44.5593462,G,yhfW,408,putative mutase,c,FALSE,PPM,1,0,(b3380 or b4383)
+b4383,2,44.3697913,G,deoB,407,phosphopentomutase,c,FALSE,,,,
+b3850,2,21.2262105,CH,hemG,181,"protoporphyrin oxidase, flavoprotein",c,FALSE,,,,
+b2536,1,41.5925691,G,hcaT,379,putative 3-phenylpropionic transporter,cp,FALSE,PPPNt2rpp,0,0,b2536
+b1702,1,87.4347968,G,ppsA,792,phosphoenolpyruvate synthase,c,FALSE,PPS,0,0,b1702
+b0383,1,49.4383932,P,phoA,471,bacterial alkaline phosphatase,p,FALSE,PPTHpp,0,0,b0383
+b4005,1,45.9402064,F,purD,429,phosphoribosylglycinamide synthetase phosphoribosylamine-glycine ligase,c,FALSE,PRAGSr,0,0,b4005
+b2499,1,36.8539189,F,purM,345,phosphoribosylaminoimidazole synthetase,c,FALSE,PRAIS,0,0,b2499
+b2026,2,22.7557335,E,hisI,203,fused phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphatase,c,FALSE,,,,
+b2476,1,26.9949063,F,purC,237,phosphoribosylaminoimidazole-succinocarboxamide synthetase,c,FALSE,PRASCSi,0,0,b2476
+b2557,1,141.4021859,F,purL,1295,phosphoribosylformyl-glycineamide synthetase,c,FALSE,PRFGS,0,0,b2557
+b2024,1,26.0325309,E,hisA,245,N-(5'-phospho-L-ribosyl-formimino)-5-amino-1-(5'-phosphoribosyl)-4-imidazolecarboxamide isomerase,c,FALSE,PRMICI,0,0,b2024
+b0194,1,63.6923376,J,proS,572,prolyl-tRNA synthetase,c,TRUE,PROTRS,0,0,b0194
+b1207,1,34.2181594,FE,prs,315,phosphoribosylpyrophosphate synthase,c,FALSE,PRPPS,0,0,b1207
+b0908,1,46.0956344,E,aroA,427,5-enolpyruvylshikimate-3-phosphate synthetase,c,FALSE,PSCVT,0,0,b0908
+b4160,7,35.9342568,I,psd,322,phosphatidylserine decarboxylase,c,FALSE,,,,
+b4388,1,35.0425745,E,serB,322,3-phosphoserine phosphatase,c,FALSE,PSP_L,0,0,b4388
+b2585,7,52.8015458,I,pssA,451,phosphatidylserine synthase (CDP-diacylglycerol-serine O-phosphatidyltransferase),c,FALSE,,,,
+b2297,2,77.1718046,R,pta,714,phosphate acetyltransferase,c,FALSE,,,,
+b2458,1,36.0666134,C,eutD,338,phosphate acetyltransferase,c,FALSE,PTAr,1,0,(b2297 or b2458)
+b3634,1,17.8365776,H,coaD,159,pantetheine-phosphate adenylyltransferase,c,FALSE,PTPATi,0,0,b3634
+b0692,2,46.4947336,E,potE,439,putrescine/proton symporter: putrescine/ornithine antiporter,cp,FALSE,,,,
+b3073,1,49.6612112,E,patA,459,"putrescine:2-oxoglutaric acid aminotransferase, PLP-dependent",c,FALSE,PTRCTA,0,0,b3073
+b0854,1,40.8394837,E,potF,370,putrescine transporter subunit: periplasmic-binding component of ABC superfamily,cp,FALSE,PTRCabcpp,2,9,((b0854 and b0855 and b0856 and b0857) or (b1126 and b1125 and b1124 and b1123) or (b1440 and b1441 and b1442 and b1443))
+b0855,1,41.9305762,E,potG,377,putrescine transporter subunit: ATP-binding component of ABC superfamily,cp,FALSE,PTRCabcpp,2,9,((b0854 and b0855 and b0856 and b0857) or (b1126 and b1125 and b1124 and b1123) or (b1440 and b1441 and b1442 and b1443))
+b0856,1,35.4893757,E,potH,317,putrescine transporter subunit: membrane component of ABC superfamily,cp,FALSE,PTRCabcpp,2,9,((b0854 and b0855 and b0856 and b0857) or (b1126 and b1125 and b1124 and b1123) or (b1440 and b1441 and b1442 and b1443))
+b0857,1,30.5404801,E,potI,281,putrescine transporter subunit: membrane component of ABC superfamily,cp,FALSE,PTRCabcpp,2,9,((b0854 and b0855 and b0856 and b0857) or (b1126 and b1125 and b1124 and b1123) or (b1440 and b1441 and b1442 and b1443))
+b1126,2,43.0280632,E,potA,378,polyamine transporter subunit,cp,FALSE,,,,
+b1125,2,31.0618638,E,potB,275,polyamine transporter subunit,cp,FALSE,,,,
+b1124,2,29.1108419,E,potC,264,polyamine transporter subunit,cp,FALSE,,,,
+b1123,2,38.8669092,E,potD,348,polyamine transporter subunit,cp,FALSE,,,,
+b1440,2,42.2950228,E,ydcS,381,"polyhydroxybutyrate (PHB) synthase, ABC transporter periplasmic binding protein homolog",cp,FALSE,,,,
+b1441,2,37.0404667,E,ydcT,337,putative spermidine/putrescine transporter subunit,cp,FALSE,,,,
+b1442,2,34.359936,E,ydcU,313,putative spermidine/putrescine transporter subunit,cp,FALSE,,,,
+b1443,2,28.7217517,E,ydcV,264,putative spermidine/putrescine transporter subunit,cp,FALSE,,,,
+b1296,1,50.8528023,E,puuP,461,putrescine importer,cp,FALSE,PTRCt2pp,1,0,(b1296 or b0692)
+b2407,5,29.8345404,F,xapA,277,purine nucleoside phosphorylase II,c,FALSE,,,,
+b1636,1,31.3220937,H,pdxY,287,pyridoxamine kinase,c,FALSE,PYDXK,1,0,(b1636 or b2418)
+b3826,1,29.7076304,R,yigL,266,putative hydrolase,c,FALSE,PYDXPP,2,0,(b0446 or b3826 or b0766)
+b1854,1,51.3570026,G,pykA,480,pyruvate kinase II,c,FALSE,PYK,1,0,(b1854 or b1676)
+b1676,1,50.7292807,G,pykF,470,pyruvate kinase I,c,FALSE,PYK,1,0,(b1854 or b1676)
+b3831,1,27.1589989,F,udp,253,uridine phosphorylase,c,FALSE,PYNP2r,0,0,b3831
+b1012,1,42.2187843,C,rutA,382,"pyrimidine oxygenase, FMN-dependent",c,FALSE,PYROX,0,1,(b1012 and b1007)
+b1007,1,17.7492472,R,rutF,164,flavin:NADH reductase,c,FALSE,PYROX,0,1,(b1012 and b1007)
+b3029,2,11.5323687,S,ygiN,104,quinol monooxygenase,c,TRUE,,,,
+b1692,2,31.2277067,E,ydiB,288,"quinate/shikimate 5-dehydrogenase, NAD(P)-binding",c,FALSE,,,,
+b0750,1,38.2406955,H,nadA,347,"quinolinate synthase, subunit A",c,FALSE,QULNS,0,0,b0750
+b4094,1,20.7295125,P,phnN,185,"ribose 1,5-bisphosphokinase",c,FALSE,R15BPK,0,0,b4094
+b1662,1,23.4448209,H,ribC,213,"riboflavin synthase, alpha subunit",c,FALSE,RBFSa,0,0,b1662
+b0415,1,16.1564326,H,ribE,156,riboflavin synthase beta chain,c,FALSE,RBFSb,0,0,b0415
+b3752,1,32.2903662,G,rbsK,309,ribokinase,c,FALSE,RBK,0,0,b3752
+b0063,3,61.0892096,C,araB,566,L-ribulokinase,c,FALSE,,,,
+b4198,1,25.2776432,G,ulaF,228,L-ribulose 5-phosphate 4-epimerase,c,FALSE,RBP4E,2,0,(b4198 or b3583 or b0061)
+b3583,1,25.5607696,G,yiaS,231,L-ribulose-5-phosphate 4-epimerase,c,FALSE,RBP4E,2,0,(b4198 or b3583 or b0061)
+b0061,1,25.5188129,G,araD,231,L-ribulose-5-phosphate 4-epimerase,c,FALSE,RBP4E,2,0,(b4198 or b3583 or b0061)
+b3629,1,36.7303026,,waaS,311,lipopolysaccharide core biosynthesis protein,c,FALSE,RHAT1,0,0,b3629
+b2687,1,19.4161457,T,luxS,171,S-ribosylhomocysteine lyase,c,FALSE,RHCCE,0,0,b2687
+b3749,1,55.0414223,G,rbsA,501,fused D-ribose transporter subunits of ABC superfamily: ATP-binding components,cp,FALSE,RIBabcpp,2,8,((b4231 and b4227 and b4485 and b4230) or (b3749 and b3751 and b3750 and b3748) or (b4087 and b4088 and b4086))
+b3751,1,30.9503515,G,rbsB,296,D-ribose transporter subunit,cp,FALSE,RIBabcpp,2,8,((b4231 and b4227 and b4485 and b4230) or (b3749 and b3751 and b3750 and b3748) or (b4087 and b4088 and b4086))
+b3750,1,33.4516905,G,rbsC,321,D-ribose transporter subunit,cp,FALSE,RIBabcpp,2,8,((b4231 and b4227 and b4485 and b4230) or (b3749 and b3751 and b3750 and b3748) or (b4087 and b4088 and b4086))
+b3748,1,15.2924545,G,rbsD,139,putative cytoplasmic sugar-binding protein,cp,FALSE,RIBabcpp,2,8,((b4231 and b4227 and b4485 and b4230) or (b3749 and b3751 and b3750 and b3748) or (b4087 and b4088 and b4086))
+b3904,1,54.0688557,G,rhaB,489,rhamnulokinase,c,FALSE,RMK,0,0,b3904
+b3902,1,30.1453791,G,rhaD,274,rhamnulose-1-phosphate aldolase,c,FALSE,RMPA,0,0,b3902
+b2234,4,85.7749347,F,nrdA,761,"ribonucleoside-diphosphate reductase 1, alpha subunit",c,FALSE,,,,
+b2235,4,43.5170922,F,nrdB,376,"ribonucleoside-diphosphate reductase 1, beta subunit, ferritin-like protein",c,FALSE,,,,
+b2675,4,80.4786877,F,nrdE,714,"ribonucleoside-diphosphate reductase 2, alpha subunit",c,FALSE,,,,
+b2676,4,36.4430794,F,nrdF,319,"ribonucleoside-diphosphate reductase 2, beta subunit, ferritin-like protein",c,FALSE,,,,
+b4238,4,80.0222598,F,nrdD,712,anaerobic ribonucleoside-triphosphate reductase,c,FALSE,,,,
+b4237,4,17.4458615,O,nrdG,154,anaerobic ribonucleotide reductase activating protein,c,FALSE,,,,
+b4301,1,23.2143776,G,sgcE,210,KpLE2 phage-like element; predicted epimerase,c,FALSE,RPE,1,0,(b4301 or b3386)
+b3386,1,24.5541617,G,rpe,225,D-ribulose-5-phosphate 3-epimerase,c,FALSE,RPE,1,0,(b4301 or b3386)
+b2914,1,22.8603144,G,rpiA,219,"ribose 5-phosphate isomerase, constitutive",c,FALSE,RPI,1,0,(b2914 or b4090)
+b0638,1,23.3083838,G,cobC,203,putative alpha-ribazole-5'-P phosphatase,c,TRUE,RZ5PP,0,0,b0638
+b1683,6,54.7451262,O,sufB,495,component of SufBCD Fe-S cluster assembly scaffold,c,FALSE,,,,
+b1682,6,27.5822483,O,sufC,248,"SufBCD Fe-S cluster assembly scaffold protein, ATP-binding protein",c,FALSE,,,,
+b1681,6,46.8225396,O,sufD,423,component of SufBCD Fe-S cluster assembly scaffold,c,FALSE,,,,
+b1679,4,15.8002632,R,sufE,138,sulfur acceptor protein,c,FALSE,,,,
+b1680,4,44.4336033,E,sufS,406,"cysteine desulfurase, stimulated by SufE; selenocysteine lyase, PLP-dependent",c,FALSE,,,,
+b1684,2,13.3000747,S,sufA,122,Fe-S cluster assembly protein,c,FALSE,,,,
+b0222,1,20.814677,G,gmhA,192,D-sedoheptulose 7-phosphate isomerase,c,FALSE,S7PI,0,0,b0222
+b1745,1,49.2983537,E,astB,447,succinylarginine dihydrolase,c,FALSE,SADH,0,0,b1745
+b2751,1,52.5582311,P,cysN,475,"sulfate adenylyltransferase, subunit 1",c,FALSE,SADT2,0,1,(b2751 and b2752)
+b2752,1,35.1881795,EH,cysD,302,"sulfate adenylyltransferase, subunit 2",c,FALSE,SADT2,0,1,(b2751 and b2752)
+b2705,1,27.8577801,IQR,srlD,259,sorbitol-6-phosphate dehydrogenase,c,FALSE,SBTPD,0,0,b2705
+b2702,1,20.5802606,G,srlA,187,glucitol/sorbitol-specific enzyme IIC component of PTS,cp,FALSE,SBTptspp,0,4,(b2415 and b2416 and b2702 and b2704 and b2703)
+b2704,1,13.3039952,G,srlB,123,glucitol/sorbitol-specific enzyme IIA component of PTS,cp,FALSE,SBTptspp,0,4,(b2415 and b2416 and b2702 and b2704 and b2703)
+b2703,1,33.3319016,G,srlE,319,glucitol/sorbitol-specific enzyme IIB component of PTS,cp,FALSE,SBTptspp,0,4,(b2415 and b2416 and b2702 and b2704 and b2703)
+b2472,1,41.2688648,E,dapE,375,N-succinyl-diaminopimelate deacylase,c,FALSE,SDPDS,0,0,b2472
+b3591,1,50.6070029,E,selA,463,selenocysteine synthase,c,TRUE,SELCYSS,0,0,b3591
+b1764,1,36.6871592,E,selD,347,selenophosphate synthase,c,TRUE,SELNPS,0,0,b1764
+b2264,1,61.3667922,H,menD,556,bifunctional 2-oxoglutarate decarboxylase/ SHCHC synthase,c,FALSE,SEPHCHCS,0,0,b2264
+b0586,1,141.9903535,Q,entF,1293,"enterobactin synthase multienzyme complex component, ATP-dependent",c,FALSE,SERASr,0,0,b0586
+b3607,1,29.3165402,E,cysE,273,serine acetyltransferase,c,FALSE,SERAT,0,0,b3607
+b2366,1,47.9003968,E,dsdA,442,D-serine dehydratase,c,FALSE,SERD_D,0,0,b2366
+b4471,1,48.5215329,E,tdcG,454,L-serine dehydratase 3,c,FALSE,SERD_L,3,0,(b4471 or b1814 or b2797 or b3708)
+b1814,1,48.9065306,E,sdaA,454,L-serine deaminase I,c,FALSE,SERD_L,3,0,(b4471 or b1814 or b2797 or b3708)
+b2797,1,48.7528183,E,sdaB,455,L-serine deaminase II,c,FALSE,SERD_L,3,0,(b4471 or b1814 or b2797 or b3708)
+b0893,2,48.413857,J,serS,430,"seryl-tRNA synthetase, also charges selenocysteinyl-tRNA with serine",c,TRUE,,,,
+b2796,1,46.9061794,E,sdaC,429,putative serine transporter,cp,FALSE,SERt2rpp,1,0,(b2796 or b3116)
+b3116,2,48.8788078,E,tdcC,443,L-threonine/L-serine transporter,cp,FALSE,,,,
+b3089,2,43.4775563,E,sstT,414,sodium:serine/threonine symporter,cp,FALSE,,,,
+b2154,1,31.2591754,R,yeiG,278,S-formylglutathione hydrolase,c,FALSE,SFGTHi,1,0,(b2154 or b0355)
+b0355,1,31.4243626,R,frmB,277,S-formylglutathione hydrolase,c,FALSE,SFGTHi,1,0,(b2154 or b0355)
+b1744,1,35.8000365,E,astE,322,succinylglutamate desuccinylase,c,FALSE,SGDS,0,0,b1744
+b1746,1,53.0261006,C,astD,492,succinylglutamic semialdehyde dehydrogenase,c,FALSE,SGSAD,0,0,b1746
+b2263,1,27.6822525,R,menH,252,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase",c,FALSE,SHCHCS3,0,0,b2263
+b3368,3,49.9512144,H,cysG,457,"fused siroheme synthase 1,3-dimethyluroporphyriongen III dehydrogenase and siroheme ferrochelatase/uroporphyrinogen methyltransferase",c,FALSE,,,,
+b3281,1,29.4135144,E,aroE,272,"dehydroshikimate reductase, NAD(P)-binding",c,FALSE,SHK3Dr,1,0,(b1692 or b3281)
+b3390,1,19.5379627,E,aroK,173,shikimate kinase I,c,FALSE,SHKK,1,0,(b3390 or b0388)
+b0388,1,19.1507583,E,aroL,174,shikimate kinase II,c,FALSE,SHKK,1,0,(b3390 or b0388)
+b3939,1,41.5502292,E,metB,386,"cystathionine gamma-synthase, PLP-dependent",c,FALSE,SHSL1,0,0,b3939
+b1981,1,47.8172084,G,shiA,438,shikimate transporter,cp,FALSE,SKMt2pp,0,0,b1981
+b1206,1,59.428849,P,dauA,559,C4-dicarboxylic acid transporter,cp,FALSE,SO4t2pp,0,0,b1206
+b1584,2,21.8869195,J,speG,186,spermidine N1-acetyltransferase,c,TRUE,,,,
+b1599,1,11.7200988,P,mdtI,109,multidrug efflux system transporter,cp,FALSE,SPMDt3pp,0,1,(b1599 and b1600)
+b1600,1,13.1147883,P,mdtJ,121,multidrug efflux system transporter,cp,FALSE,SPMDt3pp,0,1,(b1599 and b1600)
+b3908,1,23.0969799,P,sodA,206,"superoxide dismutase, Mn",c,TRUE,SPODM,1,0,(b3908 or b1656)
+b1656,1,21.2656603,P,sodB,193,"superoxide dismutase, Fe",c,TRUE,SPODM,1,0,(b3908 or b1656)
+b1646,1,17.6809183,P,sodC,173,"superoxide dismutase, Cu, Zn, periplasmic",p,TRUE,SPODMpp,0,0,b1646
+b1525,2,49.7177058,C,sad,462,"succinate semialdehyde dehydrogenase, NAD(P)+-dependent",c,FALSE,,,,
+b2661,1,51.719861,C,gabD,482,"succinate-semialdehyde dehydrogenase I, NADP-dependent",c,FALSE,SSALy,1,0,(b2661 or b1525)
+b2260,1,50.1844666,IQ,menE,451,O-succinylbenzoate-CoA ligase,c,FALSE,SUCBZL,0,0,b2260
+b2261,1,35.4764717,H,menC,320,O-succinylbenzoyl-CoA synthase,c,FALSE,SUCBZS,0,0,b2261
+b0721,1,14.2990958,C,sdhC,129,"succinate dehydrogenase, membrane subunit, binds cytochrome b556",c,FALSE,SUCDi,0,3,(b0721 and b0722 and b0723 and b0724)
+b0722,1,12.8674782,C,sdhD,115,"succinate dehydrogenase, membrane subunit, binds cytochrome b556",c,FALSE,SUCDi,0,3,(b0721 and b0722 and b0723 and b0724)
+b0723,1,64.4216429,C,sdhA,588,"succinate dehydrogenase, flavoprotein subunit",c,FALSE,SUCDi,0,3,(b0721 and b0722 and b0723 and b0724)
+b0724,1,26.7698234,C,sdhB,238,"succinate dehydrogenase, FeS subunit",c,FALSE,SUCDi,0,3,(b0721 and b0722 and b0723 and b0724)
+b0728,1,41.3924873,C,sucC,388,"succinyl-CoA synthetase, beta subunit",c,FALSE,SUCOAS,0,1,(b0728 and b0729)
+b0729,1,29.7773796,C,sucD,289,"succinyl-CoA synthetase, NAD(P)-binding, alpha subunit",c,FALSE,SUCOAS,0,1,(b0728 and b0729)
+b1521,1,54.8080389,G,uxaB,483,"altronate oxidoreductase, NAD-dependent",c,FALSE,TAGURr,0,0,b1521
+b2464,1,35.6586418,G,talA,316,transaldolase A,c,FALSE,TALA,1,0,(b2464 or b0008)
+b0008,1,35.2190877,G,talB,317,transaldolase B,c,FALSE,TALA,1,0,(b2464 or b0008)
+b3061,1,32.733461,C,ttdA,303,"L-tartrate dehydratase, alpha subunit",c,FALSE,TARTD,0,1,(b3061 and b3062)
+b3062,1,22.6793959,C,ttdB,201,"L-tartrate dehydratase, beta subunit",c,FALSE,TARTD,0,1,(b3061 and b3062)
+b3063,1,52.9062302,P,ttdT,487,L-tartrate/succinate antiporte,cp,FALSE,TARTRt7pp,0,0,b3063
+b0368,1,32.4093377,Q,tauD,283,"taurine dioxygenase, 2-oxoglutarate-dependent",c,FALSE,TAUDO,0,0,b0368
+b3790,1,24.2202623,,wecD,224,TDP-fucosamine acetyltransferase,c,FALSE,TDPADGAT,0,0,b3790
+b3791,1,41.9008903,M,wecE,376,TDP-4-oxo-6-deoxy-D-glucose transaminase,c,FALSE,TDPAGTA,0,0,b3791
+b2038,1,21.2700045,M,rfbC,185,"dTDP-4-deoxyrhamnose-3,5-epimerase",c,FALSE,TDPDRE,0,0,b2038
+b2040,1,32.6939838,M,rfbD,299,"dTDP-4-dehydrorhamnose reductase subunit, NAD(P)-binding, of dTDP-L-rhamnose synthase",c,FALSE,TDPDRR,0,0,b2040
+b3788,1,39.7536693,M,rffG,355,"dTDP-glucose 4,6-dehydratase",c,FALSE,TDPGDH,1,0,(b3788 or b2041)
+b2041,1,40.5581275,M,rfbB,361,"dTDP-glucose 4,6 dehydratase, NAD(P)-binding",c,FALSE,TDPGDH,1,0,(b3788 or b2041)
+b0915,1,35.5891447,M,lpxK,328,lipid A 4'kinase,c,FALSE,TDSK,0,0,b0915
+b3132,1,47.1922328,G,kbaZ,426,"tagatose 6-phosphate aldolase 1, kbaZ subunit",c,FALSE,TGBPA,1,2,((b3132 and b3137) or (b2095 and b2096))
+b3137,1,31.2935706,G,kbaY,286,"tagatose 6-phosphate aldolase 1, kbaY subunit",c,FALSE,TGBPA,1,2,((b3132 and b3137) or (b2095 and b2096))
+b2095,1,47.1085486,G,gatZ,420,"D-tagatose 1,6-bisphosphate aldolase 2, subunit",c,FALSE,TGBPA,1,2,((b3132 and b3137) or (b2095 and b2096))
+b2096,1,30.8118212,G,gatY,284,"D-tagatose 1,6-bisphosphate aldolase 2, catalytic subunit",c,FALSE,TGBPA,1,2,((b3132 and b3137) or (b2095 and b2096))
+b0166,1,29.8919726,E,dapD,274,"2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase",c,FALSE,THDPS,0,0,b0166
+b2480,1,17.6338703,O,bcp,156,"peroxiredoxin; thiol peroxidase, thioredoxin-dependent",c,FALSE,THIORDXi,2,2,((b2480 and b3781) or (b2480 and b2582) or b1710)
+b0068,1,36.163245,H,thiB,327,thiamin transporter subunit,cp,FALSE,THMabcpp,0,2,(b0068 and b0067 and b0066)
+b0067,1,59.5329458,P,thiP,536,fused thiamin transporter subunits of ABC superfamily: membrane components,cp,FALSE,THMabcpp,0,2,(b0068 and b0067 and b0066)
+b0066,1,24.9990665,H,thiQ,232,thiamin transporter subunit,cp,FALSE,THMabcpp,0,2,(b0068 and b0067 and b0066)
+b3616,1,37.2389468,ER,tdh,341,"threonine 3-dehydrogenase, NAD(P)-binding",c,FALSE,THRD,0,0,b3616
+b3117,1,35.2323034,E,tdcB,329,"catabolic threonine dehydratase, PLP-dependent",c,FALSE,THRD_L,1,0,(b3117 or b3772)
+b3772,1,56.1950284,E,ilvA,514,threonine deaminase,c,FALSE,THRD_L,1,0,(b3117 or b3772)
+b1719,1,74.0140638,J,thrS,642,threonyl-tRNA synthetase,c,TRUE,THRTRS,0,0,b1719
+b3823,1,22.4740188,E,rhtC,206,threonine efflux pump,cp,FALSE,THRt2pp,1,0,(b0813 or b3823)
+b3992,1,26.9697068,H,thiF,251,"adenylyltransferase, modifies ThiS C-terminus",c,FALSE,THZPSN3,0,4,(b2530 and b3992 and b3990 and b0423 and b4407)
+b3990,1,43.3199628,HR,thiH,377,"tyrosine lyase, involved in thiamin-thiazole moiety synthesis",c,FALSE,THZPSN3,0,4,(b2530 and b3992 and b3990 and b0423 and b4407)
+b0423,1,54.9728557,H,thiI,482,tRNA s(4)U8 sulfurtransferase,c,FALSE,THZPSN3,0,4,(b2530 and b3992 and b3990 and b0423 and b4407)
+b4407,1,7.3112706,H,thiS,66,immediate sulfur donor in thiazole formation,c,FALSE,THZPSN3,0,4,(b2530 and b3992 and b3990 and b0423 and b4407)
+b2935,2,72.2114799,G,tktA,663,"transketolase 1, thiamin-binding",c,FALSE,,,,
+b2465,2,73.0424077,G,tktB,667,"transketolase 2, thiamin-binding",c,FALSE,,,,
+b0996,2,43.6064139,C,torC,390,"trimethylamine N-oxide (TMAO) reductase I, cytochrome c-type subunit",cp,FALSE,,,,
+b0997,2,94.4555492,C,torA,848,"trimethylamine N-oxide (TMAO) reductase I, catalytic subunit",cp,FALSE,,,,
+b2827,1,30.47957,F,thyA,264,thymidylate synthetase,c,FALSE,TMDS,0,0,b2827
+b1106,1,32.3971381,M,thiK,274,thiamin kinase,c,FALSE,TMK,0,0,b1106
+b0417,1,35.070724,H,thiL,325,thiamin-monophosphate kinase,c,FALSE,TMPK,0,0,b0417
+b3993,1,23.0151695,H,thiE,211,thiamin phosphate synthase (thiamin phosphate pyrophosphorylase),c,FALSE,TMPPP,0,0,b3993
+b3919,1,26.9717185,G,tpiA,255,triosephosphate isomerase,c,FALSE,TPI,0,0,b3919
+b0613,1,31.6443502,H,citG,292,2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase,c,TRUE,TPRDCOAS,0,0,b0613
+b0888,1,34.622913,O,trxB,321,"thioredoxin reductase, FAD/NAD(P)-binding",c,FALSE,TRDR,1,2,((b3781 and b0888) or (b0888 and b2582))
+b4239,1,63.8374015,G,treC,551,trehalose-6-P hydrolase,c,FALSE,TRE6PH,0,0,b4239
+b1897,1,29.1751669,G,otsB,266,"trehalose-6-phosphate phosphatase, biosynthetic",c,FALSE,TRE6PP,0,0,b1897
+b1896,1,53.610909,G,otsA,474,trehalose-6-phosphate synthase,c,FALSE,TRE6PS,0,0,b1896
+b3519,1,63.6964287,G,treF,549,cytoplasmic trehalase,c,FALSE,TREH,0,0,b3519
+b1197,1,63.6364553,G,treA,565,periplasmic trehalase,p,FALSE,TREHpp,0,0,b1197
+b4240,1,51.0805675,G,treB,473,fused trehalose(maltose)-specific PTS enzyme: IIB component/IIC component,cp,FALSE,TREptspp,0,3,(b2417 and b2415 and b2416 and b4240)
+b1260,3,28.7240395,E,trpA,268,"tryptophan synthase, alpha subunit",c,FALSE,,,,
+b1261,3,42.9828812,E,trpB,397,"tryptophan synthase, beta subunit",c,FALSE,,,,
+b3384,1,37.4376802,J,trpS,334,tryptophanyl-tRNA synthetase,c,TRUE,TRPTRS,0,0,b3384
+b3709,1,45.2104728,E,tnaB,415,tryptophan transporter of low affinity,cp,FALSE,TRPt2rpp,3,0,(b3161 or b3709 or b1473 or b0112)
+b0509,1,30.8004871,I,glxR,292,"tartronate semialdehyde reductase, NADH-dependent",c,FALSE,TRSARr,1,0,(b0509 or b3125)
+b3125,1,30.4273654,I,garR,294,tartronate semialdehyde reductase,c,FALSE,TRSARr,1,0,(b0509 or b3125)
+b3991,1,26.8960036,H,thiG,256,thiamin biosynthesis ThiGH complex subunit,c,FALSE,TYRL,0,0,b3991
+b1637,1,47.526769,J,tyrS,424,tyrosyl-tRNA synthetase,c,TRUE,TYRTRS,0,0,b1637
+b1907,1,42.8189527,E,tyrP,403,tyrosine transporter,cp,FALSE,TYRt2rpp,3,0,(b1473 or b1907 or b0112 or b0576)
+b0179,1,36.0384005,M,lpxD,341,UDP-3-O-(3-hydroxymyristoyl)-glucosamine N-acyltransferase,c,FALSE,U23GAAT,0,0,b0179
+b0085,1,53.3434173,M,murE,495,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:meso-diaminopimelate ligase,c,FALSE,UAAGDS,0,0,b0085
+b3787,1,45.8385718,M,wecC,420,UDP-N-acetyl-D-mannosaminuronic acid dehydrogenase,c,FALSE,UACMAMO,0,0,b3787
+b3786,1,42.2444275,M,wecB,376,UDP-N-acetyl glucosamine-2-epimerase,c,FALSE,UAG2E,0,0,b3786
+b0181,1,28.0798903,M,lpxA,262,UDP-N-acetylglucosamine acetyltransferase,c,FALSE,UAGAAT,0,1,(b1094 and b0181)
+b3189,1,44.8174903,M,murA,419,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,c,FALSE,UAGCVT,0,0,b3189
+b0090,1,37.8145781,M,murG,355,N-acetylglucosaminyl transferase,c,FALSE,UAGPT3,0,0,b0090
+b0088,1,46.9734724,M,murD,438,UDP-N-acetylmuramoyl-L-alanine:D-glutamate ligase,c,FALSE,UAMAGS,0,0,b0088
+b0091,1,53.6257564,M,murC,491,UDP-N-acetylmuramate:L-alanine ligase,c,FALSE,UAMAS,0,0,b0091
+b3972,1,37.8508685,M,murB,342,"UDP-N-acetylenolpyruvoylglucosamine reductase, FAD-binding",c,FALSE,UAPGR,0,0,b3972
+b0841,2,22.3985647,I,ybjG,198,undecaprenyl pyrophosphate phosphatase,"c,p",FALSE,,,,
+b3057,2,29.7586695,V,bacA,273,undecaprenyl pyrophosphate phosphatase,"c,p",FALSE,,,,
+b0174,1,28.4440207,I,ispU,253,undecaprenyl pyrophosphate synthase,c,FALSE,UDCPDPS,0,0,b0174
+b0759,1,37.2649607,M,galE,338,UDP-galactose-4-epimerase,c,FALSE,UDPG4E,0,0,b0759
+b2036,1,42.9656631,M,glf,367,"UDP-galactopyranose mutase, FAD/NAD(P)-binding",c,TRUE,UDPGALM,0,0,b2036
+b2028,1,43.6566961,M,ugd,388,UDP-glucose 6-dehydrogenase,c,FALSE,UDPGD,0,0,b2028
+b2255,2,74.288566,J,arnA,660,fused UDP-L-Ara4N formyltransferase/UDP-GlcA C-4'-decarboxylase,c,FALSE,,,,
+b2253,1,41.6496878,M,arnB,379,"uridine 5'-(beta-1-threo-pentapyranosyl-4-ulose diphosphate) aminotransferase, PLP-dependent",c,FALSE,UDPKAAT,0,0,b2253
+b0758,1,39.6455171,C,galT,348,galactose-1-phosphate uridylyltransferase,c,FALSE,UGLT,0,0,b0758
+b0505,1,18.1694754,F,allA,160,ureidoglycolate hydrolase,c,FALSE,UGLYCH,0,0,b0505
+b0086,1,47.4469629,M,murF,452,UDP-N-acetylmuramoyl-tripeptide:D-alanyl-D-alanine ligase,c,FALSE,UGMDDS,0,0,b0086
+b0096,1,33.9557973,M,lpxC,305,UDP-3-O-acyl N-acetylglucosamine deacetylase,c,FALSE,UHGADA,0,0,b0096
+b4544,1,12.1919146,,arnE,111,undecaprenyl phosphate-alpha-L-ara4N exporter; flippase ArnEF subunit,cp,FALSE,ULA4Ntppi,0,1,(b4544 and b2258)
+b2258,1,14.0851457,,arnF,128,undecaprenyl phosphate-alpha-L-ara4N exporter; flippase ArnEF subunit,cp,FALSE,ULA4Ntppi,0,1,(b4544 and b2258)
+b4233,2,49.8739568,M,mpl,457,UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase,c,FALSE,,,,
+b0171,1,25.9701911,F,pyrH,241,uridylate kinase,c,FALSE,UMPK,1,0,(b0910 or b0171)
+b2256,1,33.1116534,G,arnD,296,undecaprenyl phosphate-alpha-L-ara4FN deformylase,c,FALSE,UPLA4FNF,0,0,b2256
+b2254,1,36.339014,M,arnC,322,undecaprenyl phosphate-L-Ara4FN transferase,c,FALSE,UPLA4FNT,0,0,b2254
+b3803,1,42.9628267,H,hemX,393,putative uroporphyrinogen III methyltransferase,c,FALSE,UPP3MT,1,0,(b3803 or b3368)
+b3804,1,27.7978254,H,hemD,246,uroporphyrinogen III synthase,c,FALSE,UPP3S,0,0,b3804
+b3997,1,39.2479895,H,hemE,354,uroporphyrinogen decarboxylase,c,FALSE,UPPDC1,0,0,b3997
+b2498,1,22.5331795,F,upp,208,uracil phosphoribosyltransferase,c,FALSE,UPPRT,0,0,b2498
+b1011,1,25.2085581,Q,rutB,230,ureidoacrylate amidohydrolase,c,FALSE,URACPAH,0,0,b1011
+b2497,1,45.0599485,F,uraA,429,uracil permease,cp,FALSE,URAt2pp,0,0,b2497
+b1006,1,45.557258,F,rutG,442,pyrimidine permease,cp,FALSE,URAt2rpp,0,0,b1006
+b0517,1,37.9669898,C,allD,349,ureidoglycolate dehydrogenase,c,FALSE,URDGLYCD,0,0,b0517
+b0524,1,26.8940815,S,lpxH,240,"UDP-2,3-diacylglucosamine pyrophosphatase",c,FALSE,USHD,0,0,b0524
+b4258,1,108.1919409,J,valS,951,valyl-tRNA synthetase,c,TRUE,VALTRS,0,0,b4258
+b2683,1,12.0234998,,ygaH,111,"putative L-valine exporter, norvaline resistance",cp,FALSE,VALt2rpp,1,1,(b0401 or (b2683 and b2682))
+b2682,1,26.1075949,E,ygaZ,245,"putative L-valine exporter, norvaline resistance",cp,FALSE,VALt2rpp,1,1,(b0401 or (b2683 and b2682))
+b3572,1,46.7110703,E,avtA,417,valine-pyruvate aminotransferase 1,c,FALSE,VPAMTr,0,0,b3572
+b4197,1,32.0065299,G,ulaE,284,L-xylulose 5-phosphate 3-epimerase,c,FALSE,X5PL3E,0,0,b4197
+b2882,1,49.1081007,F,xanQ,466,xanthine permease,cp,FALSE,XANt2pp,1,0,(b3654 or b2882)
+b3565,2,49.7418047,G,xylA,440,D-xylose isomerase,c,FALSE,,,,
+b3577,1,17.5157984,G,yiaM,157,"L-dehydroascorbate transporter, TRAP permease small subunit for TRAP (TRipartite ATP-independent Periplasmic) family transporter YiaMNO",cp,FALSE,XYLUt2pp,0,2,(b3577 and b3578 and b3579)
+b3578,1,45.3680153,G,yiaN,425,"L-dehydroascorbate transporter, TRAP permease large subunit for TRAP (TRipartite ATP-independent Periplasmic) family transporter YiaMNO",cp,FALSE,XYLUt2pp,0,2,(b3577 and b3578 and b3579)
+b3579,1,35.969931,G,yiaO,328,"L-dehydroascorbate transporter, periplasmic binding protein for TRAP (TRipartite ATP-independent Periplasmic) family transporter YiaMNO",cp,FALSE,XYLUt2pp,0,2,(b3577 and b3578 and b3579)
+b3566,1,35.7338857,G,xylF,330,D-xylose transporter subunit,cp,FALSE,XYLabcpp,0,2,(b3566 and b3567 and b3568)
+b3567,1,56.4702084,G,xylG,513,fused D-xylose transporter subunits of ABC superfamily: ATP-binding components,cp,FALSE,XYLabcpp,0,2,(b3566 and b3567 and b3568)
+b3568,1,41.0307128,G,xylH,393,D-xylose ABC transporter permease subunit,cp,FALSE,XYLabcpp,0,2,(b3566 and b3567 and b3568)
+b4031,1,53.607849,,xylE,491,D-xylose transporter,cp,FALSE,XYLt2pp,0,0,b4031
+b1857,1,33.7772306,P,znuA,310,zinc transporter subunit: periplasmic-binding component of ABC superfamily,cp,FALSE,ZNabcpp,0,2,(b1857 and b1859 and b1858)
+b1859,1,27.7285743,P,znuB,261,zinc transporter subunit: membrane component of ABC superfamily,cp,FALSE,ZNabcpp,0,2,(b1857 and b1859 and b1858)
+b1858,1,27.8673577,P,znuC,251,zinc transporter subunit: ATP-binding component of ABC superfamily,cp,FALSE,ZNabcpp,0,2,(b1857 and b1859 and b1858)

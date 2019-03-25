@@ -9,3 +9,7 @@ import(
   sybil,
   Matrix
 )
+
+importFrom("methods", "as", "callNextMethod", "validObject")
+  importFrom("stats", "median")
+  importFrom("utils", "read.table", "str", "write.csv")

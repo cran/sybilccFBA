@@ -1,5 +1,33 @@
 sybilccFBA Version History
 
+# ------------------------------------------------------- #
+Version 3.0.0    2018-11-11
+# ------------------------------------------------------- #
+
+- Add function getccFBA_mat that gets the model of ccFBA 
+  as a matrix and includes protein complex stoichiometry.
+
+- Add function getGpr1iso that preprocesses the metabolic 
+model to get for any catalysed reaction by set of isoenzymes
+the one iso enzyme (i.e the smallest Molecular Weight)
+
+- Add runFVA option to cfba_moment_mr to get flux variability.
+
+- Add parameter C_mu_coef that is used to have C as a linear 
+function of mu (biomass) : C = RHS + C_mu_coef*Biomass.
+
+- Add function simulate_EColi to combine different functions 
+  and show a test case for them.
+- Add iML1515 data model
+- Add Kcat lists for EColi and molecular weight for iML1515 model
+
+# ------------------------------------------------------- #
+Version 2.0.0    2015-04-01
+# ------------------------------------------------------- #
+
+- Add function cfba_moment_mr that included modelling of multi-functional
+    enzymes
+- Adjust documentation of other methods
 
 # ------------------------------------------------------- #
 Version 1.0.0    2014-03-31
