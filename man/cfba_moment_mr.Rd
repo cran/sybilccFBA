@@ -107,7 +107,7 @@ sybil–Efficient constraint-based modelling in R. BMC systems biology, 7(1), 12
 	uppbnd(mod2)[react_id(mod2)=="R_EX_o2_e__b"]=1000
 	lowbnd(mod2)[react_id(mod2)=="R_ATPM"]=0
 
-  sol_mr=cfba_moment_mr(model,mod2,kcat,MW=mw,verbose=3,RHS=0.27,solver="glpkAPI",medval=3600*22.6) 
+  sol_mr=cfba_moment_mr(model,mod2,kcat,MW=mw,verbose=2,RHS=0.27,solver="glpkAPI",medval=3600*22.6) 
    bm_rxn = which(obj_coef(mod2)!=0)
    print(sprintf('biomass=\%f',sol_mr$sol$fluxes[bm_rxn]))
   # Enzyme concentrations:

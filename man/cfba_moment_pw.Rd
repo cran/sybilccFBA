@@ -86,7 +86,7 @@ with Kinetic Parameters, 8(7). doi:10.1371/journal.pcbi.1002575}
 	uppbnd(mod2)[react_id(mod2)=="R_EX_o2_e__b"]=1000
 	lowbnd(mod2)[react_id(mod2)=="R_ATPM"]=0
 
-  sol=cfba_moment(model,mod2,kcat,MW=mw,verbose=3,RHS=0.27,solver="glpkAPI",medval=3600*22.6) 
+  sol=cfba_moment(model,mod2,kcat,MW=mw,verbose=2,RHS=0.27,solver="glpkAPI",medval=3600*22.6) 
 
 }% end dontrun
 }

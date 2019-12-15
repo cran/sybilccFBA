@@ -259,7 +259,8 @@ if(length(objVal)>0){	#test value of upper bound
 	
 	##############################################	
 	if (verboseMode > 2) {                      
-				            fname=format(Sys.time(), "momentPW_%Y%m%d_%H%M.lp");
+				            # fname=format(Sys.time(), "momentPW_%Y%m%d_%H%M.lp"); Caused problem in cran 14/12/2019
+				            fname=sprintf("momentPW_%s.lp",mod_id(model));
 					       print(sprintf("Writing the problem to: %s/%s...",getwd(),fname));
 		                	writeProb(lp=problem(prob), fname)
 							if(solver=="cplexAPI" && verboseMode > 3){

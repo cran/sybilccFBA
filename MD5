@@ -1,11 +1,11 @@
-ed9859b1ff9ed97c8aebebccd3811380 *DESCRIPTION
+c7d321d6440142993dacd376e41f5cf6 *DESCRIPTION
 5457cf6d82ceb63d37c618842e652dc3 *NAMESPACE
-749eeca969e999b83a150421fff4b708 *NEWS
+24ad22c57e90a3d4acd36c6134584395 *NEWS
 52aaaf230c54ea357a2b21067e80faaa *R/addGlcTrns.R
 e69337531e653208a06704cbe9c7c411 *R/calc_MW.R
 aa47d0aafbe5f6aa4996e14a758558ed *R/cfba_moment.R
 b1efbd144cf79cad7ae7d0d7be9f9d61 *R/cfba_moment_mr.R
-71338d62f7e847cb9acf28db3c3b059c *R/cfba_moment_pw.R
+114a90357a1a3c175b84e13229378cde *R/cfba_moment_pw.R
 e8e68765a14bb72e9cbedbf727858b80 *R/getGpr1iso.R
 71e57b2897caea8c4d336c4ddc6cbfb0 *R/getRevFlux.R
 65f3b77785932720b20f113c4065b2f4 *R/getccFBA_mat.R
@@ -38,9 +38,9 @@ fba490bb3cfb0fb52452a2e3eccd5d56 *inst/extdata/test2.ptt
 245c9b574224c6594371ea19f0b73935 *inst/extdata/yst_genedef.csv
 9b737d15ac486143311207941a48ca84 *man/addGlcTrns.Rd
 99cef27253ed6dfe4eda4285aa1eff6b *man/calc_MW.Rd
-940582521961d72f1d0da9e96a5edf9e *man/cfba_moment.Rd
-e85ee6f0a964d5e6d1a8d278c383bc71 *man/cfba_moment_mr.Rd
-973dc1c2b793bac238d6be7dd7a7931a *man/cfba_moment_pw.Rd
+d567f82a6c1dca69f28bc043c3963a2a *man/cfba_moment.Rd
+baa0c382793f082eb5fd700d641bc1df *man/cfba_moment_mr.Rd
+5cd405c2d9eb81cd27c070b9b3059677 *man/cfba_moment_pw.Rd
 3cec76a151b35b6f6fc87d8ef20dd219 *man/getGpr1iso.Rd
 8ad4bfe932353b0a5e63df5cf7f51785 *man/getRevFlux.Rd
 822ea58c293742eae3236ca17e61f161 *man/getccFBA_mat.Rd
